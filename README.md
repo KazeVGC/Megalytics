@@ -4,3 +4,4 @@ Get the Token Here: https://discord.com/developers/applications
 https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
 
 Download and execute the .jar in the Megalytics folder.
+To Execute the .jar you need Java 1.7 installed.
