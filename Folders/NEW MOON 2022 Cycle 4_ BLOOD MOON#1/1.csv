@@ -1,0 +1,25 @@
+Master S1X,,,,,
+MasteRioniX.S1X#7335,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,SuprArmr,image
+1,ElmntMan,*,,Custom1,HP+500
+1,JudgeMnSP,J,,FldrPak2,Charge+1
+1,EraseMan,*,,Rush,
+1,TenguMan,*,,BugStop,
+1,SpoutMnSP,A,,UnderSht,
+1,SpoutMan,*,,MegFldr1,
+1,GrndMan,*,,,
+1,ProtoMan,*,,,
+1,Atk+30,*,,,
+2,WhiCapsl,*,[TAG],,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+3,Invisibl,*,,CellImage,
+1,GrabRvng,I,,,
+3,AreaGrab,*,,,
+2,Recov300,J,,,
+1,M-Boomer,I,,,
+2,AquaNdl3,A,[REG],,
+1,WindRack,*,[TAG],,
+2,IceSeed,*,,,

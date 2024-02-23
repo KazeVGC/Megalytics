@@ -1,0 +1,25 @@
+Maple,,,,,
+MapleButter#6565,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BblStar3,G,,SuprArmr,https://imgur.com/a/huBkcrC
+1,Static,G,[REG],Custom1,AttckMAX
+1,WindRack,*,,Custom2,ChargMAX
+1,HeatDrgn,G,,UnderSht,HP+400
+1,WoodDrgn,G,,,HP+500
+2,Recov300,J,,,
+4,AreaGrab,*,,,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,CellImage,
+2,SloGauge,*,,,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Uninstll,G,,,
+1,EraseMan,*,,,
+1,GrndManSP,G,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,DeltaRay,Z,,,

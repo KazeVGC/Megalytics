@@ -1,0 +1,26 @@
+Thiago,,,,,
+Thiago#6352,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,Custom2,image
+1,ElmntMan,*,,SuprArmr,HP+500
+1,JudgeMan,*,,Custom1,HP+400
+1,EraseMnSP,K,,UnderSht,AttckMAX
+1,EraseMan,*,,,ChargMAX
+1,GrndManSP,G,,,
+1,Uninstll,G,,,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+2,Invisibl,*,,,
+1,BugFix,*,,,
+1,GrabBnsh,M,,,
+4,AreaGrab,*,,CellImage,
+2,Recov300,J,,,
+2,WoodDrgn,G,,,
+1,HeatDrgn,G,,,
+1,Muramasa,M,,,
+1,WindRack,*,,,
+1,MachGun1,*,,,
+1,Static,G,[REG],,
+1,RskyHny3,M,,,
+2,BblStar3,G,,,

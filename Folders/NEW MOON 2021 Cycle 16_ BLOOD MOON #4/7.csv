@@ -1,0 +1,24 @@
+BlueStar,,,,,,,
+BlueStar #1988,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BugFix,*,,Custom1,https://imgur.com/a/VgKPaGV,Viney,24
+2,AntiDmg,*,,UnderSht,Attack+1,ScareCrow,14
+1,LifeAur,U,,,Attack+1,Jelly,13
+2,AreaGrab,*,[TAG],,HP+400,Walla,12
+1,JudgeMan,*,,,HP+400,Heavy,15
+1,ElmntMan,*,,,HP+400,,
+1,Gregar,X,,,HP+400,,
+1,BusterUp,*,[REG],,,,
+1,Uninstll,G,,,,,
+1,GrndManSP,G,,,,,
+1,BlastMnSP,B,,,,,
+2,WoodDrgn,G,,,,,
+3,Rflectr3,*,,CellImage,,,
+2,Invisibl,*,,,,,
+2,Barr100,O,,,,,
+2,Recov300,O,,,,,
+2,GrabBnsh,B,,,,,
+1,MachGun2,G,,,,,
+2,WindRack,*,[TAG],,,,
+1,EraseMan,*,,,,,

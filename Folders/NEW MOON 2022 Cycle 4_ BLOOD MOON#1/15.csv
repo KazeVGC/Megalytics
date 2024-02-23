@@ -1,0 +1,23 @@
+Isabelle Drillarm Witch ,,,,,
+Tri#2270,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Uninstll,G,,FstBarr,image
+2,Geddon,*,,SuprArmr,ChargMAX
+3,DrilArm,W,,Custom1,HP+300
+2,GunDelS3,W,,Custom2,HP+400
+1,TenguMan,*,,BugStop,
+1,SumnBlk3,W,,Rush,
+1,GrabRvng,Z,,,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,MachGun1,*,[REG],CellImage,
+1,BambSwrd,W,,,
+2,Magnum,W,,,
+3,AreaGrab,*,[TAG],,
+1,Barr200,W,[TAG],,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElecMan,*,,,
+1,HubBatc,J,,,
+1,LifeAur,U,,,

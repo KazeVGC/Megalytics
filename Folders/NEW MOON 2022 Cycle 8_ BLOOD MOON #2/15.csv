@@ -1,0 +1,26 @@
+Thiago,,,,,
+Thiago#6352,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BgDthThd,V,,SuprArmr,https://cdn.discordapp.com/attachments/537119295721963520/968011564005326878/unknown.png
+1,HubBatc,J,,GigFldr1,HP+400
+1,ElmntMan,*,,FstBarr,HP+400
+1,JudgeMan,*,,BugStop,
+1,EraseMnSP,K,,Rush,
+1,EraseMan,*,,Beat,
+1,GrndManSP,G,,,
+1,Uninstll,G,,,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+1,Barr200,K,,,
+2,Invisibl,*,,,
+1,FullCust,*,[REG],,
+2,SloGauge,*,,,
+1,Geddon,*,,CellImage,
+1,GrabRvng,Z,,,
+4,AreaGrab,*,,,
+2,Recov300,J,,,
+1,HeatDrgn,G,,,
+1,WindRack,*,[TAG],,
+1,MachGun1,*,[TAG],,
+2,BblStar3,G,,,

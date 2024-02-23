@@ -1,0 +1,23 @@
+M-Den,,,,,
+M-Den#1296,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,PoisSeed,*,,SuprArmr,https://imgur.com/a/EMjd9gk
+2,WindRack,*,[TAG],Custom1,AttckMAX
+1,Anubis,P,,UnderSht,ChargMAX
+2,Recov300,J,,,HP+300
+1,PanlGrab,*,,,HP+400
+5,AreaGrab,*,[TAG],,HP+500
+1,GrabRvng,Q,,CellImage,
+1,PnlRetrn,*,[REG],,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,Barr200,K,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

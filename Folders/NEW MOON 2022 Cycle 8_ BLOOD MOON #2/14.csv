@@ -1,0 +1,25 @@
+Master S1X,,,,,
+MasteRioniX.S1X#7335,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugRSwrd,V,,BugStop,https://cdn.discordapp.com/attachments/871393514506817577/967997305632460820/ncp.png
+1,ElmntMan,*,,AirShoes,HP+300
+1,JudgeMan,*,,Custom2,HP+500
+1,EraseMan,*,,UnderSht,Charge+1
+1,TenguMnSP,T,,SuprArmr,
+1,TmhkManSP,T,,,
+1,WhiCapsl,*,,,
+1,AntiSwrd,*,,,
+3,AntiDmg,*,,,
+1,AntiNavi,*,,,
+1,LifeAur,U,,,
+3,Invisibl,*,,,
+1,SloGauge,*,,,
+1,Snctuary,Z,,CellImage,
+1,GrabRvng,Z,,,
+5,AreaGrab,*,,,
+2,Recov300,J,,,
+1,CircGun,T,,,
+1,WoodDrgn,T,,,
+1,HeatDrgn,T,,,
+1,WindRack,*,[REG],,

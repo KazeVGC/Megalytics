@@ -1,0 +1,28 @@
+playerzero,,,,,,,
+playerzero#2208,,,,Falzar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BugFix,*,,Custom1,Link to URL,Twisty & Remobit,9
+1,LifeAur,U,,Rush,HP+500,SnakeArm,11
+1,GrndMan,*,,UnderSht,HP+400,Numbers,17
+1,Uninstll,L,,,HP+300,Needler,10
+2,ElecDrgn,L,,,HP+300,Miney,12
+1,MachGun1,*,,,Attack+1,Satella,8
+1,AntiNavi,*,,,Attack+1,Totem,13
+1,GrabRvng,Z,,,,,
+2,SloGauge,*,,,,,
+1,FullCust,*,[REG],,,,
+1,BblStar2,L,,,,,
+3,Invisibl,*,,,,,
+2,Recov300,J,,,,,
+2,AntiDmg,*,,,,,
+1,NeoVari,N,,,,,
+1,WindRack,*,,,,,
+1,SpoutMnSP,A,,CellImage,,,
+1,EraseMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,JudgeMnSP,J,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,
+1,HubBatc,J,,,,,
+1,Falzar,X,,,,,

@@ -1,0 +1,26 @@
+Apples,,,,,
+Apples#0034,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SloGauge,*,,SuprArmr,https://drive.google.com/file/d/1GbZDaIjiXJCRvvKQwVUvPkfQzdTaVBKy/view
+4,AreaGrab,*,,Custom1,ChargMAX
+1,MachGun2,G,[TAG],AirShoes,AttckMAX
+1,BblStar3,G,,UnderSht,HP+500
+1,HeatDrgn,G,,BugStop,
+1,WoodDrgn,G,,Rush,
+2,WindRack,*,[REG],,
+1,GrabRvng,Q,,,
+1,Uninstll,G,,,
+1,WhiCapsl,*,[TAG],,
+1,Atk+30,*,,CellImage,
+1,LifeAur,U,,,
+1,Snctuary,Z,,,
+3,Invisibl,*,,,
+1,AntiNavi,*,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,BlastMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

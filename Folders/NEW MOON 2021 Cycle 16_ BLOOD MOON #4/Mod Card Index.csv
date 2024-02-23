@@ -1,0 +1,140 @@
+ID,Name,Serial No.,Hex ID,Size,Positive Effects,Negative Effects
+#001,Canodumb,137-A001,01,10,"Attack+1
+Charged Shot: MegaCannon 
+    - Null, 180 AP
+    - 120i charge time",HP-40
+#002,Mollusk/Ammonicule,137-A002,02,16,AquaBody
+HP+80
+First: BubbleWrap,Attack-1
+#003,ColdBear,137-A003,03,18,AquaBody
+HP+140
+Charged Shot: IceCube
+    - spawns an Aqua element Ice Cube
+    - 150i charge time,Bug: Panel Bug (moving around has a chance to spawn Ice Panels)
+#004,Miney,137-A004,04,12,Attack+3,FloatShoes OFF
+AirShoes OFF
+#005,Heady,137-A005,05,20,Charge+4
+First: Barrier100
+Airshoes ON,HP-80
+#006,MetFire,137-A006,06,20,"FireBody
+Normal Shot: Meteor1
+    - Fire, 30 AP",Bug: Processing Bug
+#007,KillPlant,137-A007,07,19,"WoodBody
+Charged Shot: GrassSeed
+    - Wood, 10 AP
+    - 70i charge time",AirShoes OFF
+#008,Shadow,137-A008,08,6,"Normal Shot: Sword
+    - Sword, 80 AP
+Charged Shot: Invisible
+    - 120i duration
+    - 140i charge time",StatusGuard OFF
+#009,Beetle,137-A009,09,11,,
+#010,Heavy,137-A010,0A,15,,
+#011,Viney,137-A011,0B,24,,
+#012,Slimey,137-A012,0C,12,,
+#013,Volcano,137-A013,0D,10,,
+#014,Numbers,137-A014,0E,17,,
+#015,MagTect,137-A015,0F,15,,
+#016,Spidey,137-A016,10,8,,
+#017,Bomboy,137-A017,11,14,,
+#018,WuNote,137-A018,12,13,,
+#019,Flashy,137-A019,13,11,,
+#020,EleOgre,137-A020,14,16,,
+#021,OldStove,137-A021,15,12,,
+#022,Puffy (BN6),137-A022,16,11,,
+#023,Starfish,137-A023,17,15,,
+#024,BigHat,137-A024,18,8,,
+#025,ScareCrow,137-A025,19,14,,
+#026,FighterPlane,137-A026,1A,20,,
+#027,Cragger,137-A027,1B,19,,
+#028,Armadillo,137-A028,1C,12,,
+#029,Kettle,137-A029,1D,15,,
+#030,EarthDragon,137-A030,1E,20,,
+#031,NumberMan,137-A031,1F,35,,
+#032,IceMan,137-A032,20,25,,
+#033,SkullMan,137-A033,21,30,,
+#034,ShadowMan,137-A034,22,38,,
+#035,CutMan,137-A035,23,32,,
+#036,KnightMan,137-A036,24,45,,
+#037,ToadMan,137-A037,25,34,,
+#038,MagnetMan,137-A038,26,37,,
+#039,PlanetMan,137-A039,27,40,,
+#040,BeastMan,137-A040,28,33,,
+#041,DesertMan,137-A041,29,36,,
+#042,YamatoMan/JapanMan,137-A042,2A,35,,
+#043,VideoMan,137-A043,2B,32,,
+#044,BurnerMan,137-A044,2C,29,,
+#045,StarMan,137-A045,2D,32,,
+#046,BlizzardMan,137-A046,2E,30,,
+#047,LarkMan,137-A047,2F,36,,
+#048,SlashMan,137-A048,30,31,,
+#049,EraseMan,137-A049,31,40,,
+#050,GroundMan,137-A050,32,43,,
+#051,DustMan,137-A051,33,37,,
+#052,BlastMan,137-A052,34,28,,
+#053,CircusMan,137-A053,35,43,,
+#054,Handy,137-B001,36,16,,
+#055,Puffy (BN1),137-B002,37,12,,
+#056,Jelly,137-B003,38,13,,
+#057,Dynamyte/Poitton,137-B004,39,13,,
+#058,Satella,137-B005,3A,8,,
+#059,Twisty & Remobit,137-B006,3B,9,,
+#060,Sparky/Shakey,137-B007,3C,8,,
+#061,Octon,137-B008,3D,14,,
+#062,ShellGeek,137-B009,3E,8,,
+#063,Magneaker,137-B010,3F,7,,
+#064,Metrid,137-B011,40,15,,
+#065,Momogra,137-B012,41,6,,
+#066,Needler,137-B013,42,10,,
+#067,Twins,137-B014,43,15,,
+#068,Walla,137-B015,44,12,,
+#069,Kilby,137-B016,45,24,,
+#070,Totem,137-B017,46,13,,
+#071,CannonGuard,137-B018,47,10,,
+#072,Skarab,137-B019,48,7,,
+#073,Draggin,137-B020,49,11,,
+#074,Marina,137-B021,4A,14,,
+#075,HauntedCandle,137-B022,4B,12,,
+#076,Gunner,137-B023,4C,11,,
+#077,PulseBulb,137-B024,4D,13,,
+#078,BombCorn,137-B025,4E,16,,
+#079,Shrubby,137-B026,4F,6,,
+#080,HoneyBomber,137-B027,50,12,,
+#081,NightMare,137-B028,51,5,,
+#082,SnakeArm,137-B029,52,11,,
+#083,DarkMech,137-B030,53,22,,
+#084,StoneMan,137-B031,54,45,,
+#085,ColorMan,137-B032,55,32,,
+#086,SharkMan,137-B033,56,35,,
+#087,PharaohMan,137-B034,57,35,,
+#088,AirMan,137-B035,58,34,,
+#089,FreezeMan,137-B036,59,30,,
+#090,ThunderMan,137-B037,5A,36,,
+#091,NapalmMan,137-B038,5B,39,,
+#092,PlantMan,137-B039,5C,42,,
+#093,MistMan,137-B040,5D,37,,
+#094,BowlMan,137-B041,5E,30,,
+#095,DarkMan,137-B042,5F,25,,
+#096,TopMan,137-B043,60,28,,
+#097,KendoMan,137-B044,61,38,,
+#098,ColdMan,137-B045,62,34,,
+#099,SearchMan,137-B046,63,37,,
+#100,CloudMan,137-B047,64,40,,
+#101,GridMan,137-B048,65,48,,
+#102,ChargeMan,137-B049,66,31,,
+#103,TenguMan,137-B050,67,34,,
+#104,DiveMan,137-B051,68,42,,
+#105,JudgeMan,137-B052,69,38,,
+#106,ElementMan,137-B053,6A,33,,
+#107,Punk,137-C001,6B,50,,
+#108,Dark MegaMan,137-C002,6C,80,,
+#109,Soul Battler's Customization,137-C003,6D,66,,
+#110,Famous' Customization,137-C004,6E,69,,
+#111,Bass BX,137-C005,6F,70,,
+#112,Django,137-C006,70,52,,
+#113,Count,137-C007,71,60,,
+#114,Mega Man Zero,137-C008,72,45,,
+#115,Cybeast Gregar,137-C009,73,70,,
+#116,Cybeast Falzar,137-C010,74,70,,
+#117,Bass-Cross MegaMan (G),136-D001,75,70,,
+#117,Bass-Cross MegaMan (F),136-D001,75,70,,

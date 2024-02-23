@@ -1,0 +1,27 @@
+ShironaNep,,,,,,,
+ShironaNep#3074,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BblStar3,G,,SuprArmr,image,LarkMan,36
+1,Static,G,[REG],Custom1,HP+500,Numbers,17
+2,MachGun2,G,,UnderSht,HP+400,Totem,13
+1,WindRack,*,,,HP+400,Jelly,13
+1,WoodDrgn,G,,,AttckMAX,,
+3,AreaGrab,*,[TAG],,,,
+1,GrabRvng,Q,[TAG],,,,
+1,SloGauge,*,,,,,
+1,BugFix,*,,,,,
+3,Invisibl,*,,,,,
+1,LifeAur,U,,,,,
+3,AntiDmg,*,,,,,
+1,Uninstll,G,,,,,
+1,GunDelEX,G,,,,,
+1,EraseMan,*,,,,,
+1,EraseMnSP,K,,CellImage,,,
+1,GrndManSP,G,,,,,
+1,JudgeMnSP,J,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,
+1,ColForce,Q,,,,,
+1,Gregar,X,,,,,

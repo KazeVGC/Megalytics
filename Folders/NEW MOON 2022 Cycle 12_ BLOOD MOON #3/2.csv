@@ -1,0 +1,25 @@
+Master S1X,,,,,
+MasteRioniX.S1X#7335,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Hubbatc,J,,SuprArmr,https://media.discordapp.net/attachments/871393514506817577/995679680487231569/Screenshot_2022-07-10-21-02-16-97_0cd1d9e79bafeeb4e1612e3db026cb2e.jpg
+1,ElmntMan,*,,Rush,HP+500
+1,EraseMan,*,,Beat,HP+500
+1,JudgeMan,*,,FstBarr,Speed+1
+1,JudgeMnSP,J,,MegFldr1,Speed+1
+1,Roll3,R,,,ChargMAX
+1,ElmntMnSP,E,,,
+3,AntiDmg,*,,,
+1,BugFix,*,,,
+1,LifeAur,U,,,
+1,Atk+30,*,,,
+3,Invisibl,*,,,
+1,FstGauge,*,,,
+1,GrabBnsh,M,[REG],,
+3,AreaGrab,*,,,
+3,MachGun3,M,[TAG],CellImage,
+1,Muramasa,M,,,
+1,DrilArm,M,,,
+1,AirHocky,M,[TAG],,
+2,RskyHny3,M,,,
+1,DblPoint,*,,,

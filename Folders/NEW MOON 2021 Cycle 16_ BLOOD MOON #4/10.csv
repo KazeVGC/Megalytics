@@ -1,0 +1,25 @@
+des,,,,,,,
+Desmond#1161,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,MachGun1,*,,Custom1,https://ibb.co/9Zz380Y,Totem,13
+2,WindRack,*,,UnderSht,HP+300,Satella,8
+4,AreaGrab,*,[TAG],Rush,HP+300,VideoMan,32
+1,GrabRvng,Q,[TAG],,HP+300,Needler,10
+2,FstGauge,*,[REG],,HP+400,Numbers,17
+1,FullCust,*,,,Attack+1,,
+3,Invisibl,*,,,Attack+1,,
+1,Barr200,W,,,Attack+1,,
+1,LifeAur,U,,,ChargMAX,,
+3,AntiDmg,*,,,,,
+1,Uninstll,G,,,,,
+1,Atk+30,*,,,,,
+1,ProtoMnSP,B,,,,,
+1,EraseMan,*,,CellImage,,,
+1,GrndManSP,G,,,,,
+1,BlastMnSP,B,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,
+1,ColForce,Q,,,,,
+1,Gregar,X,,,,,

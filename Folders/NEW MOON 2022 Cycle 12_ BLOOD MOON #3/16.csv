@@ -1,0 +1,24 @@
+crewmars,,,,,
+mars#9327,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,Rush,https://cdn.discordapp.com/attachments/278631146261184513/995878977392623678/sus-cust-mars.png
+1,SpoutMnSP,A,,,HP+500
+1,GrabBnsh,M,[REG],,HP+400
+2,Recov300,O,,,Speed+1
+1,NeoVari,N,,,Speed+1
+1,GrndManSP,G,,,Speed+1
+1,SloGauge,*,,,ChargMAX
+1,LifeAur,U,,,Attack+1
+1,GrabBnsh,S,,,Attack+1
+5,AreaGrab,*,[TAG],,Attack+1
+1,SlashMnSP,S,,,Attack+1
+1,Barr200,U,,,
+1,MachGun2,S,,CellImage,
+2,WindRack,*,,,
+1,EraseMan,*,,,
+1,ElmntMan,*,,,
+3,Invisibl,*,,,
+1,AntiNavi,*,,,
+3,AntiDmg,*,,,
+1,PnlRetrn,*,[TAG],,

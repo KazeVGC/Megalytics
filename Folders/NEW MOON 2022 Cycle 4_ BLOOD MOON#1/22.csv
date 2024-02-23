@@ -1,0 +1,25 @@
+,,,,,
+,,,,,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,FullCust,*,[REG],UnderSht,image
+2,CircGun,P,,BugStop,AttckMAX
+1,WindRack,*,,Custom1,ChargMAX
+1,ElmntMnSP,E,,Custom1,HP+400
+1,EraseMan,*,,Beat,HP+50
+1,JudgeMan,*,,SuprArmr,
+1,ElmntMan,*,,Rush,
+1,BassAnly,F,,,
+2,FlshBom3,P,,,
+1,Anubis,P,,,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+2,PoisSeed,*,,,
+1,Fanfare,*,,CellImage,
+2,PanlGrab,*,,,
+4,AreaGrab,*,[TAG],,
+2,Invisibl,*,,,
+2,AntiDmg,*,,,
+1,AntiSwrd,*,,,
+1,LifeAur,U,,,
+1,ComingRd,*,[TAG],,

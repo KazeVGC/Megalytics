@@ -1,0 +1,23 @@
+逆逆,,,,,
+逆逆#0105,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,WindRack,*,,SuprArmr,https://imgur.com/a/ulczajW
+1,Fanfare,*, [TAG],FstBarr,HP+300
+2,Recov300,Y,,Rush,HP+400
+1,PanlGrab,*, [TAG],,HP+400
+5,AreaGrab,*,,,HP+500
+2,GrabBnsh,B,,CellImage,
+2,SloGauge,*,,,
+1,FullCust,*,[REG],,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+3,Barr100,Y,,,
+1,Barr200,K,,,
+1,LifeAur,U,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,BlastMnSP,B,,,
+1,ElmntMan,*,,,
+1,BgDthThd,V,,,

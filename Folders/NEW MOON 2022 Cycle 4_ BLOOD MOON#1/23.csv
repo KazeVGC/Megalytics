@@ -1,0 +1,28 @@
+,,,,,
+,,,,,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,AreaGrab,*,,BugStop,image
+1,FullCust,*,,Beat,AttckMAX
+1,AntiNavi,*,,Rush,Charge+1
+2,CircGun,T,,Custom1,Charge+1
+1,HeatDrgn,T,,Custom1,HP+500
+1,WoodDrgn,T,,SuprArmr,
+1,AirSpin3,T,[TAG],UnderSht,
+1,Tornado,T,[TAG],,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,Boomer,T,,,
+1,SpoutMnSP,A,,,
+3,AntiDmg,*,,,
+2,WhiCapsl,*,,,
+1,Atk+30,*,,,
+1,SuprVulc,V,,,
+1,GrabRvng,Z,,CellImage,
+2,Recov200,Z,,,
+1,BlastMnSP,B,,,
+1,BblWrap,Z,,,
+1,DeltaRay,Z,,,
+1,EraseMan,*,,,
+1,WindRack,*,[ REG],,
+1,Snctuary,Z,,,

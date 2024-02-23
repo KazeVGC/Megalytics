@@ -1,0 +1,26 @@
+!sadder,,,,,
+Dass#5058,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,SuprArmr,Link to URL
+2,BblStar2,V,,Custom1,HP+400
+1,ElcPuls1,J,,FstBarr,HP+400
+1,ElcPuls2,J,,GigFldr1,
+1,ElcPuls3,J,,Rush,
+1,WindRack,*,,BugStop,
+1,JustcOne,J,,,
+2,Recov300,J,,,
+4,AreaGrab,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,WhiCapsl,*,,,
+1,Atk+30,*,,CellImage,
+1,BlastMnSP,B,,,
+1,EraseMan,*,,,
+1,JudgeMan,J,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,
+1,BgDthThd,V,,,

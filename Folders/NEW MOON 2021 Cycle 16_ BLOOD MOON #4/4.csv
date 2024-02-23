@@ -1,0 +1,26 @@
+fireboltbro,,,,,,,
+fireboltbro#9219,,,,Falzar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,HubBatc,J,,Custom1,https://media.discordapp.net/attachments/475805186745565224/911912508015673434/navi.png,PlanetMan,40
+1,BgDthThd,V,,Rush,HP+500,Totem,13
+2,BblStar3,G,,Beat,HP+400,Needler,10
+1,Static,G,,UnderSht,HP+300,Numbers,17
+2,MachGun2,G,,,ChargMAX,,
+1,WoodDrgn,G,,,,,
+2,Recov300,J,,,,,
+2,AreaGrab,*,,,,,
+1,GrabRvng,Z,,,,,
+1,Snctuary,Z,,,,,
+2,SloGauge,*,[REG],,,,
+1,LifeAur,U,,,,,
+2,AntiDmg,*,,,,,
+1,Uninstll,G,,,,,
+1,DblBeast,W,,CellImage,,,
+1,ElmntMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,JudgeMnSP,J,,,,,
+1,EraseMan,*,,,,,
+1,GrndManSP,G,,,,,
+1,GunDelEX,G,,,,,
+3,Invisibl,*,,,,,

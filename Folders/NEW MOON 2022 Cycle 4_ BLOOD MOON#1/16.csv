@@ -1,0 +1,21 @@
+Dorman,,,,,
+Dorman_777#2452,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,MachGun3,B,[REG],SuprArmr,image
+2,FireHit3,B,,Custom1,AttckMAX
+2,HiBoomer,B,,UnderSht,ChargMAX
+1,ProtoMnSP,B,,,HP+400
+1,BlastMnSP,B,,,HP+400
+1,GunDelS3,Q,,,HP+400
+2,Recov200,Q,,,
+1,GrabRvng,Q,,,
+1,ColForce,Q,,,
+1,LifeAur,U,,CellImage,
+2,WindRack,*,,,
+4,AreaGrab,*,[TAG][TAG],,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

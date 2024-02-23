@@ -1,0 +1,24 @@
+Josue,,,,,
+jojosue#9988,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Recov300,J,,SuprArmr,NC_image
+1,JudgeMnSP,J,,FstBarr,HP+400
+1,HubBatc,J,,Custom1,HP+500
+1,RskyHny3,M,,Custom2,
+3,MachGun3,M,,UnderSht,
+1,Muramasa,M,,BugStop,
+1,M-Boomer,M,,,
+1,GrabBnsh,M,,,
+1,LifeAur,U,,,
+2,WindRack,*,,,
+1,Lance,*,,,
+4,AreaGrab,*,,,
+1,FullCust,*,[REG],CellImage,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,DblPoint,*,,,
+1,GrndMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

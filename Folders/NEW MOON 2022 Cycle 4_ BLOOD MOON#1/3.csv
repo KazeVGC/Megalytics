@@ -1,0 +1,24 @@
+ShironaNep,,,,,
+ShironaNep#3074,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BblStar2,L,,BugStop,image
+1,WindRack,*,,GigFldr1,HP+500
+2,ElecDrgn,L,[TAG],SuprArmr,Charge+1
+1,Magnum,L,,Custom1,
+2,Recov300,J,,Custom1,
+4,AreaGrab,*,[TAG],Tango,
+1,GrabBnsh,B,,,
+2,SloGauge,*,,,
+1,FullCust,*,[REG],,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Uninstll,L,,CellImage,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,
+1,BgDthThd,V,,,

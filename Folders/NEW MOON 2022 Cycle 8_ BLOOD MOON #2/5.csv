@@ -1,0 +1,23 @@
+Nonstopmop,,,,,
+NONSTOPMOP#1668,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,AirShoes,Link to URL
+2,SumnBlk2,V,,SuprArmr,HP+500
+2,ElecDrgn,V,,UnderSht,HP+500
+5,AreaGrab,*,,,AttckMAX
+1,GrabBnsh,B,[TAG],,Charge+1
+1,SloGauge,*,[REG],,Charge+1
+1,FullCust,*,,,Charge+1
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Atk+30,*,,,
+1,ProtoMnSP,B,,CellImage,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,
+2,WindRack,*,[TAG],,
+1,Barr200,U,,,

@@ -1,0 +1,22 @@
+Symes,,,,,
+Symes#9999,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,FireBrn3,E,,Rush,SUS
+1,BugFix,*,,FstBarr,HP+400
+1,BblStar1,E,,Custom2,HP+400
+1,LifeAur,U,,SuprArmr,HP+400
+3,ElcPuls2,E,[TAG],,SpeedMAX
+1,ElecSwrd,E,,CellImage,
+1,ElmntMan,*,,,
+4,WindRack,*,[TAG],,
+2,Recov300,J,,,
+3,AreaGrab,*,,,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMnEX,E,,,
+1,ElmntMnSP,E,,,
+1,HubBatc,J,,,

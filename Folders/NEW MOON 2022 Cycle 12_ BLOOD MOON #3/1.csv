@@ -1,0 +1,25 @@
+Sheriel,,,,,
+Sheriel Phoenix#5776,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,TankCan3,M,,SuprArmr,Navicust
+1,RskyHny3,M,,Custom1,Attack+1
+2,MachGun3,M,[TAG],UnderSht,Attack+1
+1,MoonBld,M,,BugStop,Attack+1
+1,Muramasa,M,,Rush,ChargMAX
+2,ElemSwrd,M,,Beat,HP+300
+2,M-Boomer,M,[REG],,HP+400
+2,GolmHit3,M,,,
+1,Fan,*,[TAG],CellImage,
+2,PanlGrab,*,,,
+2,AreaGrab,*,,,
+1,GrabBnsh,M,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,TenguMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,HubBatc,J,,,

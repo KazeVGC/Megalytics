@@ -1,0 +1,22 @@
+des,,,,,
+Desmond#1161,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,ElcPuls2,A,[TAG],FldrPak1,https://ibb.co/Qdtpx1m
+3,RskyHny3,A,,Custom1,HP+300
+1,AquaSwrd,A,,SuprArmr,ChargMAX
+3,WindRack,*,[TAG],UnderSht,HP+400
+1,ElecDrgn,A,,BugStop,
+3,GrabBnsh,B,,Custom1,
+2,FstGauge,*,[REG],Rush,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,Atk+30,*,,CellImage,
+1,ProtoMnSP,B,,,
+1,SpoutMnSP,A,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

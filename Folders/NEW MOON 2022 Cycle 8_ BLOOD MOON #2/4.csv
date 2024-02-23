@@ -1,0 +1,23 @@
+Dorman,,,,,
+Dorman_777#2452,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GolmHit3,V,,Custom1,https://media.discordapp.net/attachments/807394334667571315/967955825941438525/unknown.png
+1,TmhkManSP,T,,Custom1,HP+400
+1,TenguMnSP,T,,Beat,HP+500
+1,Barr200,U,,FstBarr,
+1,LifeAur,U,,SuprArmr,
+1,BgDthThd,V,,UnderSht,
+2,Recov300,Y,,BugStop,
+2,BblStar2,V,,,
+1,SumnBlk2,V,[TAG],,
+5,AreaGrab,*,,,
+2,SloGauge,*,,CellImage,
+1,FullCust,*,[REG],,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,Snctuary,Z,,,
+1,EraseMan,*,,,
+1,ElmntMan,*,,,
+1,JudgeMan,*,,,
+1,TrplShot,*,[TAG],,
