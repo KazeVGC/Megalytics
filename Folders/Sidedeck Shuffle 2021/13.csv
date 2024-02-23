@@ -1,0 +1,26 @@
+Kuriboh,,,,,,,,,
+kuriboh#3024,,,,,,Falzar,,,
+FOLDER,,,,NAVICUST,,SIDEDECK,,,
+#,Chip Name,Code,Reg/Tag,Program Name,Link,#,Chip Name,Code,Reg/Tag
+2,BblStar3,G,Reg,Bug stop,HP+400,,FstGauge,*,Reg
+1,AuraHed3,,,Custom1,ChargMAX,,FstGauge,*,
+2,MachGun2,G,,Custom2,Attack+1,,SloGauge,*,Reg
+1,WindRack,*,,Rush,Attack+1,,SloGauge,*,
+1,Muramasa,M,,SuprArmr,Attack+1,,Geddon,*,Reg
+2,HeatDrgn,G,,UnderSht,,,TenguMan,*,
+2,WoodDrgn,G,,FstBarr,,,,,
+3,AreaGrab,*,Tag,,,,,,
+1,GrabRvng,Z,Tag,,,,,,
+1,Snctuary,Z,,,,,,,
+2,Invisibl,*,,,,,,,
+1,Barr200,U,,,,,,,
+1,BblWrap,Z,,,,,,,
+1,LifeAur,U,,,,,,,
+2,AntiDmg,*,,CellImage,,,,,
+1,Uninstll,G,,,,,,,
+1,ElmntMan,*,,,,,,,
+1,EraseMan,*,,,,,,,
+1,JudgeMan,*,,,,,,,
+1,JudgeMnSP,J,,,,,,,
+1,GrndManSP,G,,,,,,,
+1,BassAnly,F,,,,,,,
