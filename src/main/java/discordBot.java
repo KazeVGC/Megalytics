@@ -7,7 +7,8 @@ import net.dv8tion.jda.api.requests.GatewayIntent;
 public class discordBot {
     public static void main(String[] args) {
         //This is the LIVE Token. Use this when going live with the changes!
-        final String TOKEN = "MTEwNDM3Njc5NjQ2NTU5NDQzOQ.GT2Wuq.-KjFIZJWqnRxmct2KajgsW0R6kC9YZDZOtt4Zs";
+        final String TOKEN = ""; // INSERT TOKEN
+    
         //This is the Testbot Token. Only use it for Testing and comment out the first one!
         //final String TOKEN = "MTExMDA5MTQwMTgwMDIwODQzNA.GqZ6cE.NVWlJwDQkJPSl6wQ6cFW1gRAUa6AsmeB2SOzTk";
         JDABuilder jdaBuilder = JDABuilder.createDefault(TOKEN);
