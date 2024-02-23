@@ -1,0 +1,23 @@
+Uvu,,,,,
+Uvu ♤#4590,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,FireHit3,A,,SuprArmr,image
+1,WhiCapsl,*,,Shield,HP+400
+2,AquaNdl3,A,,Custom2,HP+300
+1,HolyPanl,*,,Poem,HP+300
+2,ElcPuls3,A,,,
+3,RskyHny3,A,,,
+1,LifeAur,U,,,
+1,Mine,A,,,
+2,AntiDmg,*,,,
+1,ElemTrap,*,,,
+2,Invisibl,*,,,
+2,AreaGrab,*,,CellImage,
+2,TankCan1,A,[REG],,
+3,WindRack,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,EraseMan,*,,,
+1,SpoutMnSP,A,,,
+1,MetrKnuk,N,,,

@@ -1,0 +1,20 @@
+Neryth,,,,,,,
+Neryth#3411,,,,Falzar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BassAnly,F,,BugStop,image,Needler,10
+2,ElecDrgn,L,,UnderSht,AttckMAX,Bass-Cross MegaMan (F),70
+1,Uninstll,L,,Shield,ChargMAX,,
+1,LifeAur,U,,Custom1,HP+400,,
+1,DblBeast,W,,Custom2,HP+50,,
+2,Recov300,Y,,Rush,HP+50,,
+1,Snctuary,Z,,,,,
+2,WindRack,*,,,,,
+1,Timpani,*,,CellImage,,,
+4,PanlGrab,*,,,,,
+4,AreaGrab,*,,,,,
+2,GoingRd,*,,,,,
+2,SloGauge,*,,,,,
+4,BusterUp,*,[REG][TAG][TAG],,,,
+1,EraseMan,*,,,,,
+1,ElmntMan,*,,,,,

@@ -1,0 +1,24 @@
+Symes,,,,,
+Symes#9999,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Barr200,K,,Custom1,Link to Image
+1,EraseMnEX,K,,UnderSht,ChargMAX
+1,EraseMnSP,K,,SuprArmr,AttckMAX
+1,EraseMan,*,,,HP+400
+1,FlshBom1,*,,,HP+300
+1,GrabRvng,Q,,,HP+500
+1,ColForce,Q,,CellImage,
+1,BugFix,*,,,
+2,WindRack,*,[TAG],,
+2,Invisibl,*,,,
+1,Snctuary,Z,,,
+5,AreaGrab,*,,,
+2,HolyPanl,*,,,
+2,SloGauge,*,[REG],,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,PoisSeed,*,,,
+2,Recov300,O,,,
+1,BlastMan,*,[TAG],,
+1,ElmntMan,*,,,

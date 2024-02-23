@@ -1,0 +1,23 @@
+luckytyphlosion,,,,,
+luckytyphlosion#1166,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,Recov300,Y,,Custom1,image
+1,LifeAur,U,,Custom2,Attack+1
+1,Barr200,W,,SuprArmr,Attack+1
+2,Magnum,W,,UnderSht,Attack+1
+2,SumnBlk3,W,,BugStop,ChargMAX
+1,BusterUp,*,[REG],Rush,HP+400
+1,SloGauge,*,,FlotShoe,
+1,Snctuary,Z,,,
+2,WindRack,*,[TAG],,
+4,AreaGrab,*,[TAG],,
+1,GrndManSP,G,,CellImage,
+1,SpoutMnSP,A,,,
+1,ElmntMan,*,,,
+1,JudgeMan,*,,,
+1,EraseMan,*,,,
+1,ColForce,Q,,,
+1,GrabRvng,Q,,,
+3,AntiDmg,*,,,
+3,Invisibl,*,,,

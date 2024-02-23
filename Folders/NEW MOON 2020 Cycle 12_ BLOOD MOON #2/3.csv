@@ -1,0 +1,23 @@
+BitMuffin,,,,,
+Ayo#1260,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,BblStar3,G,,BugStop,HP+400
+2,AuraHed3,G,,Custom1,HP+300
+2,MachGun2,G,,Custom1,ChargMAX
+2,HeatDrgn,G,,SuprArmr,
+2,WoodDrgn,G,,UnderSht,
+1,Uninstll,G,,Beat,
+1,GrndManSP,G,,FstBarr,
+1,HubBatc,J,,,
+1,Muramasa,M,,,
+1,LifeAur,U,,,
+1,IceSeed,*,[REG],CellImage,
+1,WindRack,*,,,
+3,AreaGrab,*,[TAG] [TAG],,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,JudgeMnSP,J,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

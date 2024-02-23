@@ -1,0 +1,24 @@
+Coyote,,,,,
+Coyote#1303,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,BblStar2,V,,Tango,image
+3,DolThdr3,V,,Beat,HP+500
+1,WindRack,*,[REG],Custom2,HP+50
+1,RskyHny2,V,,BugStop,
+1,WoodDrgn,V,,,
+1,MachGun1,*,,,
+1,DblPoint,*,,,
+1,WhiCapsl,*,,,
+2,Recov300,J,,CellImage,
+3,AreaGrab,*,,,
+1,SuprVulc,V,,,
+1,GrabRvng,Z,,,
+2,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,ProtoMnSP,B,,,
+1,GrndMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

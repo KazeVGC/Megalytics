@@ -1,0 +1,24 @@
+Zeii - Airspin Adept,,,,,
+Zeii#8739,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,AirSpin3,T,[TAG],SuprArmr,image
+1,BblStar1,T,,BugStop,HP+400
+2,Tornado,T,[TAG],Custom2,HP+300
+1,MachGun1,*,,Beat,Attack+1
+1,WindRack,*,,Rush,ChargMAX
+2,HeatDrgn,T,,UnderSht,
+2,WoodDrgn,T,,,
+4,AreaGrab,*,,,
+1,FullCust,*,[REG],,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+2,WhiCapsl,*,,CellImage,
+1,Atk+30,*,,,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

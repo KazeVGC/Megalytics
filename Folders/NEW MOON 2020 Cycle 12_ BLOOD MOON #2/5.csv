@@ -1,0 +1,27 @@
+StarEnforcer,,,,,
+Disc-OH!#1474,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,ElcPuls1,J,,ChpShufl,Link to Image
+2,ElcPuls2,J,,SuprArmr,HP+500
+1,ElcPuls3,J,[TAG],ChargMAX,HP+400
+1,Recov300,J,,,Attack+1
+1,GrndManSP,G,,,Attack+1
+1,JudgeMnSP,J,,,Speed+1
+1,HubBatc,J,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+1,Snctuary,Z,,,
+3,WindRack,*,[TAG],,
+1,Geddon,*,,,
+1,FullCust,*,[REG],CellImage,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+2,ElemTrap,*,,,
+1,AntiNavi,*,,,
+1,AntiSwrd,*,,,
+1,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,Lance,*,,,

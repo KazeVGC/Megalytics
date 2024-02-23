@@ -1,0 +1,26 @@
+pppablo,,,,,,,
+pppablo#6818,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+2,WindRack,*,[REG],Custom1,image,Numbers,17
+1,Atk+30,*,,UnderSht,HP+500,Totem,13
+3,Invisibl,*,,Rush,HP+400,Satella,8
+3,AntiDmg,*,,,HP+300,Needler,10
+1,ProtoMan,*,,,HP+50,VideoMan,32
+1,Barr200,W,,,ChargMAX,,
+1,DblBeast,W,,,Attack+1,,
+1,Snctuary,Z,,,Attack+1,,
+1,MachGun1,*,[TAG],,Attack+1,,
+1,Gregar,X,,,,,
+3,AreaGrab,*,,,,,
+2,FstGauge,*,[TAG],,,,
+1,FullCust,*,,,,,
+1,GrabRvng,Q,,,,,
+1,GrndManSP,G,,CellImage,,,
+1,LifeAur,U,,,,,
+1,ColForce,Q,,,,,
+1,EraseMan,*,,,,,
+1,GrndMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,Uninstll,G,,,,,

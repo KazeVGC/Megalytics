@@ -1,0 +1,25 @@
+Ryu D,,,,,,,
+Ryu D#6017,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BblStar3,G,,Beat,image,Numbers,17
+2,Static,G,[TAG],Custom1,HP+400,Walla,12
+1,MachGun1,*,,BugStop,HP+500,Twins,15
+2,WindRack,*,,Rush,SpeedMAX,PulseBulb,13
+1,HeatDrgn,G,,UnderSht,Attack+1,Heady,20
+1,WoodDrgn,G,,SuprArmr,,,
+4,AreaGrab,*,[TAG],,,,
+1,GrabRvng,Q,,,,,
+3,Invisibl,*,,,,,
+1,LifeAur,U,,,,,
+3,AntiDmg,*,,,,,
+1,Uninstll,G,,,,,
+1,GunDelEX,G,,,,,
+1,EraseMan,*,,CellImage,,,
+1,GrndMan,*,[REG],,,,
+1,GrndManSP,G,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,
+1,ColForce,Q,,,,,
+1,Gregar,X,,,,,

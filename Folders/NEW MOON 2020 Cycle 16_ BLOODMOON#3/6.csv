@@ -1,0 +1,25 @@
+enduring ray,,,,,,,
+enduring ray#1144,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,BugFix,*,,Rush,image,SnakeArm,11
+1,Gregar,X,,Custom2,HP+400,Satella,8
+1,Uninstll,G,,FlotShoe,Atk+1,Needler,10
+1,LifeAur,U,,UnderSht,Atk+1,Twins,15
+2,Recov300,O,,,Atk+1,TenguMan,34
+4,AreaGrab,*,,,ChargMAX,,
+1,HolyPanl,*,,,HP+300,,
+1,Snctuary,Z,,,,,
+1,ComingRd,*,,,,,
+2,SloGauge,*,,,,,
+1,FullCust,*,[REG],,,,
+2,Static,G,,,,,
+3,Barr100,O,[TAG],CellImage,,,
+2,AntiDmg,*,[TAG],,,,
+1,TrplShot,*,,,,,
+1,FlshBom2,G,,,,,
+1,EraseMan,*,,,,,
+1,BlastMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,

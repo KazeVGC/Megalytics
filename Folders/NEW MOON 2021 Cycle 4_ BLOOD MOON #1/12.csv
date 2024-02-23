@@ -1,0 +1,22 @@
+desmond,,,,,
+Desmond.EXE#1161,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,SuprArmr,https://imgur.com/a/GnSJVig
+3,BblStar2,V,,AirShoes,HP+500
+2,DolThdr3,V,,Custom1,AttckMAX
+2,WindRack,*,,UnderSht,ChargMAX
+2,ElecDrgn,V,,Rush,
+4,AreaGrab,*,[TAG],BugStop,
+1,SloGauge,*,[REG],,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,WhiCapsl,*,,CellImage,
+1,Atk+30,*,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,[TAG],,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

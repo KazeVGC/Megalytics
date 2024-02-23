@@ -1,0 +1,25 @@
+Joey☆Kobalt,,,,,
+Joey☆Kobalt#1618,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,Static,V,,AirShoes,image
+2,TrplShot,*,[TAG],Humor,ChargMAX
+1,SumnBlk2,V,[TAG],Beat,HP+200
+2,SumnBlk3,W,,UnderSht,Attack+1
+1,M-Boomer,W,,Rush,Attack+1
+1,ElecDrgn,V,,,Attack+1
+2,Magnum,W,,,HP+300
+1,Recov300,Y,,,
+3,AreaGrab,*,,,
+1,GrabBnsh,M,,,
+2,Geddon,*,[REG],,
+2,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,CellImage,
+1,Uninstll,L,,,
+1,SpoutMnSP,A,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BgDthThd,V,,,

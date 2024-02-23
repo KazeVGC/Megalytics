@@ -1,0 +1,22 @@
+desmond (...),,,,,,,
+Desmond.EXE#1161,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,SuprVulc,V,,SuprArmr,image,Numbers,17
+3,BblStar2,V,,Custom1,HP+500,Totem,13
+2,DolThdr3,V,,UnderSht,HP+400,PlanetMan,40
+2,WindRack,*,,,HP+300,Satella,8
+2,ElecDrgn,V,[TAG],,AttckMAX,,
+4,AreaGrab,*,[TAG],,ChargMAX,,
+3,Invisibl,*,,,,,
+1,LifeAur,U,,,,,
+3,AntiDmg,*,,,,,
+1,GunDelEX,G,,,,,
+1,WhiCapsl,*,[REG],CellImage,,,
+1,Atk+30,*,,,,,
+1,EraseMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,
+1,DblBeast,W,,,,,
+1,ColForce,Q,,,,,
+1,Gregar,X,,,,,

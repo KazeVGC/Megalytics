@@ -1,0 +1,22 @@
+Barney,,,,,,,
+M-Den#9470,,,,Gregar,,,
+FOLDER,,,,NAVICUST,,MOD CARDS,
+#,Chip Name,Code,Reg/Tag,Program Name,Image Link,Name,MB
+1,JudgeMnSP,J,,Custom1,image,Mega Man Zero,45
+2,BblStar2,L,,Rush,HP+400,HoneyBomber,12
+2,ElecDrgn,L,,UnderSht,HP+400,Needler,10
+2,Magnum,L,[TAG],,HP+400,Totem,13
+1,Uninstall,L,,,HP+50,,
+1,LifeAur,U,,,AttckMAX,,
+1,Barr200,W,,,ChargMAX,,
+1,DblBeast,W,,,,,
+1,Gregar,X,,,,,
+2,WindRack,*,,CellImage,,,
+5,AreaGrab,*,[TAG],,,,
+1,SloGauge,*,[REG],,,,
+3,Invisibl,*,,,,,
+3,AntiDmg,*,,,,,
+1,EraseMan,*,,,,,
+1,TenguMan,*,,,,,
+1,JudgeMan,*,,,,,
+1,ElmntMan,*,,,,,

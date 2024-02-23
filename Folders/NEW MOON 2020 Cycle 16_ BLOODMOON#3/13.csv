@@ -1,0 +1,21 @@
+,,,,,
+,,,,,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BassAnly,F,,SuprArmr,image
+2,Recov300,J,,BugStop,AttckMAX
+1,LifeAur,U,,UnderSht,ChargMAX
+1,GrabRvng,Z,,Custom1,HP+400
+1,Snctuary,Z,,Beat,HP+50
+3,WindRack,*,,Rush,
+5,PanlGrab,*,,Custom1,
+5,AreaGrab,*,,,
+1,Geddon,*,,,
+2,SloGauge,*,,CellImage,
+2,FstGauge,*,,,
+1,FullCust,*,,,
+1,ElemTrap,*,,,
+1,AntiNavi,*,,,
+1,AntiDmg,*,,,
+1,AntiRecv,*,,,
+1,ElmntMan,*,,,

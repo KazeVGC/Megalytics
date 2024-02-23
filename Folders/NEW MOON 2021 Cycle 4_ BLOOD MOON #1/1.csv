@@ -1,0 +1,24 @@
+playerzero,,,,,
+playerzero#2208,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,BblStar3,G,,Custom2,image
+2,MachGun2,G,,Custom1,Attack+1
+1,WindRack,*,[TAG],Rush,Attack+1
+1,NeoVari,N,,Beat,Attack+1
+1,Rflectr3,*,,SuprArmr,ChargMAX
+1,HeatDrgn,G,,BugStop,HP+400
+1,WoodDrgn,G,,UnderSht,
+2,Recov300,J,,,
+4,AreaGrab,*,[TAG],,
+3,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,CellImage,
+1,Uninstll,G,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,MetrKnuk,N,,,

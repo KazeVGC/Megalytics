@@ -1,0 +1,24 @@
+enduring ray,,,,,
+enduring ray #1144,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,BugStop,Link to URL
+1,ElmntMan,*,,Cust+1,Hp+400
+1,JudgeMan,*,,Cust+1,HP+400
+1,DiveManSP,D,,UndrShrt,ChrgMax
+1,EraseMan,*,,Beat,
+1,SpoutMan,*,,SuprArmr,
+1,DblPoint,*,[REG],FstBarr,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+1,Barr200,U,,,
+2,Invisibl,*,,,
+1,GrabBnsh,S,[TAG],CellImage,
+3,AreaGrab,*,,,
+2,GolmHit2,D,,,
+2,AquaDrgn,S,,,
+2,FireHit2,S,,,
+2,IceSeed,*,,,
+2,MachGun2,S,,,
+1,RskyHny1,S,[TAG],,
+2,BblStar3,S,,,

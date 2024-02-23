@@ -1,0 +1,25 @@
+Tchomp,,,,,
+0 Mega#2858,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,DeltaRay,Z,,UnderSht,image
+1,ElmntMnSP,E,,SuprArmr,AttckMAX
+1,ElecMnSP,E,,Custom1,HP+50
+1,TenguMan,*,,BugStop,HP+400
+1,EraseMan,*,,Rush,ChargMAX
+1,JudgeMnSP,J,,Custom2,Speed+1
+2,AntiDmg,*,,,
+2,Invisibl,*,,,
+1,LifeAur,U,,,
+1,Snctuary,Z,,,
+1,PanlRtrn,*,,,
+1,GrabRvng,Z,,,
+4,AreaGrab,*,,,
+2,Recov300,J,,CellImage,
+1,VDoll,*,,,
+1,MachGun,*,,,
+2,WindRack,*,[REG],,
+1,ElcPuls3,J,,,
+2,ElcPuls2,J,,,
+2,ElcPuls1,J,,,
+1,Boomer,J,,,

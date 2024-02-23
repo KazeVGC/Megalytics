@@ -1,0 +1,21 @@
+SoulXCross,,,,,
+SoulXCross#5658,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ElcPuls1,L,,Custom1,Link to Image
+2,ElecDrgn,L,,Rush,AttckMAX
+3,BblStar2,L,,BugStop,ChargMAX
+1,WindRack,*,,AirShoes,HP+500
+3,Magnum,L,,UnderSht,
+4,AreaGrab,*,[TAG][TAG],SuprArmr,
+1,SloGauge,*,[REG],,
+3,Invisibl,*,,,
+1,Uninstll,L,,CellImage,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+2,Geddon,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,
+1,GrabRvng,Q,,,

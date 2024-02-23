@@ -1,0 +1,24 @@
+Shadow,,,,,
+Trylo#1662,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,RskyHny3,M,[TAG],BugStop,Link to URL
+3,MachGun3,M,[REG],Beat,HP+400
+3,AreaGrab,*,,Rush,HP+400
+3,AntiDmg,*,,UnderSht,ChargMAX
+1,Geddon,*,,Custom1,Speed+1
+1,WindRack,*,,Custom1,
+1,Muramasa,M,,SuprArmr,
+3,M-Boomer,M,,,
+1,GrabBnsh,M,[TAG],,
+1,Snctuary,Z,,,
+1,FullCust,*,,,
+1,LifeAur,U,,CellImage,
+1,Atk+30,*,,,
+1,DblPoint,*,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,MetrKnuk,N,,,

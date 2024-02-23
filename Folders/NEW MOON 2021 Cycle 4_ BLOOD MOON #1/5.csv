@@ -1,0 +1,23 @@
+ElKiras,,,,,
+PachecoElSublime#2340,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GrabRvng,Q,[TAG],Custom1,image
+3,ElcPuls1,J,,Custom2,HP+400
+3,ElcPuls2,J,,SuprArmr,AttckMAX
+1,ElcPuls3,J,,FstBarr,SpeedMAX
+3,WindRack,*,,UnderSht,ChargMAX
+1,GunDelS3,Q,,BugStop,
+3,AreaGrab,*,[TAG],,
+1,Recov300,J,,,
+1,Atk+30,*,,,
+2,FstGauge,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,CellImage,
+3,AntiDmg,*,[REG],,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,JudgeMan,*,,,
+1,ElmntMnSP,E,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,
