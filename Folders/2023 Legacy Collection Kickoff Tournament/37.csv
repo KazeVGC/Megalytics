@@ -1,0 +1,25 @@
+Rocku,,,,,
+Rocku#1556,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Uninstll,G,,SuprArmr,Link to URL
+1,LifeAur,U,,BugStop,ChargMAX
+1,MachGun1,*,,Rush,Attack+1
+1,AntiNavi,*,,Custom2,Attack+1
+2,WindRack,*,,UnderSht,Attack+1
+1,FlshBom1,*,,Custom1,HP+400
+2,BblStar3,G,,Beat,
+2,WoodDrgn,G,,,
+1,HeatDrgn,G,,CellImage,
+1,Snctuary,Z,,,
+1,GrabRvng,Z,,,
+4,AreaGrab,*,,,
+1,NeoVari,N,,,
+3,Invisibl,*,,,
+2,AntiDmg,*,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,MetrKnuk,N,,,

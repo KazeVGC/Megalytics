@@ -1,0 +1,26 @@
+Passbyword,,,,,
+Passbyword#7729,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,Custom2,https://media.discordapp.net/attachments/992361298786533426/1086033835600380055/image.png
+1,WindRack,*,,UnderSht,ChargMAX
+1,NeoVari,N,,MegFldr1,SpeedMAX
+1,BugFix,*,,SuprArmr,HP+300
+1,Uninstll,G,,,HP+500
+2,Recov300,J,,,AttckMAX
+4,AreaGrab,*,,,
+1,Snctuary,Z,,,
+1,WoodDrgn,G,,,
+1,HeatDrgn,G,,CellImage,
+3,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,MachGun1,*,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,FullCust,*,[REG],,

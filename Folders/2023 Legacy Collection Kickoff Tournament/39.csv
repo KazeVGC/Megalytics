@@ -1,0 +1,26 @@
+Makuto,,,,,
+Makuto66 #4633,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,FstBarr,Link to URL
+1,BugFix,*,,SuprArmr,HP+400
+1,SloGauge,*,,Custom2,SpeedMAX
+3,Invisibl,*,,UnderSht,AttckMAX
+1,AntiNavi,*,,,ChargMAX
+1,EraseMan,*,,,HP+400
+2,AntiDmg,*,,,Charge+1
+1,FullCust,*,[REG],,
+1,LifeAur,U,,,
+1,HolyPanl,*,,CellImage,
+3,AreaGrab,*,,,
+1,JudgeMan,*,,,
+1,WindRack,*,,,
+1,ElecDrgn,L,,,
+1,BblStar2,L,,,
+1,Uninstll,L,,,
+1,GrabBnsh,S,,,
+2,AquaDrgn,S,,,
+2,WoodDrgn,G,,,
+2,HeatDrgn,G,,,
+1,MachGun2,G,,,
+1,ElmntMan,*,,,

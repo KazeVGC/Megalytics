@@ -1,0 +1,23 @@
+david,,,,,
+davidvvv#3288,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,Custom1,https://cdn.discordapp.com/attachments/1024701675983880233/1085949368705745027/image.png
+1,Atk+30,*,,FstBarr,HP+400
+1,WhiCapsl,*,,BugStop,HP+400
+1,JudgeMan,*,,Rush,
+1,JudgeMnSP,J,,GigFldr1,
+1,ElmntMan,*,,SuprArmr,
+1,ElmntMnEX,E,,CellImage,
+1,ElmntMnSP,E,,,
+1,BgDthThd,V,,,
+1,HubBatc,J,,,
+2,Recov300,J,,,
+2,SloGauge,*,,,
+1,FullCust,*,[REG],,
+3,Magnum,W,[TAG],,
+4,AreaGrab,*,[TAG],,
+3,AntiDmg,*,,,
+3,Invisibl,*,,,
+1,Barr200,W,,,
+1,LifeAur,U,,,

@@ -1,0 +1,26 @@
+Zerobillion,,,,,
+Zerobillion#7425,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Uninstll,R,,BugStop,Link to URL
+2,BblStar3,R,[REG],Custom1,Attack+1
+1,DolThdr3,R,,SuprArmr,HP+400
+1,MachGun1,*,[TAG],Rush,ChargMAX
+1,WindRack,*,[TAG],Beat,HP+400
+1,Meteors,R,,Custom1,
+1,Atk+30,*,,,
+1,JustcOne,J,,,
+1,Recov300,J,,,
+4,AreaGrab,*,,CellImage,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,HeatDrgn,R,,,
+1,Roll3,R,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

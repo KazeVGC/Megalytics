@@ -1,0 +1,26 @@
+Mr.President,,,,,
+Abdulai Sallah#2015,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,image
+1,JudgeMan,*,,Custom1,HP+500
+2,Invisibl,*,,Custom2,HP+500
+2,WindRack,*,,UnderSht,HP+300
+1,Barr200,U,,,
+1,AntiDmg,*,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+3,AreaGrab,*,,,
+1,JudgeMnSP,J,,CellImage,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,
+1,ElcPuls1,J,,,
+2,ElcPuls2,J,,,
+1,ElcPuls3,J,,,
+2,ElemSwrd,J,,,
+2,Recov300,J,,,
+1,JustcOne,J,,,
+2,Rflectr3,*,,,
+1,LifeAur,U,,,
+1,Guardian,O,,,
+1,AntiNavi,*,,,

@@ -1,0 +1,25 @@
+Uvu,,,,,
+Firefie#4590,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,TankCan3,B,[REG],BugStop,Cust
+1,BblStar2,L,,SuprArmr,HP+500
+1,MachGun1,*,,Tango,HP+400
+1,WindRack,*,,Beat,SpeedMAX
+1,HiBoomer,L,,Rush,
+1,ElecDrgn,L,,UnderSht,
+2,Magnum,L,,,
+2,Recov300,Y,,,
+4,AreaGrab,*,,CellImage,
+3,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,,,
+3,AntiDmg,*,,,
+1,Uninstll,L,,,
+1,TenguMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,HubBatc,J,,,

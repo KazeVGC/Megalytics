@@ -1,0 +1,23 @@
+a4average,,,,,
+aht#3324,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,LifeAur,U,,SuprArmr,Link to URL
+3,WindRack,*,,Custom1,HP+400
+4,AreaGrab,*,,AntiDmg,HP+500
+1,BugFix,*,,UnderSht,ChargMAX
+3,Invisibl,*,[REG],,AttckMAX
+2,AntiDmg,*,,,SpeedMAX
+1,EraseMan,*,,CellImage,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,NeoVari,N,,,
+1,MetrKnuk,N,,,
+1,ElcPuls1,J,,,
+3,ElcPuls2,J,,,
+1,ElcPuls3,J,,,
+1,ElemSwrd,J,,,
+1,Boomer,J,,,
+2,Recov300,J,,,
+1,JudgeMnSP,J,,,
+1,ElmntMnSP,E,,,

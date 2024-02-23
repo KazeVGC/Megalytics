@@ -1,0 +1,28 @@
+WIMDY,,,,,
+TheDooWaddle#4914,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BblStar3,S,,Custom1,Link to URL
+1,ElcPuls1,S,,UnderSht,AttckMAX
+1,ElcPuls3,S,,SuprArmr,ChargMAX
+1,Static,S,[REG],Custom2,HP+400
+2,MachGun2,S,,,SpeedMAX
+1,WindRack,*,,,HP+400
+1,AquaDrgn,S,,,
+1,Recov300,J,,,
+4,AreaGrab,*,[TAG],,
+1,GrabBnsh,S,[TAG],,
+1,SloGauge,*,,,
+1,FullCust,*,,CellImage,
+1,BugFix,*,,,
+2,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,AntiSwrd,*,,,
+1,TenguMan,*,,,
+1,SlashMnSP,S,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,MetrKnuk,N,,,

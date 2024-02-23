@@ -1,0 +1,25 @@
+Shadow,,,,,
+trylo#6612,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,AreaGrab,*,,FldrPak1,Link to URL
+3,Invisibl,*,,SuprArmr,ChargMAX
+2,BblStar3,S,,Shield,AttckMAX
+2,Static,S,[REG],Poem,HP+400
+2,FlshBom3,S,,,HP+300
+2,AquaDrgn,S,,,
+2,AntiDmg,*,,,
+1,RskyHny1,S,[TAG],,
+1,MachGun2,S,,CellImage,
+1,GrabBnsh,S,[TAG],,
+1,BugFix,*,,,
+1,LifeAur,U,,,
+1,Atk+30,*,,,
+1,DblPoint,*,,,
+1,Roll3,R,,,
+1,SlashMnSP,S,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,BassAnly,F,,,

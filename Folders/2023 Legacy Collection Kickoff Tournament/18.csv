@@ -1,0 +1,23 @@
+GDarks,,,,,
+GrowingDarkness#7486,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ElmntMnSP,E,,SuprArmr,Link to URL
+1,NeoVari,N,,Beat,HP+400
+1,MetrKnuk,N,,Custom1,HP+400
+1,LifeAur,U,,BugStop,ChargMAX
+2,SumnBlk3,W,,UnderSht,Attack+1
+2,M-Boomer,W,,FstBarr,
+3,Magnum,W,,Rush,
+1,Barr200,W,,CellImage,
+1,WindRack,*,,,
+4,AreaGrab,*,,,
+1,Geddon,*,,,
+1,FullCust,*,[REG],,
+3,Invisibl,*,,,
+1,AntiNavi,*,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,BlastMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

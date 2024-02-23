@@ -1,0 +1,25 @@
+Darkmega07,,,,,
+Darkmega07#2237,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BlastMnSP,B,,SuprArmr,https://cdn.discordapp.com/attachments/132102441570140160/1085704157148749904/image.png
+1,JudgeMan,*,,UnderSht,HP+400
+2,HiBoomer,B,,BugStop,HP+300
+1,WideBlde,B,,Rush,Attack+1
+1,LongBlde,B,,Custom1,Attack+1
+1,ProtoMnSP,B,,FlotShoe,Attack+1
+2,MachGun3,B,,,ChargMAX
+1,EraseMan,*,,,
+2,TrplShot,*,[TAG],CellImage,
+2,SumnBlk3,Z,[TAG],,
+2,Recov200,Z,,,
+2,Recov300,Y,,,
+4,AreaGrab,*,,,
+1,GrabBnsh,B,,,
+1,FstGauge,*,,,
+1,FullCust,*,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,[REG],,
+1,AntiDmg,*,,,
+1,BassAnly,F,,,
+1,ElmntMan,*,,,

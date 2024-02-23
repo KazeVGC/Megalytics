@@ -1,0 +1,23 @@
+mars,,,,,
+mars#9327,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,https://cdn.discordapp.com/attachments/528203578544881714/1087238558668034149/image.png
+1,Uninstll,G,,Custom2,AttckMAX
+2,WoodDrgn,G,,AntiDmg,HP+500
+2,HeatDrgn,G,,,ChargMAX
+3,AntiDmg,*,,,HP+300
+3,Invisibl,*,,,Speed+1
+3,WindRack,*,,CellImage,
+3,AreaGrab,*,[TAG],,
+1,LifeAur,U,,,
+1,NeoVari,N,,,
+1,MetrKnuk,N,,,
+1,JudgeMnSP,J,,,
+2,Recov300,J,,,
+1,WhiCapsl,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,[TAG],,
+1,ElmntMan,*,,,
+1,GrndManSP,G,,,
+1,Static,G,[REG],,

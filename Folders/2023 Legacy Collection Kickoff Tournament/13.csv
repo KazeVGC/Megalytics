@@ -1,0 +1,25 @@
+ShinyTseul,,,,,
+ShinyTseul#0797,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ElmntMan,*,[REG],SuprArmr,Link to URL
+1,BugFix,*,,Custom1,Speed+1
+1,LifeAur,U,,Custom2,AttckMAX
+1,ElmntMnSP,E,,FlotShoe,ChargMAX
+1,ElmntMnEX,E,,UnderSht,HP+100
+1,JudgeMan,*,,,HP+500
+1,EraseMan,*,,,
+3,AntiDmg,*,,,
+1,AntiNavi,*,,CellImage,
+2,Invisibl,*,,,
+1,ColForce,Q,,,
+1,GrabRvng,Q,,,
+1,Snctuary,Z,,,
+4,AreaGrab,*,,,
+2,WindRack,*,,,
+2,ElecSwrd,E,,,
+2,ElcPuls2,E,,,
+1,AuraHed2,E,,,
+1,MachGun2,E,,,
+1,PnlRetrn,*,[TAG],,
+1,GunDelS3,Q,[TAG],,

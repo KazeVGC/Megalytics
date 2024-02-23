@@ -1,0 +1,27 @@
+hoodies,,,,,
+hoodies#4444,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,HubBatc,J,,Custom2,Link to URL
+1,MetrKnuk,N,,SuprArmr,HP+500
+1,ElmntMnSP,E,,GigFldr1,HP+500
+1,ElmntMnEX,E,,FstBarr,Speed+1
+1,ElmntMan,*,,,Speed+1
+1,JudgeMan,*,,,
+1,EraseMan,*,,,
+1,Uninstll,L,,,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+1,Barr200,U,,CellImage,
+3,Invisibl,*,,,
+1,BugFix,*,,,
+1,FullCust,*,[REG],,
+1,Snctuary,Z,,,
+1,GrabRvng,Z,,,
+4,AreaGrab,*,,,
+2,Recov300,J,,,
+1,Magnum,L,,,
+1,ElecDrgn,L,,,
+1,NeoVari,N,,,
+1,WindRack,*,,,
+1,BblStar2,L,,,

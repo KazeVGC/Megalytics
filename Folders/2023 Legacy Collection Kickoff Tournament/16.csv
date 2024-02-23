@@ -1,0 +1,21 @@
+enduringray,,,,,
+enduringray#1144,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,MachGun1,*,,SuprArmr,Link to URL
+2,WindRack,*,[REG],BugStop,HP+300
+2,ElecDrgn,L,,FlotShoe,HP+300
+4,AreaGrab,*,[TAG],Rush,ChargMAX
+1,PnlRetrn,*,,Custom1,Attack+1
+2,HolyPanl,*,,,Attack+1
+1,SloGauge,*,[TAG],,Attack+1
+3,Invisibl,*,,,Attack+1
+1,Barr200,U,,CellImage,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Uninstll,L,,,
+1,EraseMan,*,,,
+2,BlastMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

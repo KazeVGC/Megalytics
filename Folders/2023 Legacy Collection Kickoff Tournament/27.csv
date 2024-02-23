@@ -1,0 +1,22 @@
+Master S1X,,,,,
+M_S1X#7809,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Bass,F,,Custom1,https://cdn.discordapp.com/attachments/1008764153005101148/1087052568859000873/image.png
+1,ElmntMnSP,E,,Custom1,HP+500
+1,ElmntMan,*,,AirShoes,AttckMAX
+1,JudgeMnSP,J,,UnderSht,ChargMAX
+1,JudgeMan,*,,BugStop,
+1,EraseMan,*,,Rush,
+1,Atk+30,*,,CellImage,
+1,WhiCapsl,*,,,
+3,AntiDmg,*,,,
+1,LifeAur,U,,,
+3,Invisibl,*,,,
+4,AreaGrab,*,,,
+2,Recov300,J,,,
+2,WindRack,*,[REG],,
+3,BlkBomb,F,[TAG],,
+1,FireBrn1,*,[TAG],,
+2,MachGun3,F,,,
+1,AuraHed3,F,,,

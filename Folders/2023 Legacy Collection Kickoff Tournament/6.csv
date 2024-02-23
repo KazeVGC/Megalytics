@@ -1,0 +1,23 @@
+Whoop Whoop,,,,,
+Whoop Whoop#4098,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Barr200,K,,SuprArmr,https://ibb.co/pn7BGLS
+1,EraseMnSP,K,,Custom1,ChargMAX
+2,MachGun3,M,,Custom2,AttckMAX
+1,Muramasa,M,,UnderSht,SpeedMAX
+1,M-Boomer,M,,,HP+500
+1,GrabBnsh,M,,,HP+300
+1,GrabRvng,Q,,CellImage,
+1,ColForce,Q,,,
+1,LifeAur,U,,,
+2,Recov300,Y,,,
+2,WindRack,*,[REG],,
+4,AreaGrab,*,,,
+2,SloGauge,*,,,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

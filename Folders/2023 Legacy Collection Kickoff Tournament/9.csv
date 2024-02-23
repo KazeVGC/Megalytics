@@ -1,0 +1,27 @@
+DemonCorsair,,,,,
+Brian#4426,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,SuprArmr,https://cdn.discordapp.com/attachments/848606684012347472/1085878555675725895/image.png
+2,BblStar3,R,,UnderSht,AttckMAX
+1,DolThdr3,R,,BugStop,HP+500
+1,RskyHny2,R,,Custom1,ChargMAX
+1,PoisSeed,*,,FstBarr,
+1,WindRack,*,[REG],Custom1,
+1,WaveArm3,R,,Rush,
+1,HeatDrgn,R,,,
+2,Recov300,J,,,
+4,AreaGrab,*,[TAG],,
+1,GrabRvng,Q,[TAG],CellImage,
+1,PnlRetrn,*,,,
+2,Invisibl,*,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,WhiCapsl,*,,,
+1,Uninstll,R,,,
+1,Atk+30,*,,,
+1,Roll3,R,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

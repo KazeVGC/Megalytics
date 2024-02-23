@@ -1,0 +1,25 @@
+Alrysc,,,,,
+Alrysc#7506,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,FullCust,*,[REG],Custom1,Link to URL
+3,Invisibl,*,,SuprArmr,AttckMAX
+3,AntiDmg,*,,Rush,ChargMAX
+4,AreaGrab,*,,BugStop,HP+500
+1,MachGun3,F,,GigFldr1,
+1,LifeAur,U,,UnderSht,
+2,WindRack,*,,,
+1,Atk+30,*,,,
+2,Sensor3,Q,,,
+1,WhiCapsl,*,,CellImage,
+1,MagCoil,*,,,
+1,EraseMan,*,,,
+1,BlastMan,*,,,
+1,BblWrap,Q,,,
+1,ElmntMan,*,,,
+1,TenguMan,*,,,
+1,FireSwrd,F,,,
+1,JudgeMan,*,,,
+1,GrabRvng,Q,,,
+1,Bass,F,,,
+1,ColForce,Q,,,

@@ -1,0 +1,26 @@
+Cupcake,,,,,
+Cupcake#6222,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ElcPuls1,J,,SuprArmr,Link to URL
+3,ElcPuls2,J,,Custom1,ChargMAX
+1,ElcPuls3,J,,FstBarr,SpeedMAX
+2,WindRack,*,[REG],BugStop,HP+400
+1,NeoVari,N,,UnderSht,HP+400
+1,Muramasa,M,,Rush,
+1,ElemSwrd,J,[TAG],Beat,
+1,Boomer,J,[TAG],,
+1,JustcOne,J,,,
+2,Recov300,J,,CellImage,
+3,AreaGrab,*,,,
+1,FullCust,*,,,
+2,Invisibl,*,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,TenguMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

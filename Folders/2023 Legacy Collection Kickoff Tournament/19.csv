@@ -1,0 +1,25 @@
+Soren,,,,,
+Soren#0229,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,Link to URL
+1,WindRack,*,,FstBarr,AttckMAX
+3,AreaGrab,*,,Custom2,Speed+1
+2,Geddon,*,,,Charge+1
+1,FullCust,*,[REG],,HP+500
+4,BusterUp,*,,,HP+500
+1,MachGun1,*,,,
+1,SloGauge,*,,,
+2,Invisibl,*,,CellImage,
+2,AntiDmg,*,,,
+1,AntiSwrd,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,LifeAur,U,,,
+1,NeoVari,N,,,
+2,Recov300,J,,,
+1,JudgeMnSP,J,,,
+1,HubBatc,J,,,
+1,Uninstll,G,,,
+1,GrndManSP,G,,,

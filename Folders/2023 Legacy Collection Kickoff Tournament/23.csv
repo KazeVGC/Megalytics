@@ -1,0 +1,31 @@
+Maplelink64,,,,,
+Maplelink64#4216,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,TankCan3,B,,SuprArmr,Link to URL
+1,BblStar1,B,,BugStop,ChargMAX
+1,MachGun3,B,,UnderSht,AttckMAX
+1,BlkBomb,B,[TAG],Beat,HP+300
+1,HiBoomer,B,[TAG],AirShoes,
+1,WideBlde,B,,Rush,
+1,LongBlde,B,,,
+1,StepSwrd,B,,,
+1,GrabBnsh,B,,,
+1,ProtoMnSP,B,,,
+1,IronShl3,N,,,
+1,AirHocky,N,,,
+2,ElecSwrd,N,,,
+1,NeoVari,N,,,
+1,AssnSwrd,N,,CellImage,
+1,IceSeed,*,,,
+1,Sword,*,,,
+1,WindRack,*,,,
+1,Rflectr3,*,,,
+1,VDoll,*,,,
+2,AreaGrab,*,,,
+1,FstGauge,*,,,
+1,FullCust,*,,,
+1,Invisibl,*,,,
+1,ElemTrap,*,,,
+1,AntiDmg,*,[REG],,
+2,WhiCapsl,*,,,
