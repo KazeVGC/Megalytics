@@ -1,0 +1,24 @@
+Nonstopmop,,,,,
+NONSTOPMOP#1668,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BblStar3,G,,Rush,Image
+2,Static,G,,Custom2,HP+50
+2,PoisSeed,*,,FlotShoe,HP+300
+1,WindRack,*,,SuprArmr,HP+500
+1,Anubis,P,,FstBarr,ChargMAX
+2,PanlGrab,*,,UnderSht,Speed+1
+4,AreaGrab,*,[TAG],,
+1,GrabBnsh,B,,,
+1,SloGauge,*,,,
+1,FullCust,*,[REG],,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,CellImage,
+1,Uninstll,G,,,
+1,BlastMnSP,B,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,[TAG],,
+1,BgDthThd,V,,,

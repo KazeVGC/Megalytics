@@ -1,0 +1,24 @@
+M-Den,,,,,
+M-Den #1296,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,HubBatc,J,,UnderSht,image
+1,GrabRvng,Q,,BugStop,ChargMAX
+2,BblStar3,R,,SuprArmr,HP+400
+1,DolThdr3,R,,FstBarr,HP+400
+2,RskyHny2,R,,Custom1,
+1,Meteors,R,,Custom1,
+2,HeatDrgn,R,,Beat,
+1,Uninstll,R,,,
+1,Roll3,R,,,
+1,LifeAur,U,,,
+4,AreaGrab,*,,CellImage,
+1,FullCust,*,[REG],,
+3,Invisibl,*,[TAG],,
+3,AntiDmg,*,[TAG],,
+1,Atk+30,*,,,
+1,DblPoint,*,,,
+1,TenguMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

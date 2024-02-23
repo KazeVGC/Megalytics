@@ -1,0 +1,25 @@
+Shuusai,,,,,
+Shuusai#6739,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,FstGauge,*,,Rush,image
+3,MachGun3,B,,BugStop,ChargMAX
+2,ElcPuls2,A,[TAG],Beat,HP+400
+2,Invisibl,*,,SuprArmr,Attack+1
+2,WindRack,*,[TAG],Custom1,Attack+1
+1,SpoutMnSP,A,,UnderSht,SpeedMAX
+1,BlastMnSP,B,,Custom2,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,EraseMan,*,,,
+2,AntiDmg,*,,,
+2,AreaGrab,*,,,
+1,GrabRvng,Z,,,
+1,Geddon,*,,CellImage,
+1,Snctuary,Z,,,
+2,Recov300,O,,,
+1,LifeAur,U,,,
+1,HolyPanl,*,,,
+1,Uninstll,L,,,
+1,FullCust,*,[REG],,
+1,HubBatc,J,,,

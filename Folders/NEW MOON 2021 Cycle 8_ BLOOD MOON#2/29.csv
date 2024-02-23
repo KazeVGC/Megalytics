@@ -1,0 +1,22 @@
+Zeii - Airspin Adept,,,,,
+Zeii#8739,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,WindRack,*,,BugStop,image
+1,FireSwrd,O,,AirShoes,AttckMAX
+2,Recov300,O,,UnderSht,ChargMAX
+5,AreaGrab,*,[TAG],Custom1,HP+500
+1,GrabRvng,Q,[TAG],SuprArmr,
+1,Snctuary,Z,,Rush,
+2,SloGauge,*,[REG],,
+3,Invisibl,*,,CellImage,
+3,Barr100,O,,,
+1,Muramasa,M,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,TenguMan,*,,,
+1,GrndMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

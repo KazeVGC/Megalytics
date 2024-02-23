@@ -1,0 +1,24 @@
+Netbattler S,,,,,
+Saito#6125,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BassAnly,F,,SuprArmr,image
+1,ElmntMan,*,,Custom1,HP+500
+1,JudgeMan,*,,FstBarr,HP+400
+1,EraseMnEX,K,,FlotShoe,ChargMAX
+1,EraseMnSP,K,,Rush,SpeedMAX
+1,BlastMan,*,,UnderSht,
+1,Uninstll,G,,Poem,
+1,AntiNavi,*,,,
+2,MagCoil,*,,,
+1,LifeAur,U,,,
+1,Barr200,K,,,
+1,FullCust,*,,CellImage,
+1,SloGauge,*,,,
+2,ComingRd,*,,,
+1,GrabRvng,Z,,,
+3,AreaGrab,*,,,
+3,Sensor3,K,,,
+3,WindRack,*,,,
+2,FlshBom1,*,,,
+2,MachGun1,*,,,

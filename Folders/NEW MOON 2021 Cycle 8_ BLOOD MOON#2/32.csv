@@ -1,0 +1,22 @@
+Serale,,,,,
+Serale#2325,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,BblStar2,C,,Custom1,image
+3,RskyHny2,C,,UnderSht,AttckMAX
+3,WindRack,*,[REG],AirShoes,ChargMAX
+1,FireHit3,C,,SuprArmr,HP+500
+1,Fanfare,*,,BugStop,
+1,VDoll,*,,Rush,
+4,AreaGrab,*,[TAG],CellImage,
+1,GrabRvng,Q,[TAG],,
+2,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,Atk+30,*,,,
+1,LifeAur,U,,,
+1,ColonelSP,C,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ChrgeMnSP,C,,,
+1,EraseMan,*,,,
+1,ColForce,Q,,,

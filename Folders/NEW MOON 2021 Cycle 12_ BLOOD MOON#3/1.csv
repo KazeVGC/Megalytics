@@ -1,0 +1,24 @@
+HonorNite,,,,,
+HonorNite#3819,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,WindRack,*,,BugStop,image
+1,HeatDrgn,G,,SuprArmr,HP+400
+2,WoodDrgn,G,,UnderSht,ChargMAX
+2,Magnum,W,,Custom2,Attack+1
+4,AreaGrab,*,[TAG],Custom1,Attack+1
+1,GrabRvng,Z,[REG],Rush,Attack+1
+1,Snctuary,Z,,Beat,
+2,FstGauge,*,,,
+1,FullCust,*,,,
+3,Invisibl,*,,,
+1,Barr200,W,[TAG],,
+1,LifeAur,U,,,
+3,AntiDmg,*,,CellImage,
+1,Uninstll,G,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,MetrKnuk,N,,,

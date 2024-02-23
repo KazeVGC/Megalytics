@@ -1,0 +1,21 @@
+DemonKingBean,,,,,
+DemonKingBean#4323,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,HubBatc,J,,GigaFldr,image
+1,BgDthThdr,V,,Custom2,HP+400
+2,GunDelS3,W,,BugStop,HP+300
+1,LifeAur,U,,Custom1,Speed+1
+2,SumnBlk3,W,,,ChargMAX
+3,Magnum,W,,,
+1,Barr200,W,,,
+3,Invisibl,*,,,
+1,BlastMan,*,,,
+2,WindRack,*,,CellImage,
+4,AreaGrab,*,,,
+2,Geddon,*,[REG],,
+3,AntiDmg,*,,,
+1,GrndMan,*,,,
+1,EraseMan,*,,,
+1,ElmntMan,*,,,
+1,JudgeMan,*,,,

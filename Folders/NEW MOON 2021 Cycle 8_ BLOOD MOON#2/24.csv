@@ -1,0 +1,26 @@
+Loner,,,,,
+Loner#1687,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,TrnArrw3,S,,BugStop,image
+1,RskyHny3,M,,Custom1,Charge+1
+1,MachGun3,M,[REG],SuprArmr,Charge+1
+1,IceSeed,*,,Rush,Charge+1
+1,Muramasa,M,,Beat,HP+50
+2,ElemSwrd,M,,Tango,HP+50
+1,Lance,*,,,HP+500
+2,AquaDrgn,S,,,
+2,GolmHit3,M,,,
+2,Recov300,J,,,
+3,AreaGrab,*,[TAG],,
+1,GrabBnsh,M,[TAG],,
+1,Invisibl,*,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,CellImage,
+1,WhiCapsl,*,,,
+1,TenguMan,*,,,
+1,SlashMnSP,S,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

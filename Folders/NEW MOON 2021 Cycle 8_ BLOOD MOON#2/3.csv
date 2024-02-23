@@ -1,0 +1,20 @@
+HonorNite,,,,,
+HonorNite#3819,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,ElcPuls2,J,,SuprArmr,image
+4,WindRack,*,,FstBarr,HP+500
+5,AreaGrab,*,,Rush,HP+500
+2,SloGauge,*,,Beat,HP+300
+1,FullCust,*,[REG],,Charge+1
+1,BugFix,*,,,Charge+1
+3,Invisibl,*,,,Charge+1
+1,Barr200,U,,,
+1,LifeAur,U,,CellImage,
+3,AntiDmg,*,,,
+1,GrndMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

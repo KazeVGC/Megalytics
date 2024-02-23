@@ -1,0 +1,25 @@
+Fátima,,,,,
+Cutitie#1303,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,SuprArmr,image
+3,BblStar2,V,,BugStop,ChargMAX
+2,ElecDrgn,V,,GigFldr1,HP+400
+1,RskyHny2,V,,Custom1,HP+400
+1,WindRack,*,[REG],Rush,
+1,WoodDrgn,V,,,
+2,Recov300,J,,,
+3,AreaGrab,*,[TAG],,
+1,GrabRvng,Z,[TAG],,
+2,Invisibl,*,,,
+3,AntiDmg,*,,CellImage,
+1,WhiCapsl,*,,,
+1,Atk+30,*,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,
+1,BgDthThd,V,,,
+1,FireBrn1,*,,,

@@ -1,0 +1,23 @@
+DrugsAreBad,,,,,
+DrugsAreBad#7806,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MachGun1,*,,BugStop,image
+2,IceSeed,*,[REG],SuprArmr,HP+400
+2,WindRack,*,,Custom2,HP+400
+2,Lance,*,,UnderSht,Attack+1
+2,AquaDrgn,H,[TAG],MegFldr1,ChargMAX
+2,GolmHit3,H,,Rush,
+2,Recov300,J,,,
+4,AreaGrab,*,[TAG],,
+2,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,CellImage,
+1,HeatManSP,H,,,
+1,EraseMan,*,,,
+1,BlastMan,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

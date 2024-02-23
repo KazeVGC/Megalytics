@@ -1,0 +1,22 @@
+Godon,,,,,
+Godon#2948,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,MachGun3,B,[TAG],Rush,image
+2,AntiDmg,*,,Custom1,HP+500
+5,AreaGrab,*,,AirShoes,AttckMAX
+1,BlastMnSP,B,,SuprArmr,ChargMAX
+1,EraseMan,*,,BugStop,
+1,ElmntMan,*,,UnderSht,
+1,JudgeMan,*,,,
+2,Geddon,*,,,
+1,AntiNavi,*,,,
+2,WindRack,*,[TAG],,
+2,SloGauge,*,[REG],CellImage,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,AntiRecv,*,,,
+1,GrabBnsh,B,,,
+1,ProtoMnSP,B,,,
+2,Recov300,J,,,
+1,ColForce,Q,,,

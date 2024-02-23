@@ -1,0 +1,25 @@
+Salad,,,,,
+Salad#7884,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,WindRack,*,[TAG],FldrPak1,image
+1,NeoVari,N,,SuprArmr,HP+400
+2,ElecDrgn,L,,BugStop,AttckMAX
+4,AreaGrab,*,[TAG],Custom1,ChargMAX
+1,GrabRvng,Z,[REG],Custom1,
+1,Snctuary,Z,,Rush,
+2,FstGauge,*,,UnderSht,
+1,FullCust,*,,,
+3,Invisibl,*,,,
+1,Barr200,K,,,
+1,BblWrap,Z,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Uninstll,L,,CellImage,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,MetrKnuk,N,,,

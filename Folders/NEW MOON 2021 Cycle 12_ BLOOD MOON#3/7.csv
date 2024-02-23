@@ -1,0 +1,26 @@
+Wazi,,,,,
+WaziNite | The Moogle Cartel#1156,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,FlotShoe,image
+1,ColForce,Q,,Custom1,HP+400
+1,JudgeMnSP,J,,UnderSht,Attack+1
+1,TenguMan,*,,SuprArmr,Attack+1
+1,EraseMan,*,[TAG],ChpShufl,ChargMAX
+1,ElmntMan,*,,,
+1,Uninstll,L,,,
+2,AntiDmg,*,,,
+1,LifeAur,U,,,
+2,Invisibl,*,,,
+1,Atk+30,*,,,
+2,BusterUp,*,,,
+1,FullCust,*,[REG],,
+1,Snctuary,Z,,,
+1,GrabRvng,Q,,CellImage,
+3,AreaGrab,*,[TAG],,
+2,Recov300,J,,,
+1,ElecDrgn,L,,,
+2,WindRack,*,,,
+1,MachGun1,*,,,
+1,GunDelS3,Q,,,
+2,SloGauge,*,,,

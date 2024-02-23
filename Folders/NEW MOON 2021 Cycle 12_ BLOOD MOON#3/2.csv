@@ -1,0 +1,23 @@
+Desmond,,,,,
+Desmond#1161,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SuprVulc,V,,SuprArmr,image
+1,FireBrn1,*,,Custom1,HP+500
+3,BblStar2,V,,UnderSht,AttckMAX
+2,WindRack,*,[TAG],Rush,ChargMAX
+2,ElecDrgn,V,[TAG],BugStop,
+1,WoodDrgn,V,,AirShoes,
+4,AreaGrab,*,,,
+1,SloGauge,*,[REG],,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,WhiCapsl,*,,CellImage,
+1,Atk+30,*,,,
+1,EraseMan,*,,,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

@@ -1,0 +1,21 @@
+BlueStar,,,,,
+BlueStar #1988,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,image
+1,LifeAur,U,,UnderSht,AttckMAX
+2,MachGun3,M,,Custom2,ChargMAX
+2,GolmHit3,M,,Rush,SpeedMAX
+1,RskyHny3,M,,,HP+500
+1,GrabBnsh,M,,,HP+400
+4,AreaGrab,*,,,
+2,AntiDmg,*,,,
+2,WindRack,*,,,
+1,Muramasa,M,,CellImage,
+1,SloGauge,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+3,Rflectr3,*,,,
+1,ColForce,Q,,,
+5,BusterUp,*,[REG][TAG][TAG],,

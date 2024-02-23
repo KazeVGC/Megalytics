@@ -1,0 +1,25 @@
+Sorio,,,,,
+Sorio Phoenix#5776,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,BblStar3,R,,SuprArmr,image
+1,DolThdr3,R,,Custom1,ChargMAX
+2,MachGun1,*,[REG],Custom1,HP+400
+1,WindRack,*,[TAG],FstBarr,HP+400
+1,Meteors,R,,UnderSht,
+1,HeatDrgn,R,,BugStop,
+5,AreaGrab,*,[TAG],Beat,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+1,FullCust,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,Uninstll,R,,CellImage,
+1,Atk+30,*,,,
+1,Roll3,R,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,HubBatc,J,,,

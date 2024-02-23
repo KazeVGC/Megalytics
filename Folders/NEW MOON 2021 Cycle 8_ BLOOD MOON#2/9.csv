@@ -1,0 +1,20 @@
+MegaMan36,,,,,
+MegaMan36#5420,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,WindRack,*,[REG],AirShoes,image
+2,FireSwrd,F,,UnderSht,AttckMAX
+3,MachGun3,F,,Custom1,HP+500
+2,Invisibl,*,,BugStop,ChargMAX
+2,Rflectr3,*,,Rush,
+1,Muramasa,M,,SuprArmr,
+3,Magnum,F,,,
+1,LifeAur,U,,,
+5,AreaGrab,*,,CellImage,
+2,AntiDmg,*,,,
+1,Roll3,R,,,
+1,BlastMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,Bass,F,,,

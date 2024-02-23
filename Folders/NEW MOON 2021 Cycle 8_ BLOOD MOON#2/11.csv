@@ -1,0 +1,23 @@
+Pie Burritos,,,,,
+Pie Burritos#6623,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,UnderSht,image
+2,SloGauge,*,[REG],SuprArmr,HP+500
+5,AreaGrab,*,[TAG],Custom1,HP+400
+3,AntiDmg,*,,,HP+300
+2,Invisibl,*,,,AttckMAX
+2,WindRack,*,[TAG],,ChargMAX
+2,Recov300,O,,,
+1,PoisSeed,*,,,
+1,GrabRvng,Q,,,
+2,HolyPanl,*,,,
+1,Snctuary,Z,,,
+1,Barr200,K,,CellImage,
+1,LifeAur,U,,,
+1,BlastMnSP,B,,,
+1,EraseMnSP,K,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

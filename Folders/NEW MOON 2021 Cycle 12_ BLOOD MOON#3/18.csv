@@ -1,0 +1,22 @@
+FIREBOLTBRO,,,,,
+fireboltbro#9219,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,MachGun3,B,,UnderSht,https://cdn.discordapp.com/attachments/475805186745565224/884267548546302022/BN6_Gregar.png
+1,WideBlde,B,,Custom1,HP+300
+1,LongBlde,B,,SuprArmr,HP+400
+2,WindRack,*,,,HP+500
+1,HiBoomer,B,,,ChargMAX
+5,AreaGrab,*,,,AttckMAX
+2,GrabBnsh,B,,,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,,CellImage,
+3,AntiDmg,*,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,Colonel,*,,,
+1,ColForce,Q,,,

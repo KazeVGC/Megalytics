@@ -1,0 +1,22 @@
+Miridia,,,,,
+Miridia#4418,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,BblStar1,E,,UnderSht,image
+2,ElcPuls2,E,,Custom1,AttckMAX
+2,MachGun2,E,,Custom1,ChargMAX
+2,WindRack,*,[REG],Beat,HP+400
+2,Recov300,O,,SuprArmr,
+4,AreaGrab,*,[TAG],BugStop,
+1,GrabRvng,Q,,FlotShoe,
+1,Snctuary,Z,,,
+1,SloGauge,*,,,
+3,Invisibl,*,,CellImage,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,[TAG],,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnEX,E,,,
+1,ElmntMnSP,E,,,
+1,ColForce,Q,,,

@@ -1,0 +1,22 @@
+Korota,,,,,
+Korota#5855,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,TrnArrw3,M,,BugStop,image
+3,RskyHny3,M,,Rush,HP+500
+1,MachGun1,*,,SuprArmr,SpeedMAX
+3,MachGun3,M,,UnderSht,ChargMAX
+2,WindRack,*,[REG],Custom1,
+1,Muramasa,M,,Custom2,
+2,M-Boomer,M,,CellImage,
+2,GolmHit3,M,,,
+1,TimeBom3,M,,,
+3,AreaGrab,*,,,
+1,GrabBnsh,M,,,
+2,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BassAnly,F,,,

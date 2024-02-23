@@ -1,0 +1,25 @@
+Snugs,,,,,
+Snugs#0744,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ColForce,Q,,SuprArmr,image
+1,ElmntMnSP,E,,Custom1,HP+400
+1,JudgeMan,*,,UnderSht,HP+400
+1,BlastMan,*,,,HP+400
+1,TenguMnSP,T,,,ChargMAX
+1,EraseMan,*,,,AttckMAX
+1,Uninstll,G,,,
+1,AntiSwrd,*,,,
+3,AntiDmg,*,,,
+1,AntiNavi,*,,,
+1,LifeAur,U,,,
+3,Invisibl,*,,,
+1,BugFix,*,,,
+1,SloGauge,*,[REG],CellImage,
+1,Snctuary,Z,,,
+1,GrabRvng,Q,,,
+1,Static,G,[TAG],,
+4,AreaGrab,*,[TAG],,
+2,WindRack,*,,,
+2,MachGun2,G,,,
+1,BblStar3,G,,,

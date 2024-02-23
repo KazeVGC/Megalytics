@@ -1,0 +1,25 @@
+Maple,,,,,
+MapleButter#6565,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BgDthThd,V,,SuprArmr,image
+1,HubBatc,J,,Custom1,HP+400
+1,ElmntMan,*,,GigFldr1,HP+400
+1,JudgeMnSP,J,,FstBarr,
+1,JudgeMan,*,,BugStop,
+1,EraseMan,*,,Rush,
+1,GrndManSP,G,,,
+1,Atk+30,*,,,
+1,Uninstll,G,,,
+1,WhiCapsl,*,,,
+3,AntiDmg,*,,,
+1,LifeAur,U,,,
+3,Invisibl,*,,,
+1,FullCust,*,[REG],,
+1,GrabBnsh,M,[TAG],,
+3,AreaGrab,*,[TAG],CellImage,
+2,Recov300,J,,,
+1,Muramasa,M,,,
+2,WindRack,*,,,
+2,MachGun1,*,,,
+1,SuprVulc,V,,,

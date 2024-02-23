@@ -1,0 +1,26 @@
+aqua,,,,,
+aqua#7944,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,FullCust,*,[REG],Custom2,image
+1,BugFix,*,,GigFldr1,HP+500
+1,Barr200,K,,SuprArmr,HP+400
+1,EraseMnSP,K,,FstBarr,ChargMAX
+1,LifeAur,U,,,Speed+1
+3,Invisibl,*,,,Speed+1
+1,GrndManSP,G,,,
+1,HubBatc,J,,,
+1,BgDthThd,V,,,
+1,MachGun1,*,,,
+1,Uninstll,G,,,
+1,GrabRvng,Z,[TAG],,
+5,AreaGrab,,[TAG],,
+2,WindRack,,,,
+1,Snctuary,Z,,CellImage,
+1,JudgeMan,*,,,
+1,SloGauge,*,,,
+1,ElmntMan,*,,,
+1,HeatDrgn,,,,
+1,AntiNavi,*,,,
+1,JudgeMnSP,J,,,
+2,Recov300,J,,,

@@ -1,0 +1,22 @@
+E Flamez,,,,,
+Eternal Flamez,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,MachGun2,G,,Custom2,image
+3,MachGun3,F,,SuprArmr,HP+400
+3,WindRack,*,[TAG],BugStop,HP+400
+1,WoodDrgn,G,,Rush,ChargeMAX
+2,Magnum,F,,UnderSht,
+2,VDoll,F,,Custom1,
+4,AreaGrab,*,[TAG],,
+1,FstGauge,*,,,
+1,FullCust,,[REG],,
+1,AntiNavi,F,,,
+2,AntiDmg,*,,CellImage,
+1,Uninstll,G,,,
+1,TenguMan,*,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BassAnly,F,,,

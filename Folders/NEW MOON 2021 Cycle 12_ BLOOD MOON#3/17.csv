@@ -1,0 +1,21 @@
+lizardlab,,,,,
+LIZARDLAB#7541,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,ElcPuls2,J,,SuprArmr,image
+1,LifeAur,U,,Custom1,Attack+1
+3,WindRack,*,[TAG],FlotShoe,Attack+1
+3,Invisibl,*,,UnderSht,Attack+1
+1,EraseMan,*,,BugStop,Attack+1
+1,ElmntMan,*,,Tango,ChargMAX
+2,ElcPuls1,J,,,HP+400
+1,ElcPuls3,J,[TAG],,
+1,JustcOne,J,,,
+2,Recov300,J,,CellImage,
+1,JudgeMnSP,J,,,
+1,ColForce,Q,,,
+1,Snctuary,Z,,,
+4,AreaGrab,*,,,
+3,AntiDmg,*,,,
+1,BlastMan,*,,,
+1,JudgeMan,*,,,
