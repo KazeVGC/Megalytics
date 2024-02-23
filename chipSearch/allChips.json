@@ -1,0 +1,3647 @@
+[
+  {
+    "codes": [
+      "A",
+      "LanFldr, ExpoFldr, GiftFldr, Chip Order",
+      "B",
+      "LanFldr, ExpoFldr, GiftFldr",
+      "C",
+      "ExpoFldr, Robot Control Comp 1 GMD",
+      "✱",
+      "ExpoFldr, Robot Control Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Cannon"
+  },
+  {
+    "codes": [
+      "L",
+      "ExpoFldr, Central Area 3 BMD, Aquarium Comp 1 GMD, Chip Order",
+      "M",
+      "Aquarium Comp 3 BMD, Green Area 1 GMD",
+      "N",
+      "Seaside Area 1 GMD",
+      "✱",
+      "JudgeTree Comp 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "HiCannon"
+  },
+  {
+    "codes": [
+      "R",
+      "SoulFldr, Mr. Weather Comp 3 GMD, Chip Order",
+      "S",
+      "SoulFldr, Sky Area 2 BMD",
+      "T",
+      "SoulFldr, Aquarium Comp 3 GMD",
+      "✱",
+      "Mascot Comp BMD"
+    ],
+    "traders": [
+      "ACDC Town (JP: No ✱)",
+      "Green Town"
+    ],
+    "name": "M-Cannon"
+  },
+  {
+    "codes": [
+      "✱",
+      "LanFldr, GiftFldr, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "AirShot"
+  },
+  {
+    "codes": [
+      "B",
+      "Central Area 1 GMD",
+      "D",
+      "LanFldr, GiftFldr, Central Area 3 GMD, Chip Order",
+      "S",
+      "Trader only",
+      "✱",
+      "Robot Control Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Vulcan1"
+  },
+  {
+    "codes": [
+      "D",
+      "ExpoFldr, JudgeTree Comp 1 GMD, Seaside Area 2 BMD",
+      "F",
+      "Aquarium Comp 2 GMD, Chip Order",
+      "L",
+      "Green Area 1 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Vulcan2"
+  },
+  {
+    "codes": [
+      "A",
+      "Pavilion Comp 4 GMD, Sky HP BMD, Chip Order",
+      "G",
+      "Sky Area 2 GMD",
+      "R",
+      "Mr. Weather Comp 1 GMD, Seaside Areas YMD"
+    ],
+    "traders": ["Green Town"],
+    "name": "Vulcan3"
+  },
+  {
+    "codes": [
+      "V",
+      "(EN) Virus Battler V5, (JP)(LC) Underground 2 PMD, Green Areas YMD, \"Tab's Discounts\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "SuprVulc"
+  },
+  {
+    "codes": [
+      "L",
+      "Central Area 2 NetMerchant (600z)",
+      "M",
+      "Robot Control Comp 1 BMD, Chip Order",
+      "N",
+      "Central Area 3 GMD",
+      "✱",
+      "Seaside Area 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Spreadr1"
+  },
+  {
+    "codes": [
+      "A",
+      "Aquarium Comp 3 GMD",
+      "B",
+      "Green Area 2 GMD, Chip Order",
+      "C",
+      "Green Area 1 BMD",
+      "✱",
+      "JudgeTree Comp 3 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Spreadr2"
+  },
+  {
+    "codes": [
+      "Q",
+      "Mr. Weather Comp 2 GMD",
+      "R",
+      "Request BBS \"Want Meet Dghtr\", Seaside Areas YMD, Chip Order",
+      "S",
+      "Mr. Weather Comp 1 BMD",
+      "✱",
+      "Pavilion Comp 1 BMD"
+    ],
+    "traders": ["Green Town"],
+    "name": "Spreadr3"
+  },
+  {
+    "codes": [
+      "A",
+      "Catack (LV9~S), Chip Order",
+      "G",
+      "(CG) Catack (LV7~10)",
+      "R",
+      "(CF) Catack (LV7~10), Central Area 2 NetMerchant (2400z)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "TankCan1"
+  },
+  {
+    "codes": [
+      "L",
+      "Cateen (LV9~S), RarCatack (LV7~S), Chip Order",
+      "S",
+      "(CG) Cateen (LV7~10)",
+      "V",
+      "(CF) Cateen (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "TankCan2"
+  },
+  {
+    "codes": [
+      "B",
+      "Catpult (LV9~S), RarCatck2 (LV7~S), Chip Order",
+      "M",
+      "(CF) Catpult (LV7~10)",
+      "P",
+      "(CG) Catpult (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "TankCan3"
+  },
+  {
+    "codes": [
+      "C",
+      "AprtcFld, Asterland normal stock (1000z)",
+      "M",
+      "Undernet Zero GMD",
+      "T",
+      "Underground 1 GMD, Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Boktai Trader (10 pt)"
+    ],
+    "name": "GunDelS1"
+  },
+  {
+    "codes": [
+      "B",
+      "Trader only",
+      "E",
+      "Pavilion Comp 2 BMD",
+      "R",
+      "(GBA-EN) AprtcFld, (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town",
+      "Boktai Trader (10pt",
+      "20pt)"
+    ],
+    "name": "GunDelS2"
+  },
+  {
+    "codes": [
+      "N",
+      "(GBA-EN) Undernet Zero NetMerchant (12000), (JP)(LC) Immortal Area BGMD, Chip Order",
+      "Q",
+      "Green Areas YMD",
+      "W",
+      "Lotto Number (14212857)"
+    ],
+    "traders": [
+      "BugFrag Trader",
+      "Boktai Trader (20pt",
+      "30pt",
+      "50pt)"
+    ],
+    "name": "GunDelS3"
+  },
+  {
+    "codes": [
+      "L",
+      "Central Area 2 NetMerchant (4600z)",
+      "M",
+      "Aquarium Comp 1 GMD, Chip Order",
+      "N",
+      "JudgeTree Comp 2 BMD",
+      "✱",
+      "Book Comp BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "YoYo"
+  },
+  {
+    "codes": [
+      "F",
+      "OldStov (LV7~10)",
+      "G",
+      "OldStov (LV9~S)",
+      "H",
+      "OldStov (LV5~7), Seaside Area 3 GMD, Chip Order",
+      "✱",
+      "RarOldSt (LV7~10)"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "FireBrn1"
+  },
+  {
+    "codes": [
+      "S",
+      "SoulFldr, OldHeatr (LV7~10), (CF) RarOldSt (LV9~S)",
+      "T",
+      "SoulFldr, OldHeatr (LV9~S), (CG) RarOldSt (LV9~S), RarOldS2 (LV7~10)",
+      "U",
+      "SoulFldr, OldHeatr (LV5~7), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "FireBrn2"
+  },
+  {
+    "codes": [
+      "C",
+      "OldBurnr (LV9~S), RarOldS2 (LV9~S)",
+      "D",
+      "OldBurnr (LV7~10)",
+      "E",
+      "OldBurnr (LV5~7), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "FireBrn3"
+  },
+  {
+    "codes": [
+      "P",
+      "ExptFldr, Asterland normal stock (7000z)",
+      "Q",
+      "Underground 1 GMD, Chip Order",
+      "R",
+      "Underground 2 GMD"
+    ],
+    "traders": ["Green Town"],
+    "name": "WideSht"
+  },
+  {
+    "codes": [
+      "A",
+      "Piranha (LV9~S), RarePira (LV5~10), Sky Area 1 GMD, Chip Order",
+      "F",
+      "(CF) Piranha (LV5~10)",
+      "K",
+      "(CG) Piranha (LV5~10)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "TrnArrw1"
+  },
+  {
+    "codes": [
+      "G",
+      "Piranha2 (LV9~S), RarePira (LV9~S), RarePira2 (LV5~10), Chip Order",
+      "M",
+      "(CG) Piranha2 (LV5~10)",
+      "Z",
+      "(CF) Piranha2 (LV5~10)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "TrnArrw2"
+  },
+  {
+    "codes": [
+      "M",
+      "(CG) Piranha3 (LV9~S), (CG) RarePira2 (LV9~S), Chip Order",
+      "S",
+      "(CF) Piranha3 (LV9~S), (CF) RarePira2 (LV9~S)",
+      "Y",
+      "Piranha3 (LV5~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "TrnArrw3"
+  },
+  {
+    "codes": [
+      "B",
+      "(CF) StarFish (LV9~S), (CF) RarStrFs (LV7~10)",
+      "E",
+      "(CG) StarFish (LV9~S), (CG) RarStrFs (LV7~10), Underground 1 GMD",
+      "T",
+      "StarFish (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "BblStar1"
+  },
+  {
+    "codes": [
+      "C",
+      "ExptFldr, (CG) StarFsh2 (LV9~S), RarStrFs (LV9~S), RarStrF2 (LV7~10)",
+      "L",
+      "(CF) StarFsh2 (LV9~S)",
+      "V",
+      "StarFsh2 (LV7~10), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BblStar2"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) StarFsh3 (LV9~S), (CG) RarStrF2 (LV9~S)",
+      "R",
+      "(CF) StarFsh3 (LV9~S), (CF) RarStrF2 (LV9~S)",
+      "S",
+      "StarFsh3 (LV7~10), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "BblStar3"
+  },
+  {
+    "codes": [
+      "B",
+      "Central Area 2 GMD",
+      "R",
+      "Chip Order",
+      "S",
+      "Aquarium Comp 1 GMD",
+      "✱",
+      "Class 6-1 Comp BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Thunder"
+  },
+  {
+    "codes": [
+      "A",
+      "ScarCrow (LV9~S), (CG) RarScrCr (LV5~7)",
+      "E",
+      "ScarCrow (LV7~10), (CF) RarScrCr (LV5~7), Sky Area 2 GMD, Chip Order",
+      "Q",
+      "ScarCrow (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "DolThdr1"
+  },
+  {
+    "codes": [
+      "C",
+      "ExptFldr, (CG) ScrCrow2 (LV9~S), (CG) RarScrCr (LV7~S), (CG) RarScrC2 (LV5~7)",
+      "L",
+      "(CF) ScrCrow2 (LV9~S), (CF) RarScrCr (LV7~S), (CF) RarScrC2 (LV5~7), Chip Order",
+      "P",
+      "ScrCrow2 (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "DolThdr2"
+  },
+  {
+    "codes": [
+      "B",
+      "(CG) ScrCrow3 (LV9~S), (CG) RarScrC2 (LV7~S)",
+      "R",
+      "(CF) ScrCrow3 (LV9~S), (CF) RarScrC2 (LV7~S), Chip Order",
+      "V",
+      "ScrCrow3 (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "DolThdr3"
+  },
+  {
+    "codes": [
+      "J",
+      "PulsBulb (LV5~10), (CG) RarPsBlb (LV7~10), Chip Order",
+      "L",
+      "(CG) PulsBulb (LV9~S)",
+      "S",
+      "(CF) PulsBulb (LV9~S), (CF) RarPsBlb (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "ElcPuls1"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) PlsBulb2 (LV9~S), (CF) RarPsBlb (LV9~S), (CF) RarPsBl2 (LV7~10)",
+      "E",
+      "(CG) PlsBulb2 (LV9~S), (CG) RarPsBlb (LV9~S), (CG) RarPsBl2 (LV7~10), Chip Order",
+      "J",
+      "PlsBulb2 (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "ElcPuls2"
+  },
+  {
+    "codes": [
+      "A",
+      "PlsBulb3 (LV9~S), (CF) RarPsBl2 (LV9~S), Chip Order",
+      "J",
+      "PlsBulb3 (LV5~7)",
+      "S",
+      "PlsBulb3 (LV7~10), (CG) RarPsBl2 (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "ElcPuls3"
+  },
+  {
+    "codes": [
+      "J",
+      "BombCorn (LV7~10), (CF) RareCorn (LV5~10), Chip Order",
+      "K",
+      "BombCorn (LV5~7)",
+      "L",
+      "BombCorn (LV9~S), (CG) RareCorn (LV5~10), Underground 2 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "CornSht1"
+  },
+  {
+    "codes": [
+      "C",
+      "MegaCorn (LV9~S), (CF) RareCorn (LV9~S), (CF) RarCorn2 (LV5~10), Chip Order",
+      "D",
+      "MegaCorn (LV7~10), (CG) RareCorn (LV9~S), (CG) RarCorn2 (LV5~10)",
+      "E",
+      "MegaCorn (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "CornSht2"
+  },
+  {
+    "codes": [
+      "P",
+      "GigaCorn (LV7~10), (CF) RarCorn2 (LV9~S), Chip Order",
+      "Q",
+      "GigaCorn (LV5~7)",
+      "R",
+      "GigaCorn (LV9~S), (CG) RarCorn2 (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "CornSht3"
+  },
+  {
+    "codes": [
+      "B",
+      "(CF) HonyBmbr (LV9~S), (CF) RarHnyBm (LV5~7)",
+      "G",
+      "(CG) HonyBmbr (LV9~S), (CG) RarHnyBm (LV5~7)",
+      "S",
+      "HonyBmbr (LV5~10), Mr. Weather Comp 3 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "RskyHny1"
+  },
+  {
+    "codes": [
+      "C",
+      "(CG) HnyBmbr2 (LV9~S), (CG) RarHnyBm (LV7~S), (CG) RarHyBm2 (LV5~7)",
+      "R",
+      "(CF) HnyBmbr2 (LV9~S), (CF) RarHnyBm (LV7~S), (CF) RarHyBm2 (LV5~7), Chip Order",
+      "V",
+      "HnyBmbr2 (LV5~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "RskyHny2"
+  },
+  {
+    "codes": [
+      "A",
+      "HnyBmbr3 (LV9~S), (CF) RarHyBm2 (LV7~S), Chip Order",
+      "D",
+      "HnyBmbr3 (LV7~10), (CG) RarHyBm2 (LV7~S)",
+      "M",
+      "HnyBmbr3 (LV5~7)"
+    ],
+    "traders": ["Green Town"],
+    "name": "RskyHny3"
+  },
+  {
+    "codes": [
+      "I",
+      "(CF) Shrubby (LV9~S), (CF) RarShrby (LV5~10), Chip Order",
+      "K",
+      "(CG) Shrubby (LV9~S), (CG) RarShrby (LV5~10), Mr. Weather Comp 2 GMD",
+      "P",
+      "Shrubby (LV5~10)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "RlngLog1"
+  },
+  {
+    "codes": [
+      "E",
+      "(CF) Shrubby2 (LV9~S), (CF) RarShrby (LV9~S), (CF) RarShrb2 (LV5~10), Chip Order",
+      "Q",
+      "(CG) Shrubby2 (LV9~S), (CG) RarShrby (LV9~S), (CG) RarShrb2 (LV5~10)",
+      "Z",
+      "Shrubby2 (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "RlngLog2"
+  },
+  {
+    "codes": [
+      "F",
+      "(CF) Shrubby3 (LV9~S), (CF) RarShrb2 (LV9~S), Chip Order",
+      "N",
+      "(CG) Shrubby3 (LV9~S), (CG) RarShrb2 (LV9~S)",
+      "W",
+      "Shrubby3 (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "RlngLog3"
+  },
+  {
+    "codes": [
+      "J",
+      "Armadill (LV7~10), RarArmdl (LV5~10), Chip Order",
+      "K",
+      "Armadill (LV5~7), ACDC Area GMD",
+      "L",
+      "Armadill (LV9~S)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "IronShl1"
+  },
+  {
+    "codes": [
+      "C",
+      "Armadil2 (LV9~S), RarArmdl (LV9~S), RarArmd2 (LV5~10), Chip Order",
+      "D",
+      "Armadil2 (LV7~10)",
+      "E",
+      "Armadil2 (LV5~7), (JP)(LC) Immortal Area GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "IronShl2"
+  },
+  {
+    "codes": [
+      "L",
+      "Armadil3 (LV9~S), RarArmd2 (LV9~S), Chip Order",
+      "M",
+      "Armadil3 (LV7~10)",
+      "N",
+      "Armadil3 (LV5~7)"
+    ],
+    "traders": ["Green Town"],
+    "name": "IronShl3"
+  },
+  {
+    "codes": [
+      "B",
+      "HeadyA (LV9~S), RarHeady (LV5~7), Pavilion Comp 3 GMD",
+      "C",
+      "HeadyA (LV7~10), Chip Order",
+      "D",
+      "HeadyA (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "AuraHed1"
+  },
+  {
+    "codes": [
+      "D",
+      "HeadyH (LV9~S), RarHeady (LV7~S), RarHedy2 (LV5~7), (JP)(LC) Immortal Area GMD",
+      "E",
+      "HeadyH (LV7~10), Chip Order",
+      "F",
+      "HeadyH (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Green Town"
+    ],
+    "name": "AuraHed2"
+  },
+  {
+    "codes": [
+      "F",
+      "HeadyW (LV7~10)",
+      "G",
+      "HeadyW (LV9~S), RarHedy2 (LV7~S), Chip Order",
+      "H",
+      "HeadyW (LV5~7)"
+    ],
+    "traders": ["Green Town"],
+    "name": "AuraHed3"
+  },
+  {
+    "codes": [
+      "L",
+      "Sky Area 2 GMD, Chip Order",
+      "M",
+      "Chip Trading (Central Town)",
+      "N",
+      "Asterland normal stock (3800z)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AirHocky"
+  },
+  {
+    "codes": [
+      "G",
+      "Asterland normal stock (5000z), Chip Order",
+      "M",
+      "Lotto Number (60884138)",
+      "W",
+      "Pavilion Comp 1 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "DrilArm"
+  },
+  {
+    "codes": [
+      "L",
+      "Aquarium HP PMD",
+      "R",
+      "Chip Order",
+      "T",
+      "Central Areas / Robot Control Comps BGMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Tornado"
+  },
+  {
+    "codes": [
+      "G",
+      "Trader only",
+      "S",
+      "Chip Order",
+      "V",
+      "(JP)(LC) Graveyard 1 NetMerchant (14600z), (GBA-EN) Graveyard NetMerchant (14600z)"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Static"
+  },
+  {
+    "codes": [
+      "A",
+      "Gunner (LV9~S)",
+      "R",
+      "(CF) Gunner (LV7~10)",
+      "T",
+      "(CG) Gunner (LV7~10), Seaside Area 3 GMD, Chip Order",
+      "✱",
+      "JudgeTree Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "MachGun1"
+  },
+  {
+    "codes": [
+      "E",
+      "Shooter (LV7~10)",
+      "G",
+      "(CF) Shooter (LV9~S), (CF) RareGnnr (LV5~S)",
+      "S",
+      "(CG) Shooter (LV9~S), (CG) RareGnnr (LV5~S), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "MachGun2"
+  },
+  {
+    "codes": [
+      "B",
+      "Sniper (LV9~S), RarGnnr2 (LV5~S)",
+      "F",
+      "(CG) Sniper (LV7~10)",
+      "M",
+      "(CF) Sniper (LV7~10), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "MachGun3"
+  },
+  {
+    "codes": [
+      "B",
+      "LanFldr",
+      "L",
+      "LanFldr, GiftFldr",
+      "R",
+      "Central Area 2 GMD",
+      "✱",
+      "Robot Control Comp 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "MiniBomb"
+  },
+  {
+    "codes": [
+      "O",
+      "Chip Trading (Sky Town Op Room)",
+      "P",
+      "Request BBS \"Stop Him!\"",
+      "V",
+      "(GBA-EN) Asterland normal stock (9000z), Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BigBomb"
+  },
+  {
+    "codes": [
+      "C",
+      "Robot Control Comp 2 GMD, Chip Order",
+      "K",
+      "ExpoFldr, Class 1-1 Comp BMD",
+      "V",
+      "Seaside Area 2 GMD",
+      "✱",
+      "JudgeTree Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "EnergBom"
+  },
+  {
+    "codes": [
+      "G",
+      "Sky Area 1 GMD, Chip Order",
+      "M",
+      "Seaside Areas / Aquarium Comps BGMD",
+      "O",
+      "Aquarium Comp 3 GMD, Green Area 2 GMD",
+      "✱",
+      "Mr. Weather Comp 3 GMD"
+    ],
+    "traders": [
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "MegEnBom"
+  },
+  {
+    "codes": [
+      "J",
+      "(CF) BigHat (HP ≤ 37.5%: LV5~10)",
+      "L",
+      "BigHat (LV9~S)",
+      "Q",
+      "BigHat (LV5~10) (CG: Any HP, CF: HP > 37.5%), Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Green Town"
+    ],
+    "name": "FlshBom1"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) BigHat2 (LV9~S), (CG) RarBgHat (LV7~S)",
+      "K",
+      "BigHat2 (LV7~10)",
+      "R",
+      "(CF) BigHat2 (LV9~S), (CF) RarBgHat (LV7~S), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "FlshBom2"
+  },
+  {
+    "codes": [
+      "H",
+      "(CG) BigHat3 (LV7~10)",
+      "P",
+      "(CF) BigHat3 (LV7~10)",
+      "S",
+      "BigHat3 (LV9~S), RarBgHt2 (LV7~S), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "FlshBom3"
+  },
+  {
+    "codes": [
+      "B",
+      "Pavilion Comp 1 GMD",
+      "F",
+      "Green HP PMD, Chip Order",
+      "O",
+      "Trader only"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BlkBomb"
+  },
+  {
+    "codes": [
+      "G",
+      "Asterland Mr. Famous (8000z)",
+      "S",
+      "Trader only",
+      "V",
+      "Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "BugBomb"
+  },
+  {
+    "codes": [
+      "A",
+      "Trader only",
+      "F",
+      "Trader only",
+      "S",
+      "Green Area 1 GMD, Chip Order",
+      "✱",
+      "SoulFldr, JudgeTree Comp 3 GMD, Undernet Zero GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "GrasSeed"
+  },
+  {
+    "codes": [
+      "A",
+      "Pipe Comp BMD",
+      "L",
+      "Trader only",
+      "R",
+      "Chip Order",
+      "✱",
+      "ExptFldr, ACDC HP BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "IceSeed"
+  },
+  {
+    "codes": [
+      "H",
+      "Trader only",
+      "N",
+      "Trader only",
+      "P",
+      "Sky Area 1 BugFrag Trader (48BF), Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "PoisSeed"
+  },
+  {
+    "codes": [
+      "H",
+      "Trader only",
+      "L",
+      "Central Area 1 GMD",
+      "S",
+      "LanFldr, ExpoFldr, GiftFldr, SoulFldr, Chip Order",
+      "✱",
+      "ExptFldr, Aquarium Comp 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Sword"
+  },
+  {
+    "codes": [
+      "H",
+      "Trader only",
+      "L",
+      "Trader only",
+      "S",
+      "LanFldr, ExpoFldr, GiftFldr, SoulFldr, Central Area 2 GMD, Chip Order",
+      "✱",
+      "Aquarium Comp 2 GMD, Green Area 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "WideSwrd"
+  },
+  {
+    "codes": [
+      "H",
+      "Swordy (LV5~7), Robot Control Comp 2 GMD, Central Area 3 GMD",
+      "L",
+      "Swordy (LV9~S)",
+      "S",
+      "ExpoFldr, SoulFldr, Swordy (LV7~10), Chip Order",
+      "✱",
+      "Underground 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "LongSwrd"
+  },
+  {
+    "codes": [
+      "B",
+      "ExptFldr, Seaside Area 3 PMD, Chip Order",
+      "R",
+      "Green Areas / Judge Tree Comps BGMD",
+      "W",
+      "Undernet 2 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "WideBlde"
+  },
+  {
+    "codes": [
+      "B",
+      "ExptFldr, Pavilion Comp 4 BMD, Chip Order",
+      "M",
+      "Asterland normal stock (6200z)",
+      "V",
+      "(JP)(LC) Undernet 3 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "LongBlde"
+  },
+  {
+    "codes": [
+      "F",
+      "Swordy2 (LV9~S), RarSwrdy (LV7~S)",
+      "O",
+      "(CF) Swordy2 (LV7~10), JudgeTree Comp 3 GMD, Chip Order",
+      "Z",
+      "(CG) Swordy2 (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "FireSwrd"
+  },
+  {
+    "codes": [
+      "A",
+      "Swordy3 (LV9~S), RarSwrdy2 (LV7~S), Pavilion Comp 4 GMD",
+      "I",
+      "(CG) Swordy3 (LV7~10), Chip Order",
+      "Y",
+      "(CF) Swordy3 (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AquaSwrd"
+  },
+  {
+    "codes": [
+      "E",
+      "Central Area 3 PMD, (JP)(LC) Undernet 3 GMD",
+      "K",
+      "Chip Order",
+      "N",
+      "Trader only"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "ElecSwrd"
+  },
+  {
+    "codes": [
+      "H",
+      "Trader only",
+      "S",
+      "Chip Order",
+      "W",
+      "Seaside Area 3 NetMerchant (4200z)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BambSwrd"
+  },
+  {
+    "codes": [
+      "F",
+      "ACDC Area NetMerchant (7200z), Chip Order",
+      "J",
+      "Trader only",
+      "R",
+      "(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD",
+      "✱",
+      "(JP) Virus Battler V4, (EN) Virus Battler V1"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "WindRack"
+  },
+  {
+    "codes": [
+      "B",
+      "Lab's Comp 2 PMD",
+      "L",
+      "JudgeTree Comp 1 BMD",
+      "P",
+      "Undernet 1 GMD, Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "StepSwrd"
+  },
+  {
+    "codes": [
+      "K",
+      "Chip Order",
+      "V",
+      "ExptFldr, (JP)(LC) Immortal Area GMD (EN: Trader only otherwise)",
+      "W",
+      "ACDC HP PMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "VarSwrd"
+  },
+  {
+    "codes": [
+      "N",
+      "Sky Area 1 BugFrag Trader (80BF), Undernet 2 / Underground YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "NeoVari"
+  },
+  {
+    "codes": [
+      "A",
+      "(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order",
+      "M",
+      "Undernet / Pavilion Comps BGMD",
+      "T",
+      "Trader only"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "MoonBld"
+  },
+  {
+    "codes": [
+      "M",
+      "Undernet 1 PMD, (JP)(LC) Undernet 3 / Immortal Area YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Muramasa"
+  },
+  {
+    "codes": [
+      "H",
+      "(CF) DarkMech (LV9~S)",
+      "L",
+      "(CG) DarkMech (LV9~S), Chip Order",
+      "Q",
+      "DarkMech (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "MchnSwrd"
+  },
+  {
+    "codes": [
+      "J",
+      "(CG) ElecMech (LV9~S), (CG) RarDkMec (LV7~S)",
+      "M",
+      "(CF) ElecMech (LV9~S), (CF) RarDkMec (LV7~S), Chip Order",
+      "U",
+      "ElecMech (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "ElemSwrd"
+  },
+  {
+    "codes": [
+      "N",
+      "(CF) DoomMech (LV9~S), (CF) RarDkMc2 (LV5~S)",
+      "R",
+      "(CG) DoomMech (LV9~S), (CG) RarDkMc2 (LV5~S), Chip Order",
+      "Y",
+      "DoomMech (LV7~10)"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "AssnSwrd"
+  },
+  {
+    "codes": [
+      "A",
+      "Chip Order",
+      "G",
+      "Trader only",
+      "T",
+      "Trader only",
+      "✱",
+      "LanFldr, GiftFldr"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town (JP: No ✱)"
+    ],
+    "name": "CrakShot"
+  },
+  {
+    "codes": [
+      "C",
+      "Chip Trading (Class 1-2)",
+      "R",
+      "Sky Area 1 GMD, Chip Order",
+      "U",
+      "Pavilion Comp 3 GMD",
+      "✱",
+      "ExpoFldr, Stuffed Toy Shop Comp BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "DublShot"
+  },
+  {
+    "codes": [
+      "J",
+      "Trader only",
+      "L",
+      "Seaside Area 3 GMD",
+      "V",
+      "Undernet 2 GMD, Chip Order",
+      "✱",
+      "Guide Panel Comp BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "TrplShot"
+  },
+  {
+    "codes": [
+      "A",
+      "Mettaur (LV9~S), Seaside Area 1 GMD, Chip Order",
+      "C",
+      "(CG) Mettaur (LV7~10)",
+      "P",
+      "(CF) Mettaur (LV7~10)",
+      "✱",
+      "RareMttar (CG: LV5~7, CF: LV5~10)"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town"
+    ],
+    "name": "Rflectr1"
+  },
+  {
+    "codes": [
+      "B",
+      "(CG) Mettaur2 (LV9~S), Chip Order",
+      "G",
+      "(CF) Mettaur2 (LV9~S)",
+      "Y",
+      "Mettaur2 (LV5~10)",
+      "✱",
+      "RareMttar (CG: LV7~S, CF: LV5~7), RareMttr2 (CG: LV9~S, CF: LV5~10)"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Rflectr2"
+  },
+  {
+    "codes": [
+      "E",
+      "(CG) Mettaur3 (LV9~S), Chip Order",
+      "F",
+      "(CF) Mettaur3 (LV9~S)",
+      "O",
+      "Mettaur3 (LV7~10)",
+      "✱",
+      "RareMttr2 (CG: LV7~S, CF: LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "Rflectr3"
+  },
+  {
+    "codes": [
+      "E",
+      "Quaker (LV9~S)",
+      "F",
+      "AprtcFld, Quaker (LV7~10), Underground 1 GMD",
+      "G",
+      "Quaker (LV9~S), RareQuakr (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "WaveArm1"
+  },
+  {
+    "codes": [
+      "L",
+      "Shaker (LV9~S), RareQuakr (LV9~S), RarQuakr2 (LV5~10)",
+      "M",
+      "Shaker (LV9~S)",
+      "N",
+      "Shaker (LV7~10), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "WaveArm2"
+  },
+  {
+    "codes": [
+      "R",
+      "Breaker (LV9~S), RarQuakr2 (LV9~S)",
+      "S",
+      "Breaker (LV9~S)",
+      "T",
+      "Breaker (LV7~10), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "WaveArm3"
+  },
+  {
+    "codes": [
+      "A",
+      "(CG) SnakeArm (LV9~S), (CG) RarSnkAr (LV7~10)",
+      "G",
+      "(CF) SnakeArm (LV9~S), (CF) RarSnkAr (LV7~10)",
+      "L",
+      "SnakeArm (LV9~S), Chip Order"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Green Town"
+    ],
+    "name": "SandWrm1"
+  },
+  {
+    "codes": [
+      "B",
+      "(CG) SnakeAr2 (LV9~S), (CG) RarSnkAr (LV9~S), (CG) RarSnkA2 (LV7~10)",
+      "R",
+      "(CF) SnakeAr2 (LV9~S), (CF) RarSnkAr (LV9~S), (CF) RarSnkA2 (LV7~10)",
+      "Y",
+      "SnakeAr2 (LV9~S), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "SandWrm2"
+  },
+  {
+    "codes": [
+      "H",
+      "(CF) SnakeAr3 (LV9~S), (CF) RarSnkA2 (LV9~S)",
+      "J",
+      "SnakeAr3 (LV9~S)",
+      "S",
+      "(CG) SnakeAr3 (LV9~S), (CG) RarSnkA2 (LV9~S), Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "SandWrm3"
+  },
+  {
+    "codes": [
+      "E",
+      "(CF) Nghtmare (LV9~S), Pavilion Comp 2 GMD",
+      "I",
+      "(CG) Nghtmare (LV9~S), Chip Order",
+      "P",
+      "Nghtmare (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "SumnBlk1"
+  },
+  {
+    "codes": [
+      "H",
+      "(CF) Blckmare (LV9~S), (CF) NghtRare (LV9~S)",
+      "O",
+      "Blckmare (LV7~10), Chip Order",
+      "V",
+      "(CG) Blckmare (LV9~S), (CG) NghtRare (LV9~S)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Green Town"
+    ],
+    "name": "SumnBlk2"
+  },
+  {
+    "codes": [
+      "W",
+      "(CF) Darkmare (LV9~S), (CF) NghtRar2 (LV9~S)",
+      "Y",
+      "(CG) Darkmare (LV9~S), (CG) NghtRar2 (LV9~S), Chip Order",
+      "Z",
+      "Darkmare (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "SumnBlk3"
+  },
+  {
+    "codes": [
+      "H",
+      "Class 6-2 Comp PMD, Chip Order",
+      "L",
+      "Sky Areas / Mr. Weather Comps / ACDC Areas BGMD",
+      "M",
+      "(JP)(LC) Graveyard 1 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Snake"
+  },
+  {
+    "codes": [
+      "N",
+      "Asterland normal stock (12600z), Sky Areas YMD, \"Tab's Discounts\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "NumbrBl"
+  },
+  {
+    "codes": [
+      "D",
+      "Champy (LV9~S), RarChampy (LV5~10)",
+      "E",
+      "Champy (LV5~7), Chip Order",
+      "F",
+      "Champy (LV7~10), Lab's Comp 1 BMD, Seaside Area 2 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "FireHit1"
+  },
+  {
+    "codes": [
+      "R",
+      "SoulFldr, Chumpy (LV7~10), (CG) RarChampy (LV9~S), (CG) RarChmpy2 (LV5~10)",
+      "S",
+      "SoulFldr, Chumpy (LV9~S), (CF) RarChampy (LV9~S), (CF) RarChmpy2 (LV5~10), Chip Order",
+      "T",
+      "SoulFldr, Chumpy (LV5~7), Pavilion Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "FireHit2"
+  },
+  {
+    "codes": [
+      "A",
+      "Chimpy (LV9~S), RarChmpy2 (LV9~S)",
+      "B",
+      "Chimpy (LV7~10), Chip Order",
+      "C",
+      "Chimpy (LV5~7)"
+    ],
+    "traders": ["Green Town"],
+    "name": "FireHit3"
+  },
+  {
+    "codes": [
+      "H",
+      "(CG) HntdCndl (LV9~S), (CG) RarHntCd (LV5~7), Undernet 2 GMD, Chip Order",
+      "P",
+      "HntdCndl (LV5~10)",
+      "V",
+      "(CF) HntdCndl (LV9~S), (CF) RarHntCd (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "BurnSqr1"
+  },
+  {
+    "codes": [
+      "D",
+      "HntdCdl2 (LV9~S), RarHntCd (LV7~S), RarHntC2 (LV5~7), Chip Order",
+      "M",
+      "(CF) HntdCdl2 (LV5~10)",
+      "T",
+      "(CG) HntdCdl2 (LV5~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Green Town"
+    ],
+    "name": "BurnSqr2"
+  },
+  {
+    "codes": [
+      "E",
+      "(CF) HntdCdl3 (LV9~S), (CF) RarHntC2 (LV7~S), Chip Order",
+      "O",
+      "(CG) HntdCdl3 (LV9~S), (CG) RarHntC2 (LV7~S)",
+      "Z",
+      "HntdCdl3 (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "BurnSqr3"
+  },
+  {
+    "codes": [
+      "R",
+      "Graveyard BGMD, ACDC Area / Undernet Zero YMD, \"Yai's Pride\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Meteors"
+  },
+  {
+    "codes": [
+      "C",
+      "Puffy (LV9~S), RarePufy (LV5~7), Mr. Weather Comp 1 GMD",
+      "J",
+      "(CF) Puffy (LV7~10)",
+      "P",
+      "(CG) Puffy (LV7~10), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "AquaNdl1"
+  },
+  {
+    "codes": [
+      "F",
+      "(CG) Puffy2 (LV9~S), (CG) RarePufy (LV7~S), (CG) RarPufy2 (LV5~7)",
+      "K",
+      "Puffy2 (LV7~10), Pavilion Comp 4 GMD, Chip Order",
+      "T",
+      "(CF) Puffy2 (LV9~S), (CF) RarePufy (LV7~S), (CF) RarPufy2 (LV5~7)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AquaNdl2"
+  },
+  {
+    "codes": [
+      "A",
+      "Puffy3 (LV9~S), RarPufy2 (LV7~S), Chip Order",
+      "L",
+      "(CF) Puffy3 (LV7~10)",
+      "U",
+      "(CG) Puffy3 (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "AquaNdl3"
+  },
+  {
+    "codes": [
+      "H",
+      "Lotto Number (97049899)",
+      "N",
+      "(JP)(LC) Undernet 3 / Immortal Area YMD",
+      "T",
+      "(JP)(LC) Graveyard 1 NetMerchant (18400z), (GBA-EN) Graveyard NetMerchant (18400z), Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "BlzrdBal"
+  },
+  {
+    "codes": [
+      "J",
+      "(CG) KillrEye (LV9~S), (CG) RarKllrEy (LV5~10)",
+      "O",
+      "(CF) KillrEye (LV9~S), (CF) RarKllrEy (LV5~10)",
+      "W",
+      "KillrEye (LV7~10), Chip Order"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "Sensor1"
+  },
+  {
+    "codes": [
+      "N",
+      "(CF) DemonEye (LV9~S), (CF) RarKllrEy (LV9~S), (CF) RarKlrEy2 (LV5~10)",
+      "U",
+      "(CG) DemonEye (LV9~S), (CG) RarKllrEy (LV9~S), (CG) RarKlrEy2 (LV5~10)",
+      "Y",
+      "DemonEye (LV7~10), Chip Order"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Green Town"
+    ],
+    "name": "Sensor2"
+  },
+  {
+    "codes": [
+      "I",
+      "JokersEye (LV9~S), RarKlrEy2 (LV9~S)",
+      "K",
+      "(CG) JokersEye (LV7~10)",
+      "Q",
+      "(CF) JokersEye (LV7~10), Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "Sensor3"
+  },
+  {
+    "codes": [
+      "J",
+      "AprtcFld, Central Areas / Robot Control Comps BGMD, Underground 2 GMD",
+      "K",
+      "Chip Order",
+      "T",
+      "JudgeTree Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "Boomer"
+  },
+  {
+    "codes": [
+      "B",
+      "ACDC Area NetMerchant (5000z)",
+      "L",
+      "(JP)(LC) Immortal Area GMD, Chip Order",
+      "V",
+      "Chip Trading (Aquarium bottom floor)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "HiBoomer"
+  },
+  {
+    "codes": [
+      "I",
+      "Trader only",
+      "M",
+      "Lotto Number (88674125)",
+      "W",
+      "(JP)(LC) Graveyard 1 NetMerchant (10000z), (GBA-EN) Graveyard NetMerchant (10000z), Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "M-Boomer"
+  },
+  {
+    "codes": [
+      "A",
+      "Chip Order",
+      "R",
+      "Trader only",
+      "W",
+      "Green Area 1 PMD",
+      "✱",
+      "Lotto Number (69544569)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Lance"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) ErthDrgn (LV9~S), (CG) WhteDrgn (LV9~S)",
+      "R",
+      "(CF) ErthDrgn (LV9~S), (CF) WhteDrgn (LV9~S), Chip Order",
+      "T",
+      "ErthDrgn (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "HeatDrgn"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) ThdrDrgn (LV9~S), (CF) BlckDrgn (LV9~S)",
+      "L",
+      "(CG) ThdrDrgn (LV9~S), (CG) BlckDrgn (LV9~S), Chip Order",
+      "V",
+      "ThdrDrgn (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "ElecDrgn"
+  },
+  {
+    "codes": [
+      "H",
+      "(CF) WatrDrgn (LV9~S), (CF) WhteDrgn (LV9~S)",
+      "P",
+      "WatrDrgn (LV9~S), Chip Order",
+      "S",
+      "(CG) WatrDrgn (LV9~S), (CG) WhteDrgn (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "AquaDrgn"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) WoodDrgn (LV9~S), (CG) BlckDrgn (LV9~S)",
+      "T",
+      "(CF) WoodDrgn (LV9~S), (CF) BlckDrgn (LV9~S), Chip Order",
+      "V",
+      "WoodDrgn (LV9~S)"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "WoodDrgn"
+  },
+  {
+    "codes": [
+      "I",
+      "(CF) Cragger (LV9~S)",
+      "K",
+      "(CG) Cragger (LV9~S), ACDC Area GMD, Chip Order",
+      "Y",
+      "Cragger (LV9~S)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "GolmHit1"
+  },
+  {
+    "codes": [
+      "D",
+      "(CF) MetlCrgr (LV9~S), (CF) RarCrggr (LV9~S)",
+      "P",
+      "ExptFldr, (CG) MetlCrgr (LV9~S), (CG) RarCrggr (LV7~S), (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order",
+      "U",
+      "MetlCrgr (LV9~S)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "GolmHit2"
+  },
+  {
+    "codes": [
+      "H",
+      "BigCrggr (LV9~S)",
+      "M",
+      "(CG) BigCrggr (LV9~S), (CG) RarCrgr2 (LV7~S), Chip Order",
+      "V",
+      "(CF) BigCrggr (LV9~S), (CF) RarCrgr2 (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "GolmHit3"
+  },
+  {
+    "codes": [
+      "J",
+      "Chip Trading (ACDC HP), Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "JustcOne"
+  },
+  {
+    "codes": [
+      "F",
+      "(JP) Virus Battler V1",
+      "G",
+      "Undernet Zero GMD",
+      "R",
+      "Seaside Areas / Aquarium Comps BGMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AirSpin1"
+  },
+  {
+    "codes": [
+      "A",
+      "Undernet 2 GMD",
+      "L",
+      "Chip Trading (Air Conditioner Comp)",
+      "T",
+      "Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AirSpin2"
+  },
+  {
+    "codes": [
+      "N",
+      "Trader only",
+      "O",
+      "Lotto Number (71757977)",
+      "T",
+      "(GBA-EN) Undernet Zero NetMerchant (12900z), (JP)(LC) Immortal Area BMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "AirSpin3"
+  },
+  {
+    "codes": [
+      "✱",
+      "WindBox (LV5~S), WindBox2 (LV5~S), RareBox (LV5~S), Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Wind"
+  },
+  {
+    "codes": [
+      "✱",
+      "VacuumFn (LV5~S), VacuFan2 (LV5~S), Lab's Comp 1 BMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Fan"
+  },
+  {
+    "codes": [
+      "F",
+      "ACDC Area NetMerchant (8800z)",
+      "L",
+      "Pavilion Comp 3 GMD, Chip Order",
+      "W",
+      "Trader only"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Magnum"
+  },
+  {
+    "codes": [
+      "P",
+      "Underground 1 PMD",
+      "T",
+      "(JP)(LC) Graveyard 1 GMD, Chip Order",
+      "V",
+      "Lotto Number (51378085)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "CircGun"
+  },
+  {
+    "codes": [
+      "✱",
+      "Green Area 2 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "RockCube"
+  },
+  {
+    "codes": [
+      "F",
+      "(CF) Kettle (LV7~10), Chip Order",
+      "K",
+      "(CG) Kettle (LV7~10)",
+      "L",
+      "Kettle (LV9~S)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "LilBolr1"
+  },
+  {
+    "codes": [
+      "E",
+      "(CG) SuprKetl (LV9~S), Chip Order",
+      "M",
+      "(CF) SuprKetl (LV9~S)",
+      "V",
+      "SuprKetl (LV7~10)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "LilBolr2"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) KettleDX (LV9~S), Chip Order",
+      "S",
+      "(CF) KettleDX (LV9~S)",
+      "Z",
+      "KettleDX (LV7~10)"
+    ],
+    "traders": ["Green Town"],
+    "name": "LilBolr3"
+  },
+  {
+    "codes": [
+      "G",
+      "(CG) FgtrPlne (LV9~S), (CG) RarFtrPl (LV5~7), Pavilion Comp 3 GMD",
+      "K",
+      "FgtrPlne (LV9~S), Chip Order",
+      "R",
+      "AprtcFld, (CF) FgtrPlne (LV9~S), (CF) RarFtrPl (LV5~7)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town"
+    ],
+    "name": "AirRaid1"
+  },
+  {
+    "codes": [
+      "O",
+      "(CG) FgtrPln2 (LV9~S), (CG) RarFtrPl (LV7~S), (CG) RarFtPl2 (LV5~7)",
+      "T",
+      "(CF) FgtrPln2 (LV9~S), (CF) RarFtrPl (LV7~S), (CF) RarFtPl2 (LV5~7), Chip Order",
+      "Y",
+      "FgtrPln2 (LV9~S)"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AirRaid2"
+  },
+  {
+    "codes": [
+      "N",
+      "(CG) FgtrPln3 (LV9~S), (CG) RarFtPl2 (LV7~S)",
+      "U",
+      "(CF) FgtrPln3 (LV9~S), (CF) RarFtPl2 (LV7~S), Chip Order",
+      "Z",
+      "FgtrPln3 (LV9~S)"
+    ],
+    "traders": ["Green Town"],
+    "name": "AirRaid3"
+  },
+  {
+    "codes": [
+      "F",
+      "AprtcFld, ACDC Area GMD",
+      "G",
+      "Mr. Weather Comp 2 GMD, Chip Order",
+      "H",
+      "Seaside Area 3 NetMerchant (8800z)"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "TimeBom1"
+  },
+  {
+    "codes": [
+      "C",
+      "(JP)(LC) Graveyard 1 GMD",
+      "D",
+      "Pavilion Comp 2 GMD, Chip Order",
+      "E",
+      "Sky Areas / Mr. Weather Comps / ACDC Areas BGMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "TimeBom2"
+  },
+  {
+    "codes": [
+      "L",
+      "(GBA-EN) Undernet Zero NetMerchant (15200z), (JP)(LC) Graveyard 1 BMD, Chip Order",
+      "M",
+      "Lotto Number (23722234), ACDC Area / Undernet Zero YMD",
+      "N",
+      "Chip Trading (Green Town Court Foyer)"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "TimeBom3"
+  },
+  {
+    "codes": [
+      "A",
+      "Trader only",
+      "S",
+      "Sky Area 1 BugFrag Trader (36BF), Chip Order",
+      "T",
+      "(JP)(LC) Undernet 3 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Mine"
+  },
+  {
+    "codes": [
+      "P",
+      "(CG) Trumpy (LV5~7), JudgeTree Comp 1 GMD",
+      "S",
+      "(CF) Trumpy (LV5~7)",
+      "Z",
+      "Trumpy (LV7~S), Chip Order",
+      "✱",
+      "AprtcFld (Trader only otherwise)"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Fanfare"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) Tuby (LV5~7)",
+      "G",
+      "(CG) Tuby (LV5~7)",
+      "S",
+      "Tuby (LV7~S), Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": [
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Discord"
+  },
+  {
+    "codes": [
+      "I",
+      "(CG) Tromby (LV5~7)",
+      "O",
+      "(CF) Tromby (LV5~7)",
+      "T",
+      "Tromby (LV7~S), Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": [
+      "ACDC Town (JP: No ✱)",
+      "Green Town"
+    ],
+    "name": "Timpani"
+  },
+  {
+    "codes": [
+      "B",
+      "(CF) MuteAnt (LV7~S)",
+      "R",
+      "(CG) MuteAnt (LV7~S)",
+      "W",
+      "MuteAnt (LV5~7), Chip Order",
+      "✱",
+      "Trader only"
+    ],
+    "traders": ["Green Town"],
+    "name": "Silence"
+  },
+  {
+    "codes": [
+      "F",
+      "Undernet Zero BMD",
+      "N",
+      "Trader only",
+      "S",
+      "Underground BGMD",
+      "✱",
+      "Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "VDoll"
+  },
+  {
+    "codes": [
+      "O",
+      "Punish Chair Comp PMD, Sky Areas YMD, \"Yai's Pride\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Guardian"
+  },
+  {
+    "codes": [
+      "P",
+      "(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard PMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Anubis"
+  },
+  {
+    "codes": [
+      "A",
+      "LanFldr, GiftFldr, Chip Order",
+      "D",
+      "Trader only",
+      "L",
+      "LanFldr",
+      "✱",
+      "Central Area 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov10"
+  },
+  {
+    "codes": [
+      "E",
+      "Chip Order",
+      "L",
+      "Trader only",
+      "Q",
+      "Central Area 3 GMD",
+      "✱",
+      "Central Area 2 NetMerchant (1000z), Robot Control Comp 2 BMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov30"
+  },
+  {
+    "codes": [
+      "C",
+      "ExpoFldr, Seaside Area 1 GMD, Chip Order",
+      "M",
+      "Trader only",
+      "P",
+      "Trader only",
+      "✱",
+      "Aquarium Comp 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov50"
+  },
+  {
+    "codes": [
+      "H",
+      "Aquarium Comp 3 GMD, Chip Order",
+      "K",
+      "Seaside Area 3 NetMerchant (3000z)",
+      "V",
+      "Green Area 1 GMD",
+      "✱",
+      "AprtcFld, JudgeTree Comp 2 GMD, Sky Area 2 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov80"
+  },
+  {
+    "codes": [
+      "F",
+      "Mr. Weather Comp 3 BMD",
+      "P",
+      "Pavilion Comp 1 GMD, Chip Order",
+      "S",
+      "Undernet 1 GMD"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov120"
+  },
+  {
+    "codes": [
+      "J",
+      "Trader only",
+      "M",
+      "(JP)(LC) Undernet 2 BMD / (GBA-EN) Undernet Zero BMD, Chip Order",
+      "T",
+      "(JP)(LC) Undernet 3 GMD"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Recov150"
+  },
+  {
+    "codes": [
+      "I",
+      "Trader only",
+      "Q",
+      "(JP)(LC) Graveyard 1 GMD",
+      "Z",
+      "Pavilion Comp 1 BMD, Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "Recov200"
+  },
+  {
+    "codes": [
+      "J",
+      "Graveyard BGMD, Chip Order",
+      "O",
+      "Trader only",
+      "Y",
+      "Lotto Number (75641392)"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Recov300"
+  },
+  {
+    "codes": [
+      "✱",
+      "Seaside Area 3 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "PanlGrab"
+  },
+  {
+    "codes": [
+      "B",
+      "Robot Control Comp 1 GMD",
+      "F",
+      "Sky Area 1 GMD",
+      "S",
+      "LanFldr, ExpoFldr, Chip Order",
+      "✱",
+      "ExptFldr, SoulFldr, Request BBS \"OfficialRequest\""
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AreaGrab"
+  },
+  {
+    "codes": [
+      "B",
+      "Trader only",
+      "M",
+      "Mr. Weather Comp 2 GMD",
+      "S",
+      "Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "GrabBnsh"
+  },
+  {
+    "codes": [
+      "I",
+      "Chip Trading (Water Machine Comp)",
+      "Q",
+      "Sky Area 1 BugFrag Trader (65BF)",
+      "Z",
+      "Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "GrabRvng"
+  },
+  {
+    "codes": [
+      "✱",
+      "JudgeTree Comp 1 GMD, Seaside Area 2 BMD, Undernet 1 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "PnlRetrn"
+  },
+  {
+    "codes": [
+      "A",
+      "Chip Trading (Aquarium HP), Chip Order",
+      "L",
+      "(JP) Virus Battler V3",
+      "R",
+      "Trader only",
+      "✱",
+      "Lotto Number (38116449)"
+    ],
+    "traders": ["Green Town (No ✱)"],
+    "name": "Geddon"
+  },
+  {
+    "codes": [
+      "A",
+      "Green Area 2 BMD, Chip Order",
+      "B",
+      "Trader only",
+      "S",
+      "Pavilion Comp 2 GMD",
+      "✱",
+      "Trader only"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "HolyPanl"
+  },
+  {
+    "codes": [
+      "Z",
+      "(GBA-EN) Undernet Zero NetMerchant (15200z), (JP)(LC) Immortal Area BMD, Undernet 2 / Underground YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Snctuary"
+  },
+  {
+    "codes": [
+      "✱",
+      "ExptFldr, JudgeTree Comp 1 BMD, Undernet Zero GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town",
+      "Chip Order"
+    ],
+    "name": "ComingRd"
+  },
+  {
+    "codes": [
+      "✱",
+      "Dog House Comp BMD, Undernet 1 GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town",
+      "Chip Order"
+    ],
+    "name": "GoingRd"
+  },
+  {
+    "codes": [
+      "A",
+      "Trader only",
+      "B",
+      "Chip Order",
+      "G",
+      "Trader only",
+      "✱",
+      "Asterland Mr. Famous (5800z)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "SloGauge"
+  },
+  {
+    "codes": [
+      "E",
+      "Trader only",
+      "M",
+      "ACDC Area NetMerchant (12000z), Chip Order",
+      "R",
+      "Trader only",
+      "✱",
+      "Request BBS \"Find The Virus!\""
+    ],
+    "traders": [
+      "Sky Town (No ✱)",
+      "Green Town (No ✱)"
+    ],
+    "name": "FstGauge"
+  },
+  {
+    "codes": [
+      "✱",
+      "Asterland normal stock (7800z), \"Yai's Pride\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["Sky Town"],
+    "name": "FullCust"
+  },
+  {
+    "codes": [
+      "✱",
+      "LanFldr, ExpoFldr, SoulFldr, Seaside Area 2 GMD, Chip Order"
+    ],
+    "traders": [
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BusterUp"
+  },
+  {
+    "codes": [
+      "K",
+      "Chip Order",
+      "P",
+      "Oxygen Tank Comp PMD",
+      "Z",
+      "Trader only",
+      "✱",
+      "(EN) Virus Battler V3, (JP)(LC) \"Dad's Debug Techniques\" e-Reader Item Card"
+    ],
+    "traders": ["Green Town (No ✱)"],
+    "name": "BugFix"
+  },
+  {
+    "codes": [
+      "✱",
+      "AprtcFld, Aquarium Comp 2 GMD, Mr. Weather Comp 1 GMD, Seaside Area 2 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Invisibl"
+  },
+  {
+    "codes": [
+      "A",
+      "Central Area 1 GMD",
+      "F",
+      "Trader only",
+      "R",
+      "Chip Order",
+      "✱",
+      "Robot Control Comp 1 GMD"
+    ],
+    "traders": [
+      "AsterLand (JP: No ✱)",
+      "ACDC Town (JP: No ✱)",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Barrier"
+  },
+  {
+    "codes": [
+      "H",
+      "Seaside Area 3 NetMerchant (3800z), JudgeTree Comp 3 GMD, Water Machine Comp BMD",
+      "O",
+      "AprtcFld, Mr. Weather Comp 3 GMD",
+      "Y",
+      "Pavilion Comp 1 GMD, Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Barr100"
+  },
+  {
+    "codes": [
+      "K",
+      "(GBA-EN) Undernet Zero NetMerchant (11200z), (JP)(LC) Undernet 3 BMD",
+      "U",
+      "Trader only",
+      "W",
+      "Chip Order"
+    ],
+    "traders": ["Green Town"],
+    "name": "Barr200"
+  },
+  {
+    "codes": [
+      "I",
+      "Trader only",
+      "Q",
+      "Sky Area 1 BugFrag Trader (24BF), Chip Order",
+      "Z",
+      "Pavilion Comp 4 GMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "BblWrap"
+  },
+  {
+    "codes": [
+      "U",
+      "(GBA-EN) Undernet Zero NetMerchant (22400z), (JP)(LC) Undernet 3 PMD, Graveyard YMD, Chip Order, \"Wily's Ambition\" e-Reader Item Card"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "LifeAur"
+  },
+  {
+    "codes": [
+      "✱",
+      "ACDC Area GMD"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town",
+      "Chip Order"
+    ],
+    "name": "MagCoil"
+  },
+  {
+    "codes": [
+      "B",
+      "Sky Area 1 BMD",
+      "G",
+      "Trader only",
+      "R",
+      "Chip Order",
+      "✱",
+      "Lotto Number (44892547)"
+    ],
+    "traders": [
+      "Sky Town (No ✱)",
+      "Green Town (No ✱)"
+    ],
+    "name": "ColArmy"
+  },
+  {
+    "codes": [
+      "G",
+      "Trader only",
+      "S",
+      "Asterland Mr. Famous (10600z)",
+      "U",
+      "Chip Order",
+      "✱",
+      "Lotto Number (08789369)"
+    ],
+    "traders": [
+      "Sky Town (No ✱)",
+      "Green Town (No ✱)"
+    ],
+    "name": "ElemTrap"
+  },
+  {
+    "codes": [
+      "F",
+      "Trader only",
+      "L",
+      "Asterland Mr. Famous (9200z)",
+      "T",
+      "Trader only",
+      "✱",
+      "Request BBS \"OfficialRequest\", Chip Order"
+    ],
+    "traders": [
+      "Sky Town (No ✱)",
+      "Green Town (No ✱)"
+    ],
+    "name": "AntiNavi"
+  },
+  {
+    "codes": [
+      "G",
+      "Trader only",
+      "R",
+      "(JP) Virus Battler V2",
+      "V",
+      "Chip Order",
+      "✱",
+      "Underground BGMD"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AntiDmg"
+  },
+  {
+    "codes": [
+      "A",
+      "Green Areas / Judge Tree Comps BGMD",
+      "R",
+      "Chip Order",
+      "Z",
+      "Trader only",
+      "✱",
+      "Green Area 2 NetCafe (Ch. 7)"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "AntiSwrd"
+  },
+  {
+    "codes": [
+      "A",
+      "Trader only",
+      "F",
+      "Chip Order",
+      "V",
+      "Asterland Mr. Famous (6900z)",
+      "✱",
+      "Request BBS \"OfficialRequest\""
+    ],
+    "traders": [
+      "Sky Town (No ✱)",
+      "Green Town (No ✱)"
+    ],
+    "name": "AntiRecv"
+  },
+  {
+    "codes": [
+      "✱",
+      "LanFldr,ExptFldr, Fish Stick Shop Comp BMD, (JP)(LC) Class 1-2 Comp BMD / (GBA-EN) Stuffed Toy Shop Comp BMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "WhiCapsl"
+  },
+  {
+    "codes": [
+      "G",
+      "Lotto Number (97403000)",
+      "L",
+      "Asterland Mr. Famous (12000z)",
+      "R",
+      "Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Uninstll"
+  },
+  {
+    "codes": [
+      "✱",
+      "Central Area 2 BMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "CopyDmg"
+  },
+  {
+    "codes": [
+      "✱",
+      "Aquarium Comp 1 BMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "LifeSync"
+  },
+  {
+    "codes": [
+      "✱",
+      "LanFldr, ExpoFldr, GiftFldr, Central Area 2 GMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Atk+10"
+  },
+  {
+    "codes": [
+      "✱",
+      "ACDC Area PMD, Chip Order"
+    ],
+    "traders": ["Sky Town"],
+    "name": "Atk+30"
+  },
+  {
+    "codes": [
+      "✱",
+      "Undernet / Pavilion Comps BGMD, Chip Order"
+    ],
+    "traders": [
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "Navi+20"
+  },
+  {
+    "codes": [
+      "✱",
+      "Mr. Weather Comp 1 GMD, Air Conditioner Comp BMD, Chip Order"
+    ],
+    "traders": [
+      "AsterLand",
+      "ACDC Town",
+      "Sky Town",
+      "Green Town"
+    ],
+    "name": "ColorPt"
+  },
+  {
+    "codes": [
+      "✱",
+      "(JP)(LC) Immortal Area BGMD, (GBA-EN) Sky Area 2 BMD, \"Tab's Discounts\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["Sky Town"],
+    "name": "DblPoint"
+  },
+  {
+    "codes": [
+      "R",
+      "SoulFldr, Mailbox from Mayl (Ch. 1), \"Mayl's Treasure\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Request BBS \"Track The Crmnl\""
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "Roll"
+  },
+  {
+    "codes": [
+      "R",
+      "SoulFldr, Mailbox from Mayl (Ch. 5), \"Mayl's Treasure\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "Roll2"
+  },
+  {
+    "codes": [
+      "R",
+      "SoulFldr, Talk to Mayl in Lan's house (Ch. 7), \"Mayl's Treasure\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "Roll3"
+  },
+  {
+    "codes": [
+      "B",
+      "ProtoMan (LV1~S), ProtoManSP (LV1~7), \"Chaud's Mission\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Request BBS \"Track The Crmnl\""
+    ],
+    "traders": [
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)",
+      "Boktai Trader (10pt)"
+    ],
+    "name": "ProtoMan"
+  },
+  {
+    "codes": [
+      "B",
+      "ProtoManSP (LV5~10), \"Chaud's Mission\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader",
+      "Boktai Trader (20pt",
+      "30pt)"
+    ],
+    "name": "ProtoMnEX"
+  },
+  {
+    "codes": [
+      "B",
+      "ProtoManSP (LV9~S), Graveyard YMD, \"Chaud's Mission\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": [
+      "BugFrag Trader",
+      "Boktai Trader (50pt)"
+    ],
+    "name": "ProtoMnSP"
+  },
+  {
+    "codes": [
+      "H",
+      "(CG) HeatMan (LV1~S), (CG) HeatManSP (LV1~7), \"Mr. Match's Lesson Plans\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (12404002)",
+      "Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "HeatMan"
+  },
+  {
+    "codes": [
+      "H",
+      "(CG) HeatManEX (LV1~S), (CG) HeatManSP (LV5~10), \"Mr. Match's Lesson Plans\" e-Reader Item Card, Chip Order",
+      "Traders (CG): Green Town, BugFrag Trader",
+      "CG 009 HeatManSP",
+      "H",
+      "(CG) HeatManSP (LV9~S), \"Mr. Match's Lesson Plans\" e-Reader Item Card, Chip Order",
+      "Traders (CG): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "HeatManEX"
+  },
+  {
+    "codes": [
+      "E",
+      "(CG) ElecMan (LV1~S), (CG) ElecManSP (LV1~7), \"Ms. Zap's Bodyguard\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (30424514)",
+      "Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "ElecMan"
+  },
+  {
+    "codes": [
+      "E",
+      "(CG) ElecManEX (LV1~S), (CG) ElecManSP (LV5~10), \"Ms. Zap's Bodyguard\" e-Reader Item Card, Chip Order",
+      "Traders (CG): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "ElecManEX"
+  },
+  {
+    "codes": [
+      "E",
+      "(CG) ElecManSP (LV9~S), \"Ms. Zap's Bodyguard\" e-Reader Item Card, Chip Order",
+      "Traders (CG): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "ElecManSP"
+  },
+  {
+    "codes": [
+      "S",
+      "(CG) SlashMan (LV1~S), (CG) SlashMnSP (LV1~7), \"Ms. Fahran's Cutlery\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (55910601)",
+      "Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "SlashMan"
+  },
+  {
+    "codes": [
+      "S",
+      "(CG) SlashMnEX (LV1~S), (CG) SlashMnSP (LV5~10), \"Ms. Fahran's Cutlery\" e-Reader Item Card, Chip Order",
+      "Traders (CG): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "SlashMnEX"
+  },
+  {
+    "codes": [
+      "S",
+      "(CG) SlashMnSP (LV9~S), \"Ms. Fahran's Cutlery\" e-Reader Item Card, Chip Order",
+      "Traders (CG): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "SlashMnSP"
+  },
+  {
+    "codes": [
+      "K",
+      "(CG) EraseMan (LV1~S), (CG) EraseMnSP (LV1~7), \"Dark Scyth's Shady Business\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (84387543)",
+      "Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "EraseMan"
+  },
+  {
+    "codes": [
+      "K",
+      "(CG) EraseMnEX (LV1~S), (CG) EraseMnSP (LV5~10), \"Dark Scyth's Shady Business\" e-Reader Item Card, Chip Order",
+      "Traders (CG): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "EraseMnEX"
+  },
+  {
+    "codes": [
+      "K",
+      "(CG) EraseMnSP (LV9~S), \"Dark Scyth's Shady Business\" e-Reader Item Card, Chip Order",
+      "Traders (CG): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "EraseMnSP"
+  },
+  {
+    "codes": [
+      "C",
+      "(CG) ChrgeMan (LV1~S), (CG) ChrgeMnSP (LV1~7), \"Al's Boarding Ticket\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (92070765)",
+      "Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "ChrgeMan"
+  },
+  {
+    "codes": [
+      "C",
+      "(CG) ChrgeMnEX (LV1~S), (CG) ChrgeMnSP (LV5~10), \"Al's Boarding Ticket\" e-Reader Item Card, Chip Order",
+      "Traders (CG): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "ChrgeMnEX"
+  },
+  {
+    "codes": [
+      "C",
+      "(CG) ChrgeMnSP (LV9~S), \"Al's Boarding Ticket\" e-Reader Item Card, Chip Order",
+      "Traders (CG): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "ChrgeMnSP"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) AquaMan (LV1~S), (CF) AquaManSP (LV1~7), \"Shuko's Practicum\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (51702791)",
+      "Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "AquaMan"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) AquaManEX (LV1~S), (CF) AquaManSP (LV5~10), \"Shuko's Practicum\" e-Reader Item Card, Chip Order",
+      "Traders (CF): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "AquaManEX"
+  },
+  {
+    "codes": [
+      "A",
+      "(CF) AquaManSP (LV9~S), \"Shuko's Practicum\" e-Reader Item Card, Chip Order",
+      "Traders (CF): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "AquaManSP"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TmkhMan (LV1~S), (CF) TmkhManSP (LV1~7), \"Dingo's Battle Cry\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (67520179)",
+      "Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "TmhkMan"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TmkhManEX (LV1~S), (CF) TmkhManSP (LV5~10), \"Dingo's Battle Cry\" e-Reader Item Card, Chip Order",
+      "Traders (CF): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "TmhkManEX"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TmkhManSP (LV9~S), \"Dingo's Battle Cry\" e-Reader Item Card, Chip Order",
+      "Traders (CF): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "TmhkManSP"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TenguMan (LV1~S), (CF) TenguMnSP (LV1~7), \"Master Feng-Tian's Instruction\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (00297421)",
+      "Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "TenguMan"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TenguMnEX (LV1~S), (CF) TenguMnSP (LV5~10), \"Master Feng-Tian's Instruction\" e-Reader Item Card, Chip Order",
+      "Traders (CF): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "TenguMnEX"
+  },
+  {
+    "codes": [
+      "T",
+      "(CF) TenguMnSP (LV9~S), \"Master Feng-Tian's Instruction\" e-Reader Item Card, Chip Order",
+      "Traders (CF): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "TenguMnSP"
+  },
+  {
+    "codes": [
+      "G",
+      "(CF) GrndMan (LV1~S), (CF) GrndManSP (LV1~7), \"Moliarty's Drill Soul!\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (10414878)",
+      "Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "GrndMan"
+  },
+  {
+    "codes": [
+      "G",
+      "(CF) GrndManEX (LV1~S), (CF) GrndManSP (LV5~10), \"Moliarty's Drill Soul!\" e-Reader Item Card, Chip Order",
+      "Traders (CF): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "GrndManEX"
+  },
+  {
+    "codes": [
+      "G",
+      "(CF) GrndManSP (LV9~S), \"Moliarty's Drill Soul!\" e-Reader Item Card, Chip Order",
+      "Traders (CF): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "GrndManSP"
+  },
+  {
+    "codes": [
+      "D",
+      "(CF) DustMan(LV1~S), (CF) DustManSP (LV1~7), \"Mr. Press's Recycling\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Lotto Number (79814666)",
+      "Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)"
+    ],
+    "traders": [],
+    "name": "DustMan"
+  },
+  {
+    "codes": [
+      "D",
+      "(CF) DustManEX (LV1~S), (CF) DustManSP (LV5~10), \"Mr. Press's Recycling\" e-Reader Item Card, Chip Order",
+      "Traders (CF): Green Town, BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "DustManEX"
+  },
+  {
+    "codes": [
+      "D",
+      "(CF) DustManSP (LV9~S), \"Mr. Press's Recycling\" e-Reader Item Card, Chip Order",
+      "Traders (CF): BugFrag Trader"
+    ],
+    "traders": [],
+    "name": "DustManSP"
+  },
+  {
+    "codes": [
+      "B",
+      "BlastMan (LV1~S), BlastManSP (LV1~7), Chip Order",
+      "✱",
+      "Lotto Number (24616497)"
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "BlastMan"
+  },
+  {
+    "codes": [
+      "B",
+      "ExptFldr, BlastMnEX (LV1~S), BlastMnSP (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "BlastMnEX"
+  },
+  {
+    "codes": [
+      "B",
+      "BlastMnSP (LV9~S), Seaside Area YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "BlastMnSP"
+  },
+  {
+    "codes": [
+      "D",
+      "DiveMan (LV1~S), DiveManSP (LV1~7), Chip Order",
+      "✱",
+      "Lotto Number (32310827)"
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "DiveMan"
+  },
+  {
+    "codes": [
+      "D",
+      "ExptFldr, DiveManEX (LV1~S), DiveManSP (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "DiveManEX"
+  },
+  {
+    "codes": [
+      "D",
+      "DiveManSP (LV9~S), Green Areas YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "DiveManSP"
+  },
+  {
+    "codes": [
+      "C",
+      "CrcusMan (LV1~S), CrcusMnSP (LV1~7), Chip Order",
+      "✱",
+      "Request BBS \"An Experiment!\""
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "CrcusMan"
+  },
+  {
+    "codes": [
+      "C",
+      "ExptFldr, CrcusMnEX (LV1~S), CrcusMnSP (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "CrcusMnEX"
+  },
+  {
+    "codes": [
+      "C",
+      "CrcusMnSP (LV9~S), Sky Areas YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "CrcusMnSP"
+  },
+  {
+    "codes": [
+      "J",
+      "JudgeMan (LV1~S), JudgeMnSP (LV1~7), Chip Order",
+      "✱",
+      "Request BBS \"An Experiment!\""
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "JudgeMan"
+  },
+  {
+    "codes": [
+      "J",
+      "JudgeMnEX (LV1~S), JudgeMnSP (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "JudgeMnEX"
+  },
+  {
+    "codes": [
+      "J",
+      "JudgeMnSP (LV9~S), ACDC Area / Undernet 1 / Undernet 2 YMD"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "JudgeMnSP"
+  },
+  {
+    "codes": [
+      "E",
+      "ElmntMan (LV1~S), ElmntMnSP (LV1~7), Chip Order",
+      "✱",
+      "Request BBS \"An Experiment!\""
+    ],
+    "traders": [
+      "ACDC Town (No ✱)",
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)"
+    ],
+    "name": "ElmntMan"
+  },
+  {
+    "codes": [
+      "E",
+      "ElmntMnEX (LV1~S), ElmntMnSP (LV5~10), Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader"
+    ],
+    "name": "ElmntMnEX"
+  },
+  {
+    "codes": [
+      "E",
+      "ElmntMnSP (LV9~S), Undernet 2 / Underground YMD, Chip Order"
+    ],
+    "traders": ["BugFrag Trader"],
+    "name": "ElmntMnSP"
+  },
+  {
+    "codes": [
+      "C",
+      "ColonelEX (LV1~S), ColonelSP (LV1~7), \"Baryl's Faith\" e-Reader Item Card, Chip Order",
+      "✱",
+      "Request BBS \"Track The Crmnl\""
+    ],
+    "traders": [
+      "Green Town (No ✱)",
+      "BugFrag Trader (No ✱)",
+      "Boktai Trader (10pt)"
+    ],
+    "name": "Colonel"
+  },
+  {
+    "codes": [
+      "C",
+      "ColonelSP (LV5~10), \"Baryl's Faith\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": [
+      "Green Town",
+      "BugFrag Trader",
+      "Boktai Trader (20pt",
+      "30pt)"
+    ],
+    "name": "ColonelEX"
+  },
+  {
+    "codes": [
+      "C",
+      "ColonelSP (LV9~S), (JP)(LC) Undernet 3 / Immortal Area YMD, \"Baryl's Faith\" e-Reader Item Card, Chip Order"
+    ],
+    "traders": [
+      "BugFrag Trader",
+      "Boktai Trader (50pt)"
+    ],
+    "name": "ColonelSP"
+  },
+  {
+    "codes": [
+      "H",
+      "(JP)(LC) Complete Boktai Side Quest, (JP)(LC) CountEX (LV1~S), (JP)(LC) CountSP (LV1~7), (JP)(LC) Chip Order"
+    ],
+    "traders": ["Boktai Trader (20pt)"],
+    "name": "Count"
+  },
+  {
+    "codes": [
+      "H",
+      "(JP)(LC) CountSP (LV5~10), (JP)(LC) Chip Order"
+    ],
+    "traders": [
+      "Boktai Trader (10pt",
+      "20pt",
+      "30pt",
+      "50pt)"
+    ],
+    "name": "CountEX"
+  },
+  {
+    "codes": [
+      "H",
+      "(JP)(LC) CountSP (LV9~S), Graveyard YMD[1], (JP)(LC) Chip Order"
+    ],
+    "traders": [
+      "Boktai Trader (30pt",
+      "50pt)"
+    ],
+    "name": "CountSP"
+  },
+  {
+    "codes": [
+      "D",
+      "(JP)(LC) AprtcFld, (JP)(LC) Asterland normal stock (10000z), (JP)(LC) Chip Order",
+      "✱",
+      "Lotto Number (57656595)"
+    ],
+    "traders": [
+      "Boktai Trader (10pt",
+      "20pt)"
+    ],
+    "name": "Django"
+  },
+  {
+    "codes": [
+      "D",
+      "(JP)(LC) Sky Area BMD (behind fire), (JP)(LC) Chip Order"
+    ],
+    "traders": [
+      "Boktai Trader (20pt",
+      "30pt)"
+    ],
+    "name": "Django2"
+  },
+  {
+    "codes": [
+      "D",
+      "(JP) Virus Battler V5, (JP)(LC) Chip Order"
+    ],
+    "traders": [
+      "Boktai Trader (30pt",
+      "50pt)"
+    ],
+    "name": "Django3"
+  },
+  {
+    "codes": [
+      "F",
+      "(Gregar) Defeat Bass in (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard"
+    ],
+    "traders": [],
+    "name": "Bass"
+  },
+  {
+    "codes": [
+      "H",
+      "(Gregar) E-Mail after arriving in (JP)(LC) Graveyard 1 / (GBA-EN) Graveyard"
+    ],
+    "traders": [],
+    "name": "BigHook"
+  },
+  {
+    "codes": [
+      "Z",
+      "(Gregar) (JP)(LC) Graveyard 1 NetMerchant (30000z), (GBA-EN) Graveyard NetMerchant (30000z)"
+    ],
+    "traders": [],
+    "name": "DeltaRay"
+  },
+  {
+    "codes": [
+      "Q",
+      "(Gregar) Defeat BassBX in Underground 2"
+    ],
+    "traders": [],
+    "name": "ColForce"
+  },
+  {
+    "codes": [
+      "V",
+      "(Gregar) Sky Area 1 BugFrag Trader (100BF)"
+    ],
+    "traders": [],
+    "name": "BugRSwrd"
+  },
+  {
+    "codes": [
+      "F",
+      "(Falzar) (JP)(LC) Defeat Bass in (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard"
+    ],
+    "traders": [],
+    "name": "BassAnly"
+  },
+  {
+    "codes": [
+      "N",
+      "(Falzar) E-Mail after arriving in (JP)(LC) Graveyard 1 / (GBA-EN) Graveyard"
+    ],
+    "traders": [],
+    "name": "MetrKnuk"
+  },
+  {
+    "codes": [
+      "D",
+      "(Falzar) (JP)(LC) Graveyard 1 NetMerchant (30000z), (GBA-EN) Graveyard NetMerchant (30000z)"
+    ],
+    "traders": [],
+    "name": "CrossDiv"
+  },
+  {
+    "codes": [
+      "J",
+      "(Falzar) Defeat BassBX in Underground 2"
+    ],
+    "traders": [],
+    "name": "HubBatc"
+  },
+  {
+    "codes": [
+      "V",
+      "(Falzar) Sky Area 1 BugFrag Trader (100BF)"
+    ],
+    "traders": [],
+    "name": "BgDthThd"
+  },
+  {
+    "codes": [
+      "G",
+      "Chip Order"
+    ],
+    "traders": [
+      "Boktai Trader (30pt",
+      "50pt)"
+    ],
+    "name": "GunDelEX"
+  },
+  {
+    "codes": [
+      "O",
+      "Chip Order"
+    ],
+    "traders": ["Boktai Trader (50pt)"],
+    "name": "Otenko"
+  }
+]

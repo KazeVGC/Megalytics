@@ -1,0 +1,2172 @@
+001 Cannon
+
+A
+LanFldr, ExpoFldr, GiftFldr, Chip Order
+B
+LanFldr, ExpoFldr, GiftFldr
+C
+ExpoFldr, Robot Control Comp 1 GMD
+✱
+ExpoFldr, Robot Control Comp 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+002 HiCannon
+
+L
+ExpoFldr, Central Area 3 BMD, Aquarium Comp 1 GMD, Chip Order
+M
+Aquarium Comp 3 BMD, Green Area 1 GMD
+N
+Seaside Area 1 GMD
+✱
+JudgeTree Comp 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+003 M-Cannon
+
+R
+SoulFldr, Mr. Weather Comp 3 GMD, Chip Order
+S
+SoulFldr, Sky Area 2 BMD
+T
+SoulFldr, Aquarium Comp 3 GMD
+✱
+Mascot Comp BMD
+Traders: ACDC Town (JP: No ✱), Green Town
+004 AirShot
+
+✱
+LanFldr, GiftFldr, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town
+005 Vulcan1
+
+B
+Central Area 1 GMD
+D
+LanFldr, GiftFldr, Central Area 3 GMD, Chip Order
+S
+Trader only
+✱
+Robot Control Comp 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+006 Vulcan2
+
+D
+ExpoFldr, JudgeTree Comp 1 GMD, Seaside Area 2 BMD
+F
+Aquarium Comp 2 GMD, Chip Order
+L
+Green Area 1 GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+007 Vulcan3
+
+A
+Pavilion Comp 4 GMD, Sky HP BMD, Chip Order
+G
+Sky Area 2 GMD
+R
+Mr. Weather Comp 1 GMD, Seaside Areas YMD
+Traders: Green Town
+008 SuprVulc
+
+V
+(EN) Virus Battler V5, (JP)(LC) Underground 2 PMD, Green Areas YMD, "Tab's Discounts" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader
+009 Spreadr1
+
+L
+Central Area 2 NetMerchant (600z)
+M
+Robot Control Comp 1 BMD, Chip Order
+N
+Central Area 3 GMD
+✱
+Seaside Area 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+010 Spreadr2
+
+A
+Aquarium Comp 3 GMD
+B
+Green Area 2 GMD, Chip Order
+C
+Green Area 1 BMD
+✱
+JudgeTree Comp 3 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+011 Spreadr3
+
+Q
+Mr. Weather Comp 2 GMD
+R
+Request BBS "Want Meet Dghtr", Seaside Areas YMD, Chip Order
+S
+Mr. Weather Comp 1 BMD
+✱
+Pavilion Comp 1 BMD
+Traders: Green Town
+012 TankCan1
+
+A
+Catack (LV9~S), Chip Order
+G
+(CG) Catack (LV7~10)
+R
+(CF) Catack (LV7~10), Central Area 2 NetMerchant (2400z)
+Traders: AsterLand, ACDC Town, Sky Town
+013 TankCan2
+
+L
+Cateen (LV9~S), RarCatack (LV7~S), Chip Order
+S
+(CG) Cateen (LV7~10)
+V
+(CF) Cateen (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+014 TankCan3
+
+B
+Catpult (LV9~S), RarCatck2 (LV7~S), Chip Order
+M
+(CF) Catpult (LV7~10)
+P
+(CG) Catpult (LV7~10)
+Traders: Green Town
+015 GunDelS1
+
+C
+AprtcFld, Asterland normal stock (1000z)
+M
+Undernet Zero GMD
+T
+Underground 1 GMD, Chip Order
+✱
+Trader only
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Boktai Trader (10 pt)
+016 GunDelS2
+
+B
+Trader only
+E
+Pavilion Comp 2 BMD
+R
+(GBA-EN) AprtcFld, (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order
+Traders: ACDC Town, Sky Town, Green Town, Boktai Trader (10pt, 20pt)
+017 GunDelS3
+
+N
+(GBA-EN) Undernet Zero NetMerchant (12000), (JP)(LC) Immortal Area BGMD, Chip Order
+Q
+Green Areas YMD
+W
+Lotto Number (14212857)
+Traders: BugFrag Trader, Boktai Trader (20pt, 30pt, 50pt)
+018 YoYo
+
+L
+Central Area 2 NetMerchant (4600z)
+M
+Aquarium Comp 1 GMD, Chip Order
+N
+JudgeTree Comp 2 BMD
+✱
+Book Comp BMD
+Traders: AsterLand (JP: No ✱), Sky Town, Green Town
+019 FireBrn1
+
+F
+OldStov (LV7~10)
+G
+OldStov (LV9~S)
+H
+OldStov (LV5~7), Seaside Area 3 GMD, Chip Order
+✱
+RarOldSt (LV7~10)
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+020 FireBrn2
+
+S
+SoulFldr, OldHeatr (LV7~10), (CF) RarOldSt (LV9~S)
+T
+SoulFldr, OldHeatr (LV9~S), (CG) RarOldSt (LV9~S), RarOldS2 (LV7~10)
+U
+SoulFldr, OldHeatr (LV5~7), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+021 FireBrn3
+
+C
+OldBurnr (LV9~S), RarOldS2 (LV9~S)
+D
+OldBurnr (LV7~10)
+E
+OldBurnr (LV5~7), Chip Order
+Traders: Green Town
+022 WideSht
+
+P
+ExptFldr, Asterland normal stock (7000z)
+Q
+Underground 1 GMD, Chip Order
+R
+Underground 2 GMD
+Traders: Green Town
+023 TrnArrw1
+
+A
+Piranha (LV9~S), RarePira (LV5~10), Sky Area 1 GMD, Chip Order
+F
+(CF) Piranha (LV5~10)
+K
+(CG) Piranha (LV5~10)
+Traders: AsterLand, ACDC Town, Sky Town
+024 TrnArrw2
+
+G
+Piranha2 (LV9~S), RarePira (LV9~S), RarePira2 (LV5~10), Chip Order
+M
+(CG) Piranha2 (LV5~10)
+Z
+(CF) Piranha2 (LV5~10)
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+025 TrnArrw3
+
+M
+(CG) Piranha3 (LV9~S), (CG) RarePira2 (LV9~S), Chip Order
+S
+(CF) Piranha3 (LV9~S), (CF) RarePira2 (LV9~S)
+Y
+Piranha3 (LV5~10)
+Traders: Green Town
+026 BblStar1
+
+B
+(CF) StarFish (LV9~S), (CF) RarStrFs (LV7~10)
+E
+(CG) StarFish (LV9~S), (CG) RarStrFs (LV7~10), Underground 1 GMD
+T
+StarFish (LV5~10), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town
+027 BblStar2
+
+C
+ExptFldr, (CG) StarFsh2 (LV9~S), RarStrFs (LV9~S), RarStrF2 (LV7~10)
+L
+(CF) StarFsh2 (LV9~S)
+V
+StarFsh2 (LV7~10), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+028 BblStar3
+
+G
+(CG) StarFsh3 (LV9~S), (CG) RarStrF2 (LV9~S)
+R
+(CF) StarFsh3 (LV9~S), (CF) RarStrF2 (LV9~S)
+S
+StarFsh3 (LV7~10), Chip Order
+Traders: Green Town
+029 Thunder
+
+B
+Central Area 2 GMD
+R
+Chip Order
+S
+Aquarium Comp 1 GMD
+✱
+Class 6-1 Comp BMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+030 DolThdr1
+
+A
+ScarCrow (LV9~S), (CG) RarScrCr (LV5~7)
+E
+ScarCrow (LV7~10), (CF) RarScrCr (LV5~7), Sky Area 2 GMD, Chip Order
+Q
+ScarCrow (LV5~7)
+Traders: ACDC Town, Sky Town
+031 DolThdr2
+
+C
+ExptFldr, (CG) ScrCrow2 (LV9~S), (CG) RarScrCr (LV7~S), (CG) RarScrC2 (LV5~7)
+L
+(CF) ScrCrow2 (LV9~S), (CF) RarScrCr (LV7~S), (CF) RarScrC2 (LV5~7), Chip Order
+P
+ScrCrow2 (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+032 DolThdr3
+
+B
+(CG) ScrCrow3 (LV9~S), (CG) RarScrC2 (LV7~S)
+R
+(CF) ScrCrow3 (LV9~S), (CF) RarScrC2 (LV7~S), Chip Order
+V
+ScrCrow3 (LV7~10)
+Traders: Green Town
+033 ElcPuls1
+
+J
+PulsBulb (LV5~10), (CG) RarPsBlb (LV7~10), Chip Order
+L
+(CG) PulsBulb (LV9~S)
+S
+(CF) PulsBulb (LV9~S), (CF) RarPsBlb (LV7~10)
+Traders: ACDC Town, Sky Town
+034 ElcPuls2
+
+A
+(CF) PlsBulb2 (LV9~S), (CF) RarPsBlb (LV9~S), (CF) RarPsBl2 (LV7~10)
+E
+(CG) PlsBulb2 (LV9~S), (CG) RarPsBlb (LV9~S), (CG) RarPsBl2 (LV7~10), Chip Order
+J
+PlsBulb2 (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+035 ElcPuls3
+
+A
+PlsBulb3 (LV9~S), (CF) RarPsBl2 (LV9~S), Chip Order
+J
+PlsBulb3 (LV5~7)
+S
+PlsBulb3 (LV7~10), (CG) RarPsBl2 (LV9~S)
+Traders: Green Town
+036 CornSht1
+
+J
+BombCorn (LV7~10), (CF) RareCorn (LV5~10), Chip Order
+K
+BombCorn (LV5~7)
+L
+BombCorn (LV9~S), (CG) RareCorn (LV5~10), Underground 2 GMD
+Traders: AsterLand, ACDC Town, Sky Town
+037 CornSht2
+
+C
+MegaCorn (LV9~S), (CF) RareCorn (LV9~S), (CF) RarCorn2 (LV5~10), Chip Order
+D
+MegaCorn (LV7~10), (CG) RareCorn (LV9~S), (CG) RarCorn2 (LV5~10)
+E
+MegaCorn (LV5~7)
+Traders: ACDC Town, Sky Town, Green Town
+038 CornSht3
+
+P
+GigaCorn (LV7~10), (CF) RarCorn2 (LV9~S), Chip Order
+Q
+GigaCorn (LV5~7)
+R
+GigaCorn (LV9~S), (CG) RarCorn2 (LV9~S)
+Traders: Green Town
+039 RskyHny1
+
+B
+(CF) HonyBmbr (LV9~S), (CF) RarHnyBm (LV5~7)
+G
+(CG) HonyBmbr (LV9~S), (CG) RarHnyBm (LV5~7)
+S
+HonyBmbr (LV5~10), Mr. Weather Comp 3 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town
+040 RskyHny2
+
+C
+(CG) HnyBmbr2 (LV9~S), (CG) RarHnyBm (LV7~S), (CG) RarHyBm2 (LV5~7)
+R
+(CF) HnyBmbr2 (LV9~S), (CF) RarHnyBm (LV7~S), (CF) RarHyBm2 (LV5~7), Chip Order
+V
+HnyBmbr2 (LV5~10)
+Traders: ACDC Town, Sky Town, Green Town
+041 RskyHny3
+
+A
+HnyBmbr3 (LV9~S), (CF) RarHyBm2 (LV7~S), Chip Order
+D
+HnyBmbr3 (LV7~10), (CG) RarHyBm2 (LV7~S)
+M
+HnyBmbr3 (LV5~7)
+Traders: Green Town
+042 RlngLog1
+
+I
+(CF) Shrubby (LV9~S), (CF) RarShrby (LV5~10), Chip Order
+K
+(CG) Shrubby (LV9~S), (CG) RarShrby (LV5~10), Mr. Weather Comp 2 GMD
+P
+Shrubby (LV5~10)
+Traders: AsterLand, ACDC Town, Sky Town
+043 RlngLog2
+
+E
+(CF) Shrubby2 (LV9~S), (CF) RarShrby (LV9~S), (CF) RarShrb2 (LV5~10), Chip Order
+Q
+(CG) Shrubby2 (LV9~S), (CG) RarShrby (LV9~S), (CG) RarShrb2 (LV5~10)
+Z
+Shrubby2 (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+044 RlngLog3
+
+F
+(CF) Shrubby3 (LV9~S), (CF) RarShrb2 (LV9~S), Chip Order
+N
+(CG) Shrubby3 (LV9~S), (CG) RarShrb2 (LV9~S)
+W
+Shrubby3 (LV7~10)
+Traders: Green Town
+045 IronShl1
+
+J
+Armadill (LV7~10), RarArmdl (LV5~10), Chip Order
+K
+Armadill (LV5~7), ACDC Area GMD
+L
+Armadill (LV9~S)
+Traders: AsterLand, ACDC Town, Sky Town
+046 IronShl2
+
+C
+Armadil2 (LV9~S), RarArmdl (LV9~S), RarArmd2 (LV5~10), Chip Order
+D
+Armadil2 (LV7~10)
+E
+Armadil2 (LV5~7), (JP)(LC) Immortal Area GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+047 IronShl3
+
+L
+Armadil3 (LV9~S), RarArmd2 (LV9~S), Chip Order
+M
+Armadil3 (LV7~10)
+N
+Armadil3 (LV5~7)
+Traders: Green Town
+048 AuraHed1
+
+B
+HeadyA (LV9~S), RarHeady (LV5~7), Pavilion Comp 3 GMD
+C
+HeadyA (LV7~10), Chip Order
+D
+HeadyA (LV5~7)
+Traders: ACDC Town, Sky Town
+049 AuraHed2
+
+D
+HeadyH (LV9~S), RarHeady (LV7~S), RarHedy2 (LV5~7), (JP)(LC) Immortal Area GMD
+E
+HeadyH (LV7~10), Chip Order
+F
+HeadyH (LV5~7)
+Traders: ACDC Town, Green Town
+050 AuraHed3
+
+F
+HeadyW (LV7~10)
+G
+HeadyW (LV9~S), RarHedy2 (LV7~S), Chip Order
+H
+HeadyW (LV5~7)
+Traders: Green Town
+051 AirHocky
+
+L
+Sky Area 2 GMD, Chip Order
+M
+Chip Trading (Central Town)
+N
+Asterland normal stock (3800z)
+Traders: Sky Town, Green Town
+052 DrilArm
+
+G
+Asterland normal stock (5000z), Chip Order
+M
+Lotto Number (60884138)
+W
+Pavilion Comp 1 GMD
+Traders: Sky Town, Green Town
+053 Tornado
+
+L
+Aquarium HP PMD
+R
+Chip Order
+T
+Central Areas / Robot Control Comps BGMD
+Traders: Sky Town, Green Town
+054 Static
+
+G
+Trader only
+S
+Chip Order
+V
+(JP)(LC) Graveyard 1 NetMerchant (14600z), (GBA-EN) Graveyard NetMerchant (14600z)
+Traders: BugFrag Trader
+055 MachGun1
+
+A
+Gunner (LV9~S)
+R
+(CF) Gunner (LV7~10)
+T
+(CG) Gunner (LV7~10), Seaside Area 3 GMD, Chip Order
+✱
+JudgeTree Comp 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+056 MachGun2
+
+E
+Shooter (LV7~10)
+G
+(CF) Shooter (LV9~S), (CF) RareGnnr (LV5~S)
+S
+(CG) Shooter (LV9~S), (CG) RareGnnr (LV5~S), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+057 MachGun3
+
+B
+Sniper (LV9~S), RarGnnr2 (LV5~S)
+F
+(CG) Sniper (LV7~10)
+M
+(CF) Sniper (LV7~10), Chip Order
+Traders: Green Town
+058 MiniBomb
+
+B
+LanFldr
+L
+LanFldr, GiftFldr
+R
+Central Area 2 GMD
+✱
+Robot Control Comp 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+059 BigBomb
+
+O
+Chip Trading (Sky Town Op Room)
+P
+Request BBS "Stop Him!"
+V
+(GBA-EN) Asterland normal stock (9000z), Chip Order
+Traders: Sky Town, Green Town
+060 EnergBom
+
+C
+Robot Control Comp 2 GMD, Chip Order
+K
+ExpoFldr, Class 1-1 Comp BMD
+V
+Seaside Area 2 GMD
+✱
+JudgeTree Comp 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+061 MegEnBom
+
+G
+Sky Area 1 GMD, Chip Order
+M
+Seaside Areas / Aquarium Comps BGMD
+O
+Aquarium Comp 3 GMD, Green Area 2 GMD
+✱
+Mr. Weather Comp 3 GMD
+Traders: ACDC Town (JP: No ✱), Sky Town, Green Town
+062 FlshBom1
+
+J
+(CF) BigHat (HP ≤ 37.5%: LV5~10)
+L
+BigHat (LV9~S)
+Q
+BigHat (LV5~10) (CG: Any HP, CF: HP > 37.5%), Chip Order
+✱
+Trader only
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Green Town
+063 FlshBom2
+
+G
+(CG) BigHat2 (LV9~S), (CG) RarBgHat (LV7~S)
+K
+BigHat2 (LV7~10)
+R
+(CF) BigHat2 (LV9~S), (CF) RarBgHat (LV7~S), Chip Order
+Traders: Green Town
+064 FlshBom3
+
+H
+(CG) BigHat3 (LV7~10)
+P
+(CF) BigHat3 (LV7~10)
+S
+BigHat3 (LV9~S), RarBgHt2 (LV7~S), Chip Order
+Traders: Green Town
+065 BlkBomb
+
+B
+Pavilion Comp 1 GMD
+F
+Green HP PMD, Chip Order
+O
+Trader only
+Traders: Sky Town, Green Town
+066 BugBomb
+
+G
+Asterland Mr. Famous (8000z)
+S
+Trader only
+V
+Chip Order
+Traders: Green Town
+067 GrasSeed
+
+A
+Trader only
+F
+Trader only
+S
+Green Area 1 GMD, Chip Order
+✱
+SoulFldr, JudgeTree Comp 3 GMD, Undernet Zero GMD
+Traders: AsterLand (JP: No ✱), Sky Town
+068 IceSeed
+
+A
+Pipe Comp BMD
+L
+Trader only
+R
+Chip Order
+✱
+ExptFldr, ACDC HP BMD
+Traders: AsterLand (JP: No ✱), Sky Town
+069 PoisSeed
+
+H
+Trader only
+N
+Trader only
+P
+Sky Area 1 BugFrag Trader (48BF), Chip Order
+✱
+Trader only
+Traders: BugFrag Trader
+070 Sword
+
+H
+Trader only
+L
+Central Area 1 GMD
+S
+LanFldr, ExpoFldr, GiftFldr, SoulFldr, Chip Order
+✱
+ExptFldr, Aquarium Comp 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+071 WideSwrd
+
+H
+Trader only
+L
+Trader only
+S
+LanFldr, ExpoFldr, GiftFldr, SoulFldr, Central Area 2 GMD, Chip Order
+✱
+Aquarium Comp 2 GMD, Green Area 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+072 LongSwrd
+
+H
+Swordy (LV5~7), Robot Control Comp 2 GMD, Central Area 3 GMD
+L
+Swordy (LV9~S)
+S
+ExpoFldr, SoulFldr, Swordy (LV7~10), Chip Order
+✱
+Underground 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+073 WideBlde
+
+B
+ExptFldr, Seaside Area 3 PMD, Chip Order
+R
+Green Areas / Judge Tree Comps BGMD
+W
+Undernet 2 GMD
+Traders: Sky Town, Green Town
+074 LongBlde
+
+B
+ExptFldr, Pavilion Comp 4 BMD, Chip Order
+M
+Asterland normal stock (6200z)
+V
+(JP)(LC) Undernet 3 GMD
+Traders: Sky Town, Green Town
+075 FireSwrd
+
+F
+Swordy2 (LV9~S), RarSwrdy (LV7~S)
+O
+(CF) Swordy2 (LV7~10), JudgeTree Comp 3 GMD, Chip Order
+Z
+(CG) Swordy2 (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+076 AquaSwrd
+
+A
+Swordy3 (LV9~S), RarSwrdy2 (LV7~S), Pavilion Comp 4 GMD
+I
+(CG) Swordy3 (LV7~10), Chip Order
+Y
+(CF) Swordy3 (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+077 ElecSwrd
+
+E
+Central Area 3 PMD, (JP)(LC) Undernet 3 GMD
+K
+Chip Order
+N
+Trader only
+Traders: Sky Town, Green Town
+078 BambSwrd
+
+H
+Trader only
+S
+Chip Order
+W
+Seaside Area 3 NetMerchant (4200z)
+Traders: Sky Town, Green Town
+079 WindRack
+
+F
+ACDC Area NetMerchant (7200z), Chip Order
+J
+Trader only
+R
+(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD
+✱
+(JP) Virus Battler V4, (EN) Virus Battler V1
+Traders: Sky Town, Green Town
+080 StepSwrd
+
+B
+Lab's Comp 2 PMD
+L
+JudgeTree Comp 1 BMD
+P
+Undernet 1 GMD, Chip Order
+Traders: Sky Town, Green Town
+081 VarSwrd
+
+K
+Chip Order
+V
+ExptFldr, (JP)(LC) Immortal Area GMD (EN: Trader only otherwise)
+W
+ACDC HP PMD
+Traders: Sky Town, Green Town
+082 NeoVari
+
+N
+Sky Area 1 BugFrag Trader (80BF), Undernet 2 / Underground YMD, Chip Order
+Traders: BugFrag Trader
+083 MoonBld
+
+A
+(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order
+M
+Undernet / Pavilion Comps BGMD
+T
+Trader only
+Traders: Sky Town, Green Town
+084 Muramasa
+
+M
+Undernet 1 PMD, (JP)(LC) Undernet 3 / Immortal Area YMD, Chip Order
+Traders: BugFrag Trader
+085 MchnSwrd
+
+H
+(CF) DarkMech (LV9~S)
+L
+(CG) DarkMech (LV9~S), Chip Order
+Q
+DarkMech (LV7~10)
+Traders: Green Town
+086 ElemSwrd
+
+J
+(CG) ElecMech (LV9~S), (CG) RarDkMec (LV7~S)
+M
+(CF) ElecMech (LV9~S), (CF) RarDkMec (LV7~S), Chip Order
+U
+ElecMech (LV7~10)
+Traders: Green Town
+087 AssnSwrd
+
+N
+(CF) DoomMech (LV9~S), (CF) RarDkMc2 (LV5~S)
+R
+(CG) DoomMech (LV9~S), (CG) RarDkMc2 (LV5~S), Chip Order
+Y
+DoomMech (LV7~10)
+Traders: BugFrag Trader
+088 CrakShot
+
+A
+Chip Order
+G
+Trader only
+T
+Trader only
+✱
+LanFldr, GiftFldr
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town (JP: No ✱)
+089 DublShot
+
+C
+Chip Trading (Class 1-2)
+R
+Sky Area 1 GMD, Chip Order
+U
+Pavilion Comp 3 GMD
+✱
+ExpoFldr, Stuffed Toy Shop Comp BMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+090 TrplShot
+
+J
+Trader only
+L
+Seaside Area 3 GMD
+V
+Undernet 2 GMD, Chip Order
+✱
+Guide Panel Comp BMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+091 Rflectr1
+
+A
+Mettaur (LV9~S), Seaside Area 1 GMD, Chip Order
+C
+(CG) Mettaur (LV7~10)
+P
+(CF) Mettaur (LV7~10)
+✱
+RareMttar (CG: LV5~7, CF: LV5~10)
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town
+092 Rflectr2
+
+B
+(CG) Mettaur2 (LV9~S), Chip Order
+G
+(CF) Mettaur2 (LV9~S)
+Y
+Mettaur2 (LV5~10)
+✱
+RareMttar (CG: LV7~S, CF: LV5~7), RareMttr2 (CG: LV9~S, CF: LV5~10)
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+093 Rflectr3
+
+E
+(CG) Mettaur3 (LV9~S), Chip Order
+F
+(CF) Mettaur3 (LV9~S)
+O
+Mettaur3 (LV7~10)
+✱
+RareMttr2 (CG: LV7~S, CF: LV9~S)
+Traders: Green Town
+094 WaveArm1
+
+E
+Quaker (LV9~S)
+F
+AprtcFld, Quaker (LV7~10), Underground 1 GMD
+G
+Quaker (LV9~S), RareQuakr (LV5~10), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town
+095 WaveArm2
+
+L
+Shaker (LV9~S), RareQuakr (LV9~S), RarQuakr2 (LV5~10)
+M
+Shaker (LV9~S)
+N
+Shaker (LV7~10), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+096 WaveArm3
+
+R
+Breaker (LV9~S), RarQuakr2 (LV9~S)
+S
+Breaker (LV9~S)
+T
+Breaker (LV7~10), Chip Order
+Traders: Green Town
+097 SandWrm1
+
+A
+(CG) SnakeArm (LV9~S), (CG) RarSnkAr (LV7~10)
+G
+(CF) SnakeArm (LV9~S), (CF) RarSnkAr (LV7~10)
+L
+SnakeArm (LV9~S), Chip Order
+Traders: ACDC Town, Green Town
+098 SandWrm2
+
+B
+(CG) SnakeAr2 (LV9~S), (CG) RarSnkAr (LV9~S), (CG) RarSnkA2 (LV7~10)
+R
+(CF) SnakeAr2 (LV9~S), (CF) RarSnkAr (LV9~S), (CF) RarSnkA2 (LV7~10)
+Y
+SnakeAr2 (LV9~S), Chip Order
+Traders: Green Town
+099 SandWrm3
+
+H
+(CF) SnakeAr3 (LV9~S), (CF) RarSnkA2 (LV9~S)
+J
+SnakeAr3 (LV9~S)
+S
+(CG) SnakeAr3 (LV9~S), (CG) RarSnkA2 (LV9~S), Chip Order
+Traders: BugFrag Trader
+100 SumnBlk1
+
+E
+(CF) Nghtmare (LV9~S), Pavilion Comp 2 GMD
+I
+(CG) Nghtmare (LV9~S), Chip Order
+P
+Nghtmare (LV7~10)
+Traders: ACDC Town, Sky Town
+101 SumnBlk2
+
+H
+(CF) Blckmare (LV9~S), (CF) NghtRare (LV9~S)
+O
+Blckmare (LV7~10), Chip Order
+V
+(CG) Blckmare (LV9~S), (CG) NghtRare (LV9~S)
+Traders: ACDC Town, Green Town
+102 SumnBlk3
+
+W
+(CF) Darkmare (LV9~S), (CF) NghtRar2 (LV9~S)
+Y
+(CG) Darkmare (LV9~S), (CG) NghtRar2 (LV9~S), Chip Order
+Z
+Darkmare (LV7~10)
+Traders: Green Town
+103 Snake
+
+H
+Class 6-2 Comp PMD, Chip Order
+L
+Sky Areas / Mr. Weather Comps / ACDC Areas BGMD
+M
+(JP)(LC) Graveyard 1 GMD
+Traders: Sky Town, Green Town
+104 NumbrBl
+
+N
+Asterland normal stock (12600z), Sky Areas YMD, "Tab's Discounts" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader
+105 FireHit1
+
+D
+Champy (LV9~S), RarChampy (LV5~10)
+E
+Champy (LV5~7), Chip Order
+F
+Champy (LV7~10), Lab's Comp 1 BMD, Seaside Area 2 GMD
+Traders: AsterLand, ACDC Town, Sky Town
+106 FireHit2
+
+R
+SoulFldr, Chumpy (LV7~10), (CG) RarChampy (LV9~S), (CG) RarChmpy2 (LV5~10)
+S
+SoulFldr, Chumpy (LV9~S), (CF) RarChampy (LV9~S), (CF) RarChmpy2 (LV5~10), Chip Order
+T
+SoulFldr, Chumpy (LV5~7), Pavilion Comp 2 GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+107 FireHit3
+
+A
+Chimpy (LV9~S), RarChmpy2 (LV9~S)
+B
+Chimpy (LV7~10), Chip Order
+C
+Chimpy (LV5~7)
+Traders: Green Town
+108 BurnSqr1
+
+H
+(CG) HntdCndl (LV9~S), (CG) RarHntCd (LV5~7), Undernet 2 GMD, Chip Order
+P
+HntdCndl (LV5~10)
+V
+(CF) HntdCndl (LV9~S), (CF) RarHntCd (LV5~7)
+Traders: ACDC Town, Sky Town
+109 BurnSqr2
+
+D
+HntdCdl2 (LV9~S), RarHntCd (LV7~S), RarHntC2 (LV5~7), Chip Order
+M
+(CF) HntdCdl2 (LV5~10)
+T
+(CG) HntdCdl2 (LV5~10)
+Traders: ACDC Town, Green Town
+110 BurnSqr3
+
+E
+(CF) HntdCdl3 (LV9~S), (CF) RarHntC2 (LV7~S), Chip Order
+O
+(CG) HntdCdl3 (LV9~S), (CG) RarHntC2 (LV7~S)
+Z
+HntdCdl3 (LV7~10)
+Traders: Green Town
+111 Meteors
+
+R
+Graveyard BGMD, ACDC Area / Undernet Zero YMD, "Yai's Pride" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader
+112 AquaNdl1
+
+C
+Puffy (LV9~S), RarePufy (LV5~7), Mr. Weather Comp 1 GMD
+J
+(CF) Puffy (LV7~10)
+P
+(CG) Puffy (LV7~10), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town
+113 AquaNdl2
+
+F
+(CG) Puffy2 (LV9~S), (CG) RarePufy (LV7~S), (CG) RarPufy2 (LV5~7)
+K
+Puffy2 (LV7~10), Pavilion Comp 4 GMD, Chip Order
+T
+(CF) Puffy2 (LV9~S), (CF) RarePufy (LV7~S), (CF) RarPufy2 (LV5~7)
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+114 AquaNdl3
+
+A
+Puffy3 (LV9~S), RarPufy2 (LV7~S), Chip Order
+L
+(CF) Puffy3 (LV7~10)
+U
+(CG) Puffy3 (LV7~10)
+Traders: Green Town
+115 BlzrdBal
+
+H
+Lotto Number (97049899)
+N
+(JP)(LC) Undernet 3 / Immortal Area YMD
+T
+(JP)(LC) Graveyard 1 NetMerchant (18400z), (GBA-EN) Graveyard NetMerchant (18400z), Chip Order
+Traders: BugFrag Trader
+116 Sensor1
+
+J
+(CG) KillrEye (LV9~S), (CG) RarKllrEy (LV5~10)
+O
+(CF) KillrEye (LV9~S), (CF) RarKllrEy (LV5~10)
+W
+KillrEye (LV7~10), Chip Order
+Traders: ACDC Town, Sky Town
+117 Sensor2
+
+N
+(CF) DemonEye (LV9~S), (CF) RarKllrEy (LV9~S), (CF) RarKlrEy2 (LV5~10)
+U
+(CG) DemonEye (LV9~S), (CG) RarKllrEy (LV9~S), (CG) RarKlrEy2 (LV5~10)
+Y
+DemonEye (LV7~10), Chip Order
+Traders: ACDC Town, Green Town
+118 Sensor3
+
+I
+JokersEye (LV9~S), RarKlrEy2 (LV9~S)
+K
+(CG) JokersEye (LV7~10)
+Q
+(CF) JokersEye (LV7~10), Chip Order
+Traders: Green Town
+119 Boomer
+
+J
+AprtcFld, Central Areas / Robot Control Comps BGMD, Underground 2 GMD
+K
+Chip Order
+T
+JudgeTree Comp 2 GMD
+Traders: AsterLand, ACDC Town, Sky Town
+120 HiBoomer
+
+B
+ACDC Area NetMerchant (5000z)
+L
+(JP)(LC) Immortal Area GMD, Chip Order
+V
+Chip Trading (Aquarium bottom floor)
+Traders: Sky Town, Green Town
+121 M-Boomer
+
+I
+Trader only
+M
+Lotto Number (88674125)
+W
+(JP)(LC) Graveyard 1 NetMerchant (10000z), (GBA-EN) Graveyard NetMerchant (10000z), Chip Order
+Traders: BugFrag Trader
+122 Lance
+
+A
+Chip Order
+R
+Trader only
+W
+Green Area 1 PMD
+✱
+Lotto Number (69544569)
+Traders: Sky Town, Green Town
+123 HeatDrgn
+
+G
+(CG) ErthDrgn (LV9~S), (CG) WhteDrgn (LV9~S)
+R
+(CF) ErthDrgn (LV9~S), (CF) WhteDrgn (LV9~S), Chip Order
+T
+ErthDrgn (LV9~S)
+Traders: Green Town
+124 ElecDrgn
+
+A
+(CF) ThdrDrgn (LV9~S), (CF) BlckDrgn (LV9~S)
+L
+(CG) ThdrDrgn (LV9~S), (CG) BlckDrgn (LV9~S), Chip Order
+V
+ThdrDrgn (LV9~S)
+Traders: Green Town
+125 AquaDrgn
+
+H
+(CF) WatrDrgn (LV9~S), (CF) WhteDrgn (LV9~S)
+P
+WatrDrgn (LV9~S), Chip Order
+S
+(CG) WatrDrgn (LV9~S), (CG) WhteDrgn (LV9~S)
+Traders: Green Town
+126 WoodDrgn
+
+G
+(CG) WoodDrgn (LV9~S), (CG) BlckDrgn (LV9~S)
+T
+(CF) WoodDrgn (LV9~S), (CF) BlckDrgn (LV9~S), Chip Order
+V
+WoodDrgn (LV9~S)
+Traders: BugFrag Trader
+127 GolmHit1
+
+I
+(CF) Cragger (LV9~S)
+K
+(CG) Cragger (LV9~S), ACDC Area GMD, Chip Order
+Y
+Cragger (LV9~S)
+Traders: AsterLand, ACDC Town, Sky Town
+128 GolmHit2
+
+D
+(CF) MetlCrgr (LV9~S), (CF) RarCrggr (LV9~S)
+P
+ExptFldr, (CG) MetlCrgr (LV9~S), (CG) RarCrggr (LV7~S), (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard GMD, Chip Order
+U
+MetlCrgr (LV9~S)
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+129 GolmHit3
+
+H
+BigCrggr (LV9~S)
+M
+(CG) BigCrggr (LV9~S), (CG) RarCrgr2 (LV7~S), Chip Order
+V
+(CF) BigCrggr (LV9~S), (CF) RarCrgr2 (LV9~S)
+Traders: Green Town
+130 JustcOne
+
+J
+Chip Trading (ACDC HP), Chip Order
+Traders: BugFrag Trader
+131 AirSpin1
+
+F
+(JP) Virus Battler V1
+G
+Undernet Zero GMD
+R
+Seaside Areas / Aquarium Comps BGMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+132 AirSpin2
+
+A
+Undernet 2 GMD
+L
+Chip Trading (Air Conditioner Comp)
+T
+Chip Order
+Traders: Sky Town, Green Town
+133 AirSpin3
+
+N
+Trader only
+O
+Lotto Number (71757977)
+T
+(GBA-EN) Undernet Zero NetMerchant (12900z), (JP)(LC) Immortal Area BMD, Chip Order
+Traders: BugFrag Trader
+134 Wind
+
+✱
+WindBox (LV5~S), WindBox2 (LV5~S), RareBox (LV5~S), Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+135 Fan
+
+✱
+VacuumFn (LV5~S), VacuFan2 (LV5~S), Lab's Comp 1 BMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+136 Magnum
+
+F
+ACDC Area NetMerchant (8800z)
+L
+Pavilion Comp 3 GMD, Chip Order
+W
+Trader only
+Traders: Sky Town, Green Town
+137 CircGun
+
+P
+Underground 1 PMD
+T
+(JP)(LC) Graveyard 1 GMD, Chip Order
+V
+Lotto Number (51378085)
+Traders: Sky Town, Green Town
+138 RockCube
+
+✱
+Green Area 2 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+139 LilBolr1
+
+F
+(CF) Kettle (LV7~10), Chip Order
+K
+(CG) Kettle (LV7~10)
+L
+Kettle (LV9~S)
+Traders: AsterLand, ACDC Town, Sky Town
+140 LilBolr2
+
+E
+(CG) SuprKetl (LV9~S), Chip Order
+M
+(CF) SuprKetl (LV9~S)
+V
+SuprKetl (LV7~10)
+Traders: ACDC Town, Sky Town, Green Town
+141 LilBolr3
+
+G
+(CG) KettleDX (LV9~S), Chip Order
+S
+(CF) KettleDX (LV9~S)
+Z
+KettleDX (LV7~10)
+Traders: Green Town
+142 AirRaid1
+
+G
+(CG) FgtrPlne (LV9~S), (CG) RarFtrPl (LV5~7), Pavilion Comp 3 GMD
+K
+FgtrPlne (LV9~S), Chip Order
+R
+AprtcFld, (CF) FgtrPlne (LV9~S), (CF) RarFtrPl (LV5~7)
+Traders: ACDC Town, Sky Town
+143 AirRaid2
+
+O
+(CG) FgtrPln2 (LV9~S), (CG) RarFtrPl (LV7~S), (CG) RarFtPl2 (LV5~7)
+T
+(CF) FgtrPln2 (LV9~S), (CF) RarFtrPl (LV7~S), (CF) RarFtPl2 (LV5~7), Chip Order
+Y
+FgtrPln2 (LV9~S)
+Traders: ACDC Town, Sky Town, Green Town
+144 AirRaid3
+
+N
+(CG) FgtrPln3 (LV9~S), (CG) RarFtPl2 (LV7~S)
+U
+(CF) FgtrPln3 (LV9~S), (CF) RarFtPl2 (LV7~S), Chip Order
+Z
+FgtrPln3 (LV9~S)
+Traders: Green Town
+145 TimeBom1
+
+F
+AprtcFld, ACDC Area GMD
+G
+Mr. Weather Comp 2 GMD, Chip Order
+H
+Seaside Area 3 NetMerchant (8800z)
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+146 TimeBom2
+
+C
+(JP)(LC) Graveyard 1 GMD
+D
+Pavilion Comp 2 GMD, Chip Order
+E
+Sky Areas / Mr. Weather Comps / ACDC Areas BGMD
+Traders: Sky Town, Green Town
+147 TimeBom3
+
+L
+(GBA-EN) Undernet Zero NetMerchant (15200z), (JP)(LC) Graveyard 1 BMD, Chip Order
+M
+Lotto Number (23722234), ACDC Area / Undernet Zero YMD
+N
+Chip Trading (Green Town Court Foyer)
+Traders: BugFrag Trader
+148 Mine
+
+A
+Trader only
+S
+Sky Area 1 BugFrag Trader (36BF), Chip Order
+T
+(JP)(LC) Undernet 3 GMD
+Traders: Sky Town, Green Town
+149 Fanfare
+
+P
+(CG) Trumpy (LV5~7), JudgeTree Comp 1 GMD
+S
+(CF) Trumpy (LV5~7)
+Z
+Trumpy (LV7~S), Chip Order
+✱
+AprtcFld (Trader only otherwise)
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+150 Discord
+
+A
+(CF) Tuby (LV5~7)
+G
+(CG) Tuby (LV5~7)
+S
+Tuby (LV7~S), Chip Order
+✱
+Trader only
+Traders: ACDC Town (JP: No ✱), Sky Town, Green Town
+151 Timpani
+
+I
+(CG) Tromby (LV5~7)
+O
+(CF) Tromby (LV5~7)
+T
+Tromby (LV7~S), Chip Order
+✱
+Trader only
+Traders: ACDC Town (JP: No ✱), Green Town
+152 Silence
+
+B
+(CF) MuteAnt (LV7~S)
+R
+(CG) MuteAnt (LV7~S)
+W
+MuteAnt (LV5~7), Chip Order
+✱
+Trader only
+Traders: Green Town
+153 VDoll
+
+F
+Undernet Zero BMD
+N
+Trader only
+S
+Underground BGMD
+✱
+Chip Order
+Traders: Green Town
+154 Guardian
+
+O
+Punish Chair Comp PMD, Sky Areas YMD, "Yai's Pride" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader
+155 Anubis
+
+P
+(JP)(LC) Graveyard 2 / (GBA-EN) Graveyard PMD, Chip Order
+Traders: BugFrag Trader
+156 Recov10
+
+A
+LanFldr, GiftFldr, Chip Order
+D
+Trader only
+L
+LanFldr
+✱
+Central Area 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+157 Recov30
+
+E
+Chip Order
+L
+Trader only
+Q
+Central Area 3 GMD
+✱
+Central Area 2 NetMerchant (1000z), Robot Control Comp 2 BMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+158 Recov50
+
+C
+ExpoFldr, Seaside Area 1 GMD, Chip Order
+M
+Trader only
+P
+Trader only
+✱
+Aquarium Comp 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+159 Recov80
+
+H
+Aquarium Comp 3 GMD, Chip Order
+K
+Seaside Area 3 NetMerchant (3000z)
+V
+Green Area 1 GMD
+✱
+AprtcFld, JudgeTree Comp 2 GMD, Sky Area 2 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+160 Recov120
+
+F
+Mr. Weather Comp 3 BMD
+P
+Pavilion Comp 1 GMD, Chip Order
+S
+Undernet 1 GMD
+Traders: ACDC Town, Sky Town, Green Town
+161 Recov150
+
+J
+Trader only
+M
+(JP)(LC) Undernet 2 BMD / (GBA-EN) Undernet Zero BMD, Chip Order
+T
+(JP)(LC) Undernet 3 GMD
+Traders: ACDC Town, Sky Town, Green Town
+162 Recov200
+
+I
+Trader only
+Q
+(JP)(LC) Graveyard 1 GMD
+Z
+Pavilion Comp 1 BMD, Chip Order
+Traders: Green Town
+163 Recov300
+
+J
+Graveyard BGMD, Chip Order
+O
+Trader only
+Y
+Lotto Number (75641392)
+Traders: BugFrag Trader
+164 PanlGrab
+
+✱
+Seaside Area 3 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+165 AreaGrab
+
+B
+Robot Control Comp 1 GMD
+F
+Sky Area 1 GMD
+S
+LanFldr, ExpoFldr, Chip Order
+✱
+ExptFldr, SoulFldr, Request BBS "OfficialRequest"
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+166 GrabBnsh
+
+B
+Trader only
+M
+Mr. Weather Comp 2 GMD
+S
+Chip Order
+Traders: Sky Town, Green Town
+167 GrabRvng
+
+I
+Chip Trading (Water Machine Comp)
+Q
+Sky Area 1 BugFrag Trader (65BF)
+Z
+Chip Order
+Traders: Green Town
+168 PnlRetrn
+
+✱
+JudgeTree Comp 1 GMD, Seaside Area 2 BMD, Undernet 1 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+169 Geddon
+
+A
+Chip Trading (Aquarium HP), Chip Order
+L
+(JP) Virus Battler V3
+R
+Trader only
+✱
+Lotto Number (38116449)
+Traders: Green Town (No ✱)
+170 HolyPanl
+
+A
+Green Area 2 BMD, Chip Order
+B
+Trader only
+S
+Pavilion Comp 2 GMD
+✱
+Trader only
+Traders: Sky Town, Green Town
+171 Snctuary
+
+Z
+(GBA-EN) Undernet Zero NetMerchant (15200z), (JP)(LC) Immortal Area BMD, Undernet 2 / Underground YMD, Chip Order
+Traders: BugFrag Trader
+172 ComingRd
+
+✱
+ExptFldr, JudgeTree Comp 1 BMD, Undernet Zero GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town, Chip Order
+173 GoingRd
+
+✱
+Dog House Comp BMD, Undernet 1 GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town, Chip Order
+174 SloGauge
+
+A
+Trader only
+B
+Chip Order
+G
+Trader only
+✱
+Asterland Mr. Famous (5800z)
+Traders: Sky Town, Green Town
+175 FstGauge
+
+E
+Trader only
+M
+ACDC Area NetMerchant (12000z), Chip Order
+R
+Trader only
+✱
+Request BBS "Find The Virus!"
+Traders: Sky Town (No ✱), Green Town (No ✱)
+176 FullCust
+
+✱
+Asterland normal stock (7800z), "Yai's Pride" e-Reader Item Card, Chip Order
+Traders: Sky Town
+177 BusterUp
+
+✱
+LanFldr, ExpoFldr, SoulFldr, Seaside Area 2 GMD, Chip Order
+Traders: ACDC Town, Sky Town, Green Town
+178 BugFix
+
+K
+Chip Order
+P
+Oxygen Tank Comp PMD
+Z
+Trader only
+✱
+(EN) Virus Battler V3, (JP)(LC) "Dad's Debug Techniques" e-Reader Item Card
+Traders: Green Town (No ✱)
+179 Invisibl
+
+✱
+AprtcFld, Aquarium Comp 2 GMD, Mr. Weather Comp 1 GMD, Seaside Area 2 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+180 Barrier
+
+A
+Central Area 1 GMD
+F
+Trader only
+R
+Chip Order
+✱
+Robot Control Comp 1 GMD
+Traders: AsterLand (JP: No ✱), ACDC Town (JP: No ✱), Sky Town, Green Town
+181 Barr100
+
+H
+Seaside Area 3 NetMerchant (3800z), JudgeTree Comp 3 GMD, Water Machine Comp BMD
+O
+AprtcFld, Mr. Weather Comp 3 GMD
+Y
+Pavilion Comp 1 GMD, Chip Order
+Traders: Sky Town, Green Town
+182 Barr200
+
+K
+(GBA-EN) Undernet Zero NetMerchant (11200z), (JP)(LC) Undernet 3 BMD
+U
+Trader only
+W
+Chip Order
+Traders: Green Town
+183 BblWrap
+
+I
+Trader only
+Q
+Sky Area 1 BugFrag Trader (24BF), Chip Order
+Z
+Pavilion Comp 4 GMD
+Traders: Sky Town, Green Town
+184 LifeAur
+
+U
+(GBA-EN) Undernet Zero NetMerchant (22400z), (JP)(LC) Undernet 3 PMD, Graveyard YMD, Chip Order, "Wily's Ambition" e-Reader Item Card
+Traders: BugFrag Trader
+185 MagCoil
+
+✱
+ACDC Area GMD
+Traders: AsterLand, ACDC Town, Sky Town, Green Town, Chip Order
+186 ColArmy
+
+B
+Sky Area 1 BMD
+G
+Trader only
+R
+Chip Order
+✱
+Lotto Number (44892547)
+Traders: Sky Town (No ✱), Green Town (No ✱)
+187 ElemTrap
+
+G
+Trader only
+S
+Asterland Mr. Famous (10600z)
+U
+Chip Order
+✱
+Lotto Number (08789369)
+Traders: Sky Town (No ✱), Green Town (No ✱)
+188 AntiNavi
+
+F
+Trader only
+L
+Asterland Mr. Famous (9200z)
+T
+Trader only
+✱
+Request BBS "OfficialRequest", Chip Order
+Traders: Sky Town (No ✱), Green Town (No ✱)
+189 AntiDmg
+
+G
+Trader only
+R
+(JP) Virus Battler V2
+V
+Chip Order
+✱
+Underground BGMD
+Traders: Sky Town, Green Town
+190 AntiSwrd
+
+A
+Green Areas / Judge Tree Comps BGMD
+R
+Chip Order
+Z
+Trader only
+✱
+Green Area 2 NetCafe (Ch. 7)
+Traders: Sky Town, Green Town
+191 AntiRecv
+
+A
+Trader only
+F
+Chip Order
+V
+Asterland Mr. Famous (6900z)
+✱
+Request BBS "OfficialRequest"
+Traders: Sky Town (No ✱), Green Town (No ✱)
+192 WhiCapsl
+
+✱
+LanFldr,ExptFldr, Fish Stick Shop Comp BMD, (JP)(LC) Class 1-2 Comp BMD / (GBA-EN) Stuffed Toy Shop Comp BMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+193 Uninstll
+
+G
+Lotto Number (97403000)
+L
+Asterland Mr. Famous (12000z)
+R
+Chip Order
+Traders: Sky Town, Green Town
+194 CopyDmg
+
+✱
+Central Area 2 BMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+195 LifeSync
+
+✱
+Aquarium Comp 1 BMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+196 Atk+10
+
+✱
+LanFldr, ExpoFldr, GiftFldr, Central Area 2 GMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+197 Atk+30
+
+✱
+ACDC Area PMD, Chip Order
+Traders: Sky Town
+198 Navi+20
+
+✱
+Undernet / Pavilion Comps BGMD, Chip Order
+Traders: Sky Town, Green Town
+199 ColorPt
+
+✱
+Mr. Weather Comp 1 GMD, Air Conditioner Comp BMD, Chip Order
+Traders: AsterLand, ACDC Town, Sky Town, Green Town
+200 DblPoint
+
+✱
+(JP)(LC) Immortal Area BGMD, (GBA-EN) Sky Area 2 BMD, "Tab's Discounts" e-Reader Item Card, Chip Order
+Traders: Sky Town
+201 Roll
+
+R
+SoulFldr, Mailbox from Mayl (Ch. 1), "Mayl's Treasure" e-Reader Item Card, Chip Order
+✱
+Request BBS "Track The Crmnl"
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+202 Roll2
+
+R
+SoulFldr, Mailbox from Mayl (Ch. 5), "Mayl's Treasure" e-Reader Item Card, Chip Order
+Traders: Green Town, BugFrag Trader
+003 Roll3
+
+R
+SoulFldr, Talk to Mayl in Lan's house (Ch. 7), "Mayl's Treasure" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader
+004 ProtoMan
+
+B
+ProtoMan (LV1~S), ProtoManSP (LV1~7), "Chaud's Mission" e-Reader Item Card, Chip Order
+✱
+Request BBS "Track The Crmnl"
+Traders: Green Town (No ✱), BugFrag Trader (No ✱), Boktai Trader (10pt)
+005 ProtoMnEX
+
+B
+ProtoManSP (LV5~10), "Chaud's Mission" e-Reader Item Card, Chip Order
+Traders: Green Town, BugFrag Trader, Boktai Trader (20pt, 30pt)
+006 ProtoMnSP
+
+B
+ProtoManSP (LV9~S), Graveyard YMD, "Chaud's Mission" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader, Boktai Trader (50pt)
+007 HeatMan
+
+H
+(CG) HeatMan (LV1~S), (CG) HeatManSP (LV1~7), "Mr. Match's Lesson Plans" e-Reader Item Card, Chip Order
+✱
+Lotto Number (12404002)
+Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+008 HeatManEX
+
+H
+(CG) HeatManEX (LV1~S), (CG) HeatManSP (LV5~10), "Mr. Match's Lesson Plans" e-Reader Item Card, Chip Order
+Traders (CG): Green Town, BugFrag Trader
+CG 009 HeatManSP
+
+H
+(CG) HeatManSP (LV9~S), "Mr. Match's Lesson Plans" e-Reader Item Card, Chip Order
+Traders (CG): BugFrag Trader
+010 ElecMan
+
+E
+(CG) ElecMan (LV1~S), (CG) ElecManSP (LV1~7), "Ms. Zap's Bodyguard" e-Reader Item Card, Chip Order
+✱
+Lotto Number (30424514)
+Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+011 ElecManEX
+
+E
+(CG) ElecManEX (LV1~S), (CG) ElecManSP (LV5~10), "Ms. Zap's Bodyguard" e-Reader Item Card, Chip Order
+Traders (CG): Green Town, BugFrag Trader
+012 ElecManSP
+
+E
+(CG) ElecManSP (LV9~S), "Ms. Zap's Bodyguard" e-Reader Item Card, Chip Order
+Traders (CG): BugFrag Trader
+013 SlashMan
+
+S
+(CG) SlashMan (LV1~S), (CG) SlashMnSP (LV1~7), "Ms. Fahran's Cutlery" e-Reader Item Card, Chip Order
+✱
+Lotto Number (55910601)
+Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+014 SlashMnEX
+
+S
+(CG) SlashMnEX (LV1~S), (CG) SlashMnSP (LV5~10), "Ms. Fahran's Cutlery" e-Reader Item Card, Chip Order
+Traders (CG): Green Town, BugFrag Trader
+015 SlashMnSP
+
+S
+(CG) SlashMnSP (LV9~S), "Ms. Fahran's Cutlery" e-Reader Item Card, Chip Order
+Traders (CG): BugFrag Trader
+016 EraseMan
+
+K
+(CG) EraseMan (LV1~S), (CG) EraseMnSP (LV1~7), "Dark Scyth's Shady Business" e-Reader Item Card, Chip Order
+✱
+Lotto Number (84387543)
+Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+017 EraseMnEX
+
+K
+(CG) EraseMnEX (LV1~S), (CG) EraseMnSP (LV5~10), "Dark Scyth's Shady Business" e-Reader Item Card, Chip Order
+Traders (CG): Green Town, BugFrag Trader
+018 EraseMnSP
+
+K
+(CG) EraseMnSP (LV9~S), "Dark Scyth's Shady Business" e-Reader Item Card, Chip Order
+Traders (CG): BugFrag Trader
+019 ChrgeMan
+
+C
+(CG) ChrgeMan (LV1~S), (CG) ChrgeMnSP (LV1~7), "Al's Boarding Ticket" e-Reader Item Card, Chip Order
+✱
+Lotto Number (92070765)
+Traders (CG): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+020 ChrgeMnEX
+
+C
+(CG) ChrgeMnEX (LV1~S), (CG) ChrgeMnSP (LV5~10), "Al's Boarding Ticket" e-Reader Item Card, Chip Order
+Traders (CG): Green Town, BugFrag Trader
+021 ChrgeMnSP
+
+C
+(CG) ChrgeMnSP (LV9~S), "Al's Boarding Ticket" e-Reader Item Card, Chip Order
+Traders (CG): BugFrag Trader
+007 AquaMan
+
+A
+(CF) AquaMan (LV1~S), (CF) AquaManSP (LV1~7), "Shuko's Practicum" e-Reader Item Card, Chip Order
+✱
+Lotto Number (51702791)
+Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+008 AquaManEX
+
+A
+(CF) AquaManEX (LV1~S), (CF) AquaManSP (LV5~10), "Shuko's Practicum" e-Reader Item Card, Chip Order
+Traders (CF): Green Town, BugFrag Trader
+009 AquaManSP
+
+A
+(CF) AquaManSP (LV9~S), "Shuko's Practicum" e-Reader Item Card, Chip Order
+Traders (CF): BugFrag Trader
+010 TmhkMan
+
+T
+(CF) TmkhMan (LV1~S), (CF) TmkhManSP (LV1~7), "Dingo's Battle Cry" e-Reader Item Card, Chip Order
+✱
+Lotto Number (67520179)
+Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+011 TmhkManEX
+
+T
+(CF) TmkhManEX (LV1~S), (CF) TmkhManSP (LV5~10), "Dingo's Battle Cry" e-Reader Item Card, Chip Order
+Traders (CF): Green Town, BugFrag Trader
+012 TmhkManSP
+
+T
+(CF) TmkhManSP (LV9~S), "Dingo's Battle Cry" e-Reader Item Card, Chip Order
+Traders (CF): BugFrag Trader
+013 TenguMan
+
+T
+(CF) TenguMan (LV1~S), (CF) TenguMnSP (LV1~7), "Master Feng-Tian's Instruction" e-Reader Item Card, Chip Order
+✱
+Lotto Number (00297421)
+Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+014 TenguMnEX
+
+T
+(CF) TenguMnEX (LV1~S), (CF) TenguMnSP (LV5~10), "Master Feng-Tian's Instruction" e-Reader Item Card, Chip Order
+Traders (CF): Green Town, BugFrag Trader
+015 TenguMnSP
+
+T
+(CF) TenguMnSP (LV9~S), "Master Feng-Tian's Instruction" e-Reader Item Card, Chip Order
+Traders (CF): BugFrag Trader
+016 GrndMan
+
+G
+(CF) GrndMan (LV1~S), (CF) GrndManSP (LV1~7), "Moliarty's Drill Soul!" e-Reader Item Card, Chip Order
+✱
+Lotto Number (10414878)
+Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+017 GrndManEX
+
+G
+(CF) GrndManEX (LV1~S), (CF) GrndManSP (LV5~10), "Moliarty's Drill Soul!" e-Reader Item Card, Chip Order
+Traders (CF): Green Town, BugFrag Trader
+018 GrndManSP
+
+G
+(CF) GrndManSP (LV9~S), "Moliarty's Drill Soul!" e-Reader Item Card, Chip Order
+Traders (CF): BugFrag Trader
+019 DustMan
+
+D
+(CF) DustMan(LV1~S), (CF) DustManSP (LV1~7), "Mr. Press's Recycling" e-Reader Item Card, Chip Order
+✱
+Lotto Number (79814666)
+Traders (CF): ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+020 DustManEX
+
+D
+(CF) DustManEX (LV1~S), (CF) DustManSP (LV5~10), "Mr. Press's Recycling" e-Reader Item Card, Chip Order
+Traders (CF): Green Town, BugFrag Trader
+021 DustManSP
+
+D
+(CF) DustManSP (LV9~S), "Mr. Press's Recycling" e-Reader Item Card, Chip Order
+Traders (CF): BugFrag Trader
+022 BlastMan
+
+B
+BlastMan (LV1~S), BlastManSP (LV1~7), Chip Order
+✱
+Lotto Number (24616497)
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+023 BlastMnEX
+
+B
+ExptFldr, BlastMnEX (LV1~S), BlastMnSP (LV5~10), Chip Order
+Traders: Green Town, BugFrag Trader
+024 BlastMnSP
+
+B
+BlastMnSP (LV9~S), Seaside Area YMD, Chip Order
+Traders: BugFrag Trader
+025 DiveMan
+
+D
+DiveMan (LV1~S), DiveManSP (LV1~7), Chip Order
+✱
+Lotto Number (32310827)
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+026 DiveManEX
+
+D
+ExptFldr, DiveManEX (LV1~S), DiveManSP (LV5~10), Chip Order
+Traders: Green Town, BugFrag Trader
+027 DiveManSP
+
+D
+DiveManSP (LV9~S), Green Areas YMD, Chip Order
+Traders: BugFrag Trader
+028 CrcusMan
+
+C
+CrcusMan (LV1~S), CrcusMnSP (LV1~7), Chip Order
+✱
+Request BBS "An Experiment!"
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+029 CrcusMnEX
+
+C
+ExptFldr, CrcusMnEX (LV1~S), CrcusMnSP (LV5~10), Chip Order
+Traders: Green Town, BugFrag Trader
+030 CrcusMnSP
+
+C
+CrcusMnSP (LV9~S), Sky Areas YMD, Chip Order
+Traders: BugFrag Trader
+031 JudgeMan
+
+J
+JudgeMan (LV1~S), JudgeMnSP (LV1~7), Chip Order
+✱
+Request BBS "An Experiment!"
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+032 JudgeMnEX
+
+J
+JudgeMnEX (LV1~S), JudgeMnSP (LV5~10), Chip Order
+Traders: Green Town, BugFrag Trader
+033 JudgeMnSP
+
+J
+JudgeMnSP (LV9~S), ACDC Area / Undernet 1 / Undernet 2 YMD
+Traders: BugFrag Trader
+034 ElmntMan
+
+E
+ElmntMan (LV1~S), ElmntMnSP (LV1~7), Chip Order
+✱
+Request BBS "An Experiment!"
+Traders: ACDC Town (No ✱), Green Town (No ✱), BugFrag Trader (No ✱)
+035 ElmntMnEX
+
+E
+ElmntMnEX (LV1~S), ElmntMnSP (LV5~10), Chip Order
+Traders: Green Town, BugFrag Trader
+036 ElmntMnSP
+
+E
+ElmntMnSP (LV9~S), Undernet 2 / Underground YMD, Chip Order
+Traders: BugFrag Trader
+037 Colonel
+
+C
+ColonelEX (LV1~S), ColonelSP (LV1~7), "Baryl's Faith" e-Reader Item Card, Chip Order
+✱
+Request BBS "Track The Crmnl"
+Traders: Green Town (No ✱), BugFrag Trader (No ✱), Boktai Trader (10pt)
+038 ColonelEX
+
+C
+ColonelSP (LV5~10), "Baryl's Faith" e-Reader Item Card, Chip Order
+Traders: Green Town, BugFrag Trader, Boktai Trader (20pt, 30pt)
+039 ColonelSP
+
+C
+ColonelSP (LV9~S), (JP)(LC) Undernet 3 / Immortal Area YMD, "Baryl's Faith" e-Reader Item Card, Chip Order
+Traders: BugFrag Trader, Boktai Trader (50pt)
+040 Count
+
+H
+(JP)(LC) Complete Boktai Side Quest, (JP)(LC) CountEX (LV1~S), (JP)(LC) CountSP (LV1~7), (JP)(LC) Chip Order
+Traders: Boktai Trader (20pt)
+041 CountEX
+
+H
+(JP)(LC) CountSP (LV5~10), (JP)(LC) Chip Order
+Traders: Boktai Trader (10pt, 20pt, 30pt, 50pt)
+042 CountSP
+
+H
+(JP)(LC) CountSP (LV9~S), Graveyard YMD[1], (JP)(LC) Chip Order
+Traders: Boktai Trader (30pt, 50pt)
+043 Django
+
+D
+(JP)(LC) AprtcFld, (JP)(LC) Asterland normal stock (10000z), (JP)(LC) Chip Order
+✱
+Lotto Number (57656595)
+Traders: Boktai Trader (10pt, 20pt)
+044 Django2
+
+D
+(JP)(LC) Sky Area BMD (behind fire), (JP)(LC) Chip Order
+Traders: Boktai Trader (20pt, 30pt)
+045 Django3
+
+D
+(JP) Virus Battler V5, (JP)(LC) Chip Order
+Traders: Boktai Trader (30pt, 50pt)
+001 Bass
+
+F
+(Gregar) Defeat Bass in (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard
+002 BigHook
+
+H
+(Gregar) E-Mail after arriving in (JP)(LC) Graveyard 1 / (GBA-EN) Graveyard
+003 DeltaRay
+
+Z
+(Gregar) (JP)(LC) Graveyard 1 NetMerchant (30000z), (GBA-EN) Graveyard NetMerchant (30000z)
+004 ColForce
+
+Q
+(Gregar) Defeat BassBX in Underground 2
+005 BugRSwrd
+
+V
+(Gregar) Sky Area 1 BugFrag Trader (100BF)
+001 BassAnly
+
+F
+(Falzar) (JP)(LC) Defeat Bass in (JP)(LC) Graveyard 2 / (GBA-EN) Graveyard
+002 MetrKnuk
+
+N
+(Falzar) E-Mail after arriving in (JP)(LC) Graveyard 1 / (GBA-EN) Graveyard
+003 CrossDiv
+
+D
+(Falzar) (JP)(LC) Graveyard 1 NetMerchant (30000z), (GBA-EN) Graveyard NetMerchant (30000z)
+004 HubBatc
+
+J
+(Falzar) Defeat BassBX in Underground 2
+005 BgDthThd
+
+V
+(Falzar) Sky Area 1 BugFrag Trader (100BF)
+001 GunDelEX
+
+G
+Chip Order
+Traders: Boktai Trader (30pt, 50pt)
+002 Otenko
+
+O
+Chip Order
+Traders: Boktai Trader (50pt)
