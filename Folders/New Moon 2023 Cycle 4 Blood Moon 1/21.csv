@@ -1,0 +1,28 @@
+hunter,,,,,
+RockHxH#4779,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,Link to URL
+1,FullCust,*,[REG],FstBarr,SpeedMAX
+1,BblStar3,G,,Rush,HP+400
+1,Static,G,,UnderSht,HP+400
+1,WoodDrgn,G,,Custom2,Attack+1
+1,HeatDrgn,G,,,Attack+1
+1,MachGun1,*,,,Attack+1
+1,Uninstll,G,,,ChargMAX
+1,WindRack,*,,,
+3,AreaGrab,*,,,
+1,Snctuary,Z,,,
+1,GrabRvng,Z,,CellImage,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,WhiCapsl,*,,,
+1,AirRaid3,N,,,
+1,NeoVari,N,,,
+1,LifeAur,U,,,
+1,GrndManSP,G,,,
+1,ElmntMan,*,,,
+1,JudgeMan,*,,,
+1,EraseMan,*,,,
+1,TenguMan,*,,,
+1,MetrKnuk,N,,,

@@ -1,0 +1,23 @@
+Alpha,,,,,
+TheAlphaPlayer#4201,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,WindRack,*,[REG],SuprArmr,Link to URL
+2,SumnBlk3,Y,,Custom1,AttckMAX
+1,Snake,L,,UnderSht,Charge+1
+2,ElecDrgn,L,,AirShoes,Charge+1
+2,Recov300,Y,,,HP+400
+4,AreaGrab,*,,,HP+300
+1,GrabBnsh,B,,CellImage,
+2,Geddon,*,,,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,Uninstll,L,,,
+1,ProtoMnSP,B,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BugRSwrd,V,,,

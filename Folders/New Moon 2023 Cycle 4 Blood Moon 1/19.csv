@@ -1,0 +1,23 @@
+Symes,,,,,
+Symes#1970,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+3,GunDelS3,N,,Custom2,https://cdn.discordapp.com/attachments/374434248586952706/1079643350212292628/image.png
+1,BugFix,*,,Custom1,HP+400
+1,LifeAur,U,,SuprArmr,HP+400
+2,Geddon,*,,UnderSht,AttckMAX
+1,MachGun1,*,,,ChargMAX
+1,WindRack,*,,,SpeedMAX
+1,TenguMan,*,,CellImage,
+2,Recov300,Y,,,
+1,Uninstll,G,,,
+5,AreaGrab,*,,,
+1,AssnSwrd,N,,,
+2,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,NeoVari,N,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,MetrKnuk,N,,,

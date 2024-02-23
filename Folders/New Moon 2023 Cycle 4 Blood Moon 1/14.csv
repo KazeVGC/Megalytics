@@ -1,0 +1,27 @@
+Mr.President,,,,,
+Abdulai Sallah#2015,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,https://media.discordapp.net/attachments/961808247625515048/1079610838874337370/image.png
+2,ElemTrap,*,,Custom2,HP+300
+2,WoodDrgn,T,,Poem,AttckMAX
+2,Tornado,T,,UnderSht,ChargMAX
+1,Roll3,R,,,HP+400
+1,AirSpin3,T,,,SpeedMAX
+1,CircGun,T,,,HP+50
+4,AreaGrab,*,,,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+1,Barr200,U,,CellImage,
+1,LifeAur,U,,,
+1,WindRack,*,,,
+1,AntiNavi,*,[REG],,
+2,AntiDmg,*,,,
+1,MagCoil,*,[TAG],,
+1,AntiSwrd,*,[TAG],,
+1,HeatDrgn,T,,,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,MetrKnuk,N,,,

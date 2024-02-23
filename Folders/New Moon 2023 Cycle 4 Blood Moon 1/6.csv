@@ -1,0 +1,25 @@
+Soup,,,,,
+Soup#7517,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,Custom2,Link to URL
+1,AntiNavi,*,,Custom1,HP+500
+1,HolyPanl,*,,SuprArmr,HP+400
+1,JudgeMan,*,,UnderSht,AttckMAX
+4,AreaGrab,*,[TAG],,ChargMAX
+1,ElmntMan,*,,,
+2,Magnum,W,[REG],,
+1,LifeAur,U,,,
+1,TmhkManSP,T,,CellImage,
+1,SloGauge,*,[TAG],,
+1,Barr200,W,,,
+2,Recov300,O,,,
+1,ElmntMnSP,E,,,
+1,Snctuary,Z,,,
+2,AntiDmg,*,,,
+2,WindRack,*,,,
+3,Invisibl,*,,,
+1,EraseMan,*,,,
+1,GrabRvng,Q,,,
+1,GunDelS3,Q,,,
+1,ColForce,Q,,,

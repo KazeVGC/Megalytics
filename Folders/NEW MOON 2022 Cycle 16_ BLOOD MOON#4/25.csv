@@ -1,0 +1,24 @@
+SaekoMantis,,,,,
+SaekoMantis#9118,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GrabBnsh,B,[TAG],SuprArmr,Link to URL
+1,ProtoMnSP,B,,BugStop,HP+400
+1,ElcPuls1,J,,UnderSht,HP+400
+1,ElcPuls2,J,,Beat,ChargMAX
+1,ElcPuls3,J,,Custom1,Attack+1
+2,Recov300,J,,FstBarr,Attack+1
+1,JudgeMnSP,J,,,
+1,HubBatc,J,,CellImage,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+2,TrnArrw2,Z,,,
+1,GrabRvng,Z,,,
+3,WindRack,*,,,
+3,AreaGrab,*,[TAG],,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,Atk+30,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,[REG],,

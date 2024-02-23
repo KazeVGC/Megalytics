@@ -1,0 +1,24 @@
+osiahene,,,,,
+Yaw#9721,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GunDelS3,Q,[TAG],SuprArmr,pzcust
+2,WindRack,*,[TAG],Custom1,AttckMAX
+2,Recov300,J,,Custom2,ChargMAX
+5,AreaGrab,*,,UnderSht,HP+500
+1,GrabRvng,Q,,,HP+400
+1,PnlRetrn,*,,,
+1,Snctuary,Z,,,
+2,SloGauge,*,,CellImage,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,Barr200,K,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,Atk+30,*,,,
+1,EraseMan,*,,,
+1,EraseMnSP,K,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+1,ElmntMan,*,[REG],,
+1,ColForce,Q,,,

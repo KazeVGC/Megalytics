@@ -1,0 +1,25 @@
+Master,,,,,
+Master#0728,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,TrnArrw3,S,,ChpShufl,Link to URL
+2,BblStar3,S,,BugStop,ChargMAX
+2,AquaDrgn,S,,UnderSht,HP+300
+2,BambSwrd,S,,Custom1,HP+50
+1,RskyHny1,S,,SuprArmr,Speed+1
+1,FlshBom3,S,,,
+2,ElcPuls1,S,,,
+1,WindRack,*,,,
+1,NeoVari,N,,CellImage,
+2,Invisibl,*,,,
+1,AntiSwrd,*,,,
+2,AntiDmg,*,,,
+1,FullCust,*,[REG],,
+1,GrabBnsh,S,,,
+2,AreaGrab,*,[TAG],,
+2,IceSeed,*,[TAG],,
+1,SlashMnSP,S,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

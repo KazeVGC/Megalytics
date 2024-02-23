@@ -1,0 +1,27 @@
+LordEgil,,,,,
+LordEgil#3899,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GrabBnsh,M,,BugStop,Link to URL
+1,Geddon,*,[REG],SuprArmr,AttckMAX
+1,Atk+30,*,,AirShoes,HP+400
+1,Barr200,U,,UnderSht,Charge+1
+1,MachGun3,M,,Custom2,Charge+1
+2,WindRack,*,,,
+1,Rflectr3,*,,,
+1,Roll3,R,,,
+1,Meteors,R,,,
+3,AreaGrab,*,[TAG],,
+1,Snake,M,[TAG],CellImage,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,Muramasa,M,,,
+2,AntiDmg,*,,,
+2,WhiCapsl,*,,,
+1,Uninstll,R,,,
+1,GrndMan,*,,,
+1,MachGun1,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

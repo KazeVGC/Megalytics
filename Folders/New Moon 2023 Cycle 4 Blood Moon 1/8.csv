@@ -1,0 +1,27 @@
+playerzero,,,,,
+playerzero#2208,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,https://cdn.discordapp.com/attachments/616609999115780106/1079529515560210442/image.png
+1,Barr200,U,,Custom1,AttckMAX
+1,LifeAur,U,,Custom2,SpeedMAX
+1,AntiNavi,*,,UnderSht,ChargMAX
+1,Uninstll,L,,,HP+400
+1,Magnum,L,,,HP+400
+3,AntiDmg,*,,,
+1,MachGun1,*,,,
+1,BblStar2,L,,,
+1,TenguMan,*,,,
+1,ElmntMnSP,E,,CellImage,
+1,ElecDrgn,L,,,
+3,Invisibl,*,,,
+2,AreaGrab,*,,,
+2,PanlGrab,*,,,
+1,EraseMan,*,,,
+2,Recov300,Y,,,
+1,NeoVari,N,,,
+1,WindRack,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HiBoomer,L,,,
+1,MetrKnuk,N,,,

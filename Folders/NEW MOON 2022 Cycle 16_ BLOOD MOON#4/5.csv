@@ -1,0 +1,27 @@
+ChinaTV,,,,,
+ChinaTV#4720,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,LifeAur,U,,FldrPak1,Link to URL
+1,Roll3,R,,BugStop,AttckMAX
+1,AntiNavi,*,,FlotShoe,HP+500
+3,AreaGrab,*,,SuprArmr,Charge+1
+1,Atk+30,*,,UnderSht,Charge+1
+1,ColForce,Q,,Custom1,
+1,ElmntMnSP,E,,,
+1,EraseMnSP,K,,,
+1,JustcOne,J,,,
+1,GrabRvng,Q,[REG],,
+1,GunDelS3,Q,,CellImage,
+1,HolyPanl,*,,,
+3,Invisibl,*,,,
+1,JudgeMan,*,,,
+1,JudgeMnSP,J,,,
+2,AntiDmg,*,,,
+1,MachGun1,*,[TAG],,
+1,DblPoint,*,,,
+1,PnlRetrn,*,,,
+2,Recov300,J,,,
+1,SloGauge,*,,,
+1,TenguMan,*,,,
+2,WindRack,*,[TAG],,

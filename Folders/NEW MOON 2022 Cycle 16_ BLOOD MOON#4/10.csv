@@ -1,0 +1,26 @@
+Marvino,,,,,
+Marvino#8451,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,ChpShufl,Link to URL
+1,ElmntMnSP,E,,SuprArmr,HP+500
+1,ElmntMnEX,E,,UnderSht,Attack+1
+1,ElmntMan,*,,Custom1,Attack+1
+1,JudgeMan,*,,,SpeedMAX
+1,EraseMan,*,,,Attack+1
+1,WindRack,*,,,Attack+1
+1,HolyPanl,*,,,
+1,AntiNavi,*,,,
+1,LifeAur,U,,CellImage,
+1,Barr200,U,,,
+3,Invisibl,*,,,
+1,BugRSwrd,V,,,
+1,FullCust,*,[REG],,
+2,SloGauge,*,,,
+1,Snctuary,Z,,,
+1,GrabRvng,Z,,,
+5,AreaGrab,*,,,
+2,Recov300,Y,,,
+1,Fanfare,*,,,
+1,Uninstll,G,,,
+1,MachGun2,G,,,

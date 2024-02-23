@@ -1,0 +1,22 @@
+Rad Hatter,,,,,
+RadHatter#0739,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,GunDelS3,W,,Custom1,Link to URL
+2,WindRack,*,,SuprArmr,AttckMAX
+2,SumnBlk3,W,,AirShoes,ChargMAX
+2,Magnum,W,,UnderSht,HP+500
+5,AreaGrab,*,[TAG],Rush,
+1,GrabRvng,Z,[REG],BugStop,
+2,Geddon,*,,CellImage,
+1,Snctuary,Z,,,
+2,Invisibl,*,,,
+1,Barr200,W,[TAG],,
+1,LifeAur,U,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,TenguMan,*,,,
+1,GrndMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,Bass,F,,,

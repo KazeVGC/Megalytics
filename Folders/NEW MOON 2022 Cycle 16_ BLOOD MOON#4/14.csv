@@ -1,0 +1,27 @@
+Nonstopmop,,,,,
+NONSTOPMOP#1668,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MetrKnuk,N,,SuprArmr,Link to URL
+1,Guardian,O,,AntiDmg,ChargMAX
+1,NeoVari,N,,Custom2,Speed+1
+1,SlashMnSP,S,,FlotShoe,Speed+1
+1,TenguMnSP,T,,Poem,HP+400
+1,SumnBlk2,O,,,AttckMAX
+1,FlshBom3,P,,,
+1,GrabBnsh,M,[TAG],,
+1,Recov300,O,,,
+1,Anubis,P,,,
+2,PoisSeed,*,,CellImage,
+1,WindRack,*,[TAG],,
+1,Fan,*,,,
+1,Fanfare,*,,,
+3,PanlGrab,*,,,
+3,AreaGrab,*,,,
+1,FullCust,*,,,
+3,Invisibl,*,,,
+1,AntiNavi,*,,,
+1,AntiSwrd,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

@@ -1,0 +1,23 @@
+AHeroOverNight,,,,,
+AHeroOverNight#7672,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,SuprArmr,Link to URL
+1,Uninstll,R,,Custom1,AttckMAX
+1,LifeAur,U,,Custom2,SpeedMAX
+1,MachGun1,*,,UnderSht,ChargMAX
+1,AquaSwrd,A,,,HP+400
+3,WindRack,*,,,HP+400
+3,ElcPuls2,A,[TAG],CellImage,
+4,AreaGrab,*,[TAG],,
+1,FireHit3,A,,,
+1,ElecDrgn,A,,,
+1,NeoVari,N,,,
+3,Invisibl,*,,,
+3,AntiDmg,*,,,
+1,RskyHny3,A,,,
+1,SpoutMnSP,A,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,MetrKnuk,N,,,

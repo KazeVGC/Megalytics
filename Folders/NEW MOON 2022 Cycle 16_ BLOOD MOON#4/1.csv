@@ -1,0 +1,23 @@
+HonorNite,,,,,
+HonorNite#3819,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,WindRack,*,[REG],BugStop,Link to URL
+1,Barr200,U,,AirShoes,HP+500
+3,Invisibl,*,,SuprArmr,AttckMAX
+5,AreaGrab,*,,Custom2,Charge+1
+3,AntiDmg,*,,UnderSht,
+1,JudgeMan,*,,,
+1,EraseMan,*,,,
+1,GrndManSP,G,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,AntiNavi,*,,,
+2,Recov300,J,,CellImage,
+1,FullCust,*,,,
+2,SloGauge,*,,,
+1,LifeAur,U,,,
+1,GrabRvng,Q,,,
+1,GunDelS3,Q,[TAG],,
+1,PnlRetrn,*,[TAG],,
+1,ColForce,Q,,,

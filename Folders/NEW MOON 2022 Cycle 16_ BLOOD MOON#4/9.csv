@@ -1,0 +1,25 @@
+ShironaNep,,,,,
+ShironaNep#3074,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,BugFix,*,,Custom1,image
+3,FlshBom3,H,,SuprArmr,HP+500
+1,IceSeed,*,,UnderSht,AttckMAX
+2,WindRack,*,[REG],Custom2,HP+400
+1,MchnSwrd,H,,,ChargMAX
+1,Lance,*,,,
+2,AquaDrgn,H,,,
+3,AreaGrab,*,[TAG],,
+1,GrabBnsh,B,[TAG],CellImage,
+1,SloGauge,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,ElemTrap,*,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,HeatManSP,H,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BigHook,H,,,

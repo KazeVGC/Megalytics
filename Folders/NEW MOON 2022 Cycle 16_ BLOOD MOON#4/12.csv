@@ -1,0 +1,24 @@
+Buster Cannon,,,,,
+Buster Cannon 🥊#6127,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+5,AreaGrab,*,[TAG][TAG],Custom1,Link to URL
+2,WindRack,*,,UnderSht,ChargMAX
+1,PnlRetrn,*,,SuprArmr,AttckMAX
+1,LifeAur,U,,Tango,HP+500
+3,Invisibl,*,,BugStop,
+1,BigHook,H,,Rush,
+1,AntiNavi,*,,,
+1,FlshBom3,H,,CellImage,
+1,Barr100,H,,,
+2,AquaDrgn,H,,,
+2,SloGauge,*,[REG],,
+1,BambSwrd,H,,,
+2,AntiDmg,*,,,
+1,GolmHit3,H,,,
+1,EraseMan,*,,,
+1,TenguMan,*,,,
+1,Lance,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HeatManSP,H,,,

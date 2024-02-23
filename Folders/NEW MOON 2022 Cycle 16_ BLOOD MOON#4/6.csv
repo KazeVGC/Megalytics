@@ -1,0 +1,26 @@
+Master S1X,,,,,
+M_S1X#9012,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ColForce,Q,,SuprArmr,https://cdn.discordapp.com/attachments/1008764153005101148/1023625201851826266/unknown.png
+1,ElmntMan,*,,Custom1,AttckMAX
+1,JudgeMan,*,,UnderSht,ChargMAX
+1,GrndManSP,G,,,SpeedMAX
+1,EraseMnSP,K,,,HP+300
+1,EraseMan,*,,,HP+400
+1,Atk+30,*,,,HP+400
+1,Uninstll,G,,,
+1,AntiRecv,*,,,
+3,AntiDmg,*,,CellImage,
+1,LifeAur,U,,,
+1,Barr200,K,,,
+3,Invisibl,*,,,
+1,SloGauge,*,,,
+1,PnlRetrn,*,,,
+1,GrabRvng,Q,,,
+1,GrabBnsh,M,[TAG],,
+1,MoonBld,M,[TAG],,
+4,AreaGrab,*,,,
+2,WindRack,*,,,
+1,PoisSeed,*,[REG],,
+1,MachGun1,*,,,

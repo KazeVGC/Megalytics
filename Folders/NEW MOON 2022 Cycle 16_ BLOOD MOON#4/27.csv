@@ -1,0 +1,22 @@
+Neryth,,,,,
+Neryth#3411,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Uninstll,L,,Rush,Link to URL
+1,MachGun1,*,,BugStop,ChargMAX
+1,LifeAur,U,,Beat,HP+400
+2,SloGauge,*,,SuprArmr,Attack+1
+3,AntiSwrd,*,,Custom1,Attack+1
+1,AntiRecv,*,,UnderSht,Attack+1
+4,PanlGrab,*,,Custom2,
+5,AreaGrab,*,,,
+2,Geddon,*,,,
+1,SpoutMan,*,[REG],,
+1,EraseMan,*,,CellImage,
+1,ElmntMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMnSP,E,,,
+1,Snctuary,Z,,,
+1,WindRack,*,,,
+2,Recov300,J,,,
+1,MetrKnuk,N,,,

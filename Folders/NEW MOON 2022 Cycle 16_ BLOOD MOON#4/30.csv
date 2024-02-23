@@ -1,0 +1,24 @@
+WIMDY,,,,,
+NotDWaddler#4914,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,BblStar3,G,,UnderSht,Link to URL
+2,Static,G,[TAG],SuprArmr,HP+400
+2,MachGun2,G,,Rush,AttckMAX
+1,HeatDrgn,G,,Custom2,ChargMAX
+1,WoodDrgn,G,,SpeedMAX,HP+500
+4,AreaGrab,*,[TAG],,
+1,GrabRvng,Z,,,
+2,SloGauge,*,,CellImage,
+1,FullCust,*,[REG],,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,Uninstll,G,,,
+1,GrndManSP,G,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ElmntMnSP,E,,,
+1,BgDthThd,V,,,

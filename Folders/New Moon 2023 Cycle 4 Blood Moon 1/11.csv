@@ -1,0 +1,28 @@
+Rockin,,,,,
+ProjectPlayer015#4748,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,YoYo,*,,Beat,Link to URL
+1,BblStar2,L,,SuprArmr,ChargMAX
+1,ElcPuls2,J,,Shield,HP+300
+1,MachGun1,*,[TAG],BugStop,HP+400
+2,WindRack,*,,UnderSht,
+1,NeoVari,N,,Custom1,
+1,ElecDrgn,L,,Custom1,
+1,Magnum,L,,,
+2,Recov300,J,,,
+2,AreaGrab,*,,,
+1,GrabBnsh,B,,,
+2,FstGauge,*,[REG],CellImage,
+2,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,WhiCapsl,*,[TAG],,
+1,TenguMan,*,,,
+1,EraseMan,*,,,
+1,BlastMnSP,B,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,
