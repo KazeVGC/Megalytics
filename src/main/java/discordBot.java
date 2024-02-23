@@ -9,8 +9,7 @@ public class discordBot {
         //This is the LIVE Token. Use this when going live with the changes!
         final String TOKEN = ""; // INSERT TOKEN
     
-        //This is the Testbot Token. Only use it for Testing and comment out the first one!
-        //final String TOKEN = "MTExMDA5MTQwMTgwMDIwODQzNA.GqZ6cE.NVWlJwDQkJPSl6wQ6cFW1gRAUa6AsmeB2SOzTk";
+
         JDABuilder jdaBuilder = JDABuilder.createDefault(TOKEN);
 
 
