@@ -1,0 +1,27 @@
+Moneditasf,,,,,
+Moneditasf#2573,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,Vulcan3,G,,SuprArmr,Link to URL
+1,ElmntMnSP,E,,Custom1,Attack+1
+2,MachGun2,G,,FstBarr,SpeedMAX
+2,FlshBom2,G,,UnderSht,ChargMAX
+1,Uninstll,G,,BugStop,HP+300
+1,ProtoMnSP,B,,Beat,HP+400
+1,Anubis,P,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+1,SuprVulc,V,,,
+1,BgDthThd,V,,CellImage,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,,
+1,WindRack,*,,,
+4,AreaGrab,*,[TAG][TAG],,
+1,FstGauge,*,,,
+2,Invisibl,*,,,
+1,AntiNavi,*,,,
+2,AntiDmg,*,,,
+1,DblPoint,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,[REG],,

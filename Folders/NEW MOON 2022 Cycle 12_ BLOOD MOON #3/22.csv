@@ -1,0 +1,26 @@
+Nero,,,,,
+Nero.#5805,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,MachGun1,*,,SuprArmr,Link to URL
+1,RskyHny3,M,[TAG],Custom1,Attack+1
+2,IceSeed,*,,Custom2,Attack+1
+1,WindRack,*,[REG],UnderSht,Attack+1
+1,MoonBld,M,,BugStop,ChargMAX
+1,Muramasa,M,,Rush,HP+400
+1,ElemSwrd,M,,Beat,
+2,VDoll,*,,,
+3,AreaGrab,*,,,
+2,GrabBnsh,M,[TAG],CellImage,
+1,FstGauge,*,,,
+3,Invisibl,*,,,
+1,Barr200,U,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,TmhkManSP,T,,,
+1,TenguMnSP,T,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BassAnly,F,,,
+1,Uninstll,G,,,

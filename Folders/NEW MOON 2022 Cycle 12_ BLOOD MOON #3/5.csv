@@ -1,0 +1,26 @@
+weenie no whistle,,,,,
+weenie#1984,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,SpoutMnSP,A,,SuprArmr,https://i.imgur.com/3XdfGQq.png
+1,Muramasa,M,,BugStop,Attack+1
+2,Recov300,O,,Custom2,Attack+1
+1,MetrKnuk,N,,Millions,Charge+1
+1,GrndManSP,G,,,HP+300
+2,WindRack,*,,,Charge+1
+1,LifeAur,U,,,Charge+1
+1,BblStar3,S,,,Attack+1
+3,AreaGrab,*,,,Attack+1
+1,AquaDrgn,S,,,Attack+1
+1,Barr200,U,,,Charge+1
+1,GrabBnsh,S,[TAG],,
+1,RskyHny1,S,[TAG],,
+1,Barr100,Y,,,
+3,Invisibl,*,,CellImage,
+3,AntiDmg,*,,,
+1,Atk+30,*,,,
+1,DblPoint,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,IceSeed,*,[REG],,

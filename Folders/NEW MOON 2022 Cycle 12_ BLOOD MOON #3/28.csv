@@ -1,0 +1,20 @@
+Netmonmatt,,,,,
+Netmonmatt#7351,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+2,MachGun3,B,,BugStop,image
+3,FireHit3,B,,Custom2,HP+400
+4,HiBoomer,B,,Custom1,AttckMAX
+3,WindRack,*,[TAG],UnderSht,HP+50
+3,PanlGrab,*,,SuprArmr,ChargMAX
+2,AreaGrab,*,[TAG],Rush,Speed+1
+1,FullCust,*,[REG],,
+2,Invisibl,*,,,
+2,AntiDmg,*,,CellImage,
+2,WhiCapsl,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ProtoMnSP,B,,,
+1,BlastMnSP,B,,,
+1,MetrKnuk,N,,,

@@ -1,0 +1,24 @@
+fish,,,,,
+sashimi#1157,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,LifeAur,U,,SuprArmr,Link to URL
+1,Barr200,W,,Custom1,ChargMAX
+1,Uninstll,L,,Custom1,Speed+1
+1,WindRack,*,,UnderSht,HP+400
+2,GunDelS3,W,,Rush,HP+400
+2,SumnBlk3,W,,Beat,
+2,Magnum,W,,BugStop,
+1,TmhkManSP,T,,CellImage,
+1,TenguMnSP,T,,,
+2,Geddon,*,,,
+3,AreaGrab,*,[TAG],,
+2,FstGauge,*,,,
+1,FullCust,*,[TAG],,
+1,MachGun1,*,[REG],,
+3,Invisibl,*,,,
+2,AntiSwrd,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,HubBatc,J,,,

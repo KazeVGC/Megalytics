@@ -1,0 +1,22 @@
+LowTierGar,,,,,
+DR.TBB2#3787,,,,Gregar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GunDelS3,Q,,SuprArmr,Thankyousoul
+2,HeatDrgn,G,,Custom2,Charge+1
+1,WoodDrgn,G,,AirShoes,AttckMAX
+2,WindRack,*,[REG],UnderSht,HP+500
+2,Recov300,Y,,BugStop,
+5,AreaGrab,*,,CellImage,
+1,GrabRvng,Q,,,
+1,PnlRetrn,*,,,
+2,SloGauge,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+1,Uninstll,G,,,
+3,AntiDmg,*,,,
+1,EraseMan,*,,,
+1,GrndManSP,G,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,ColForce,Q,,,

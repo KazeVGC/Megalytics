@@ -1,0 +1,26 @@
+KayThree,,,,,
+K3#6963,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,ElmntMnSP,E,,SuprArmr,image
+1,Barr200,U,,UnderSht,Speed+1
+1,LifeAur,U,,FstBarr,HP+500
+1,SuprVulc,V,,,HP+400
+2,BblStar2,V,[TAG],,HP+400
+1,ElecDrgn,V,,,HP+300
+1,CircGun,V,,,
+1,BgDthThd,V,,,
+1,GrabRvng,Z,,,
+1,Snctuary,Z,,CellImage,
+1,BblWrap,Z,,,
+1,WindRack,*,,,
+5,AreaGrab,*,[TAG],,
+1,SloGauge,*,,,
+1,FullCust,*,[REG],,
+1,BugFix,*,,,
+3,Invisibl,*,,,
+2,AntiDmg,*,,,
+1,GrndMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,

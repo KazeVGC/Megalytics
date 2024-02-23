@@ -1,0 +1,22 @@
+Mauldren,,,,,
+Mauldren#4496,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,FullCust,*,,SuprArmr,Link to URL
+2,Invisibl,*,,BugStop,ChargMAX
+1,AntiNavi,*,[REG],UnderSht,HP+400
+2,AntiDmg,*,,Rush,HP+400
+1,GrabRvng,Z,,Custom1,Speed+1
+5,AreaGrab,*,[TAG],Custom1,
+2,PanlGrab,*,,Beat,
+1,LifeAur,U,,CellImage,
+2,AquaNdl3,A,,,
+2,ElcPuls3,A,,,
+2,FireHit3,A,,,
+3,RskyHny3,A,,,
+1,EraseMan,*,[TAG],,
+1,SpoutMnSP,A,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,TenguMan,*,,,
+1,CrossDiv,D,,,

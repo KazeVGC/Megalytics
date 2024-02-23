@@ -1,0 +1,26 @@
+TenguPNW,,,,,
+Tengu#8948,,,,Falzar,
+FOLDER,,,,NAVICUST,
+#,Chip Name,Code,Reg/Tag,Program Name,Link
+1,GunDelS2,R,,SuprArmr,sa1cust.PNG
+2,BblStar3,R,,Custom2,HP+400
+1,MachGun1,*,,Custom1,HP+400
+2,PoisSeed,*,,UnderSht,ChargMAX
+2,HeatDrgn,R,,BugStop,Speed+1
+1,Anubis,P,,Rush,
+1,PanlGrab,*,,,
+3,AreaGrab,*,,,
+1,GrabRvng,Z,,,
+1,Geddon,*,,CellImage,
+1,Snctuary,Z,,,
+1,SloGauge,*,,,
+3,Invisibl,*,,,
+1,LifeAur,U,,,
+2,AntiDmg,*,,,
+1,Uninstll,R,,,
+1,Roll3,R,,,
+1,TenguMan,*,,,
+1,EraseMan,*,,,
+1,JudgeMan,*,,,
+1,ElmntMan,*,,,
+1,BgDthThd,V,,,
